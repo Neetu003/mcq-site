@@ -1,0 +1,468 @@
+[
+  {
+    "q": "The ovulatory period corresponds to – (TN 90)",
+    "options": [
+      "14 days before menstruation",
+      "The day of menstruation",
+      "Increase in basal temperature",
+      "14 days after menstruation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ovulation usually occurs about 14 days before the next menstruation."
+  },
+  {
+    "q": "Gonadotrophin is a – (JIPMER 92)",
+    "options": [
+      "Steroid",
+      "Lipoprotein",
+      "Polypeptide",
+      "Glycoprotein"
+    ],
+    "answerIndex": 3,
+    "explanation": "FSH and LH are glycoprotein hormones."
+  },
+  {
+    "q": "Maximum function of corpus luteum occurs – (JIPMER 93)",
+    "options": [
+      "At ovulation",
+      "Before ovulation",
+      "3 days after ovulation",
+      "9 days after ovulation"
+    ],
+    "answerIndex": 3,
+    "explanation": "Corpus luteum reaches peak function about 8–9 days after ovulation."
+  },
+  {
+    "q": "The probable source of relaxin is – (JIPMER 91, DNB 89)",
+    "options": [
+      "Ovary",
+      "Adrenal cortex",
+      "Liver",
+      "Bartholins gland"
+    ],
+    "answerIndex": 0,
+    "explanation": "Relaxin is secreted mainly by the corpus luteum of the ovary."
+  },
+  {
+    "q": "Gonadotropins are – (JIPMER 78, Delhi 90)",
+    "options": [
+      "Proteins",
+      "Glycoproteins",
+      "Phospholipids",
+      "Polysaccharides"
+    ],
+    "answerIndex": 1,
+    "explanation": "FSH and LH are glycoproteins."
+  },
+  {
+    "q": "Ovulation occurs – (Kerala 94)",
+    "options": [
+      "14 days before next menstruation",
+      "14 days after menstruation",
+      "Within 16 hrs of LH surge",
+      "16 days before next menstruation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ovulation occurs about 14 days before the next menstrual period."
+  },
+  {
+    "q": "In the absence of fertilization and implantation the corpus luteum persists for – (AP 95)",
+    "options": [
+      "2–3 days",
+      "6–8 days",
+      "12–14 days",
+      "28–30 days"
+    ],
+    "answerIndex": 2,
+    "explanation": "Corpus luteum persists for about 12–14 days without pregnancy."
+  },
+  {
+    "q": "False statement regarding hormone status in menopausal women is – (MAHE 98)",
+    "options": [
+      "Decreased FSH",
+      "Increased LH",
+      "Decreased estrogen",
+      "Decreased progesterone"
+    ],
+    "answerIndex": 0,
+    "explanation": "FSH levels are increased, not decreased, after menopause."
+  },
+  {
+    "q": "FSH secretion is stimulated by – (MAHE 98)",
+    "options": [
+      "LHRH",
+      "TRH",
+      "Testosterone",
+      "Estradiol"
+    ],
+    "answerIndex": 0,
+    "explanation": "FSH secretion is stimulated by GnRH (LHRH)."
+  },
+  {
+    "q": "LH surge precedes ovulation by – (MAHE 98)",
+    "options": [
+      "12 hrs",
+      "24 hrs",
+      "36 hrs",
+      "48 hrs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ovulation occurs approximately 24 hours after the LH surge."
+  },
+  {
+    "q": "Corpus luteum functions maximally without an implantation for – days (PGI 2000)",
+    "options": [
+      "9",
+      "12",
+      "6",
+      "15"
+    ],
+    "answerIndex": 0,
+    "explanation": "Maximum function occurs around day 9 post-ovulation."
+  },
+  {
+    "q": "Hot flushes in postmenopausal women are best treated with which of the following – (AJ 2002)",
+    "options": [
+      "Estrogens",
+      "Danazol",
+      "OC pills",
+      "Tamoxifen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Estrogen therapy is most effective for hot flushes."
+  },
+  {
+    "q": "Average age range of attaining menopause is – (TN 03)",
+    "options": [
+      "40–50",
+      "45–55",
+      "55–60",
+      "58–68"
+    ],
+    "answerIndex": 1,
+    "explanation": "Menopause usually occurs between 45–55 years."
+  },
+  {
+    "q": "Cornification Index is maximum in – (TN 03)",
+    "options": [
+      "Early secretory phase",
+      "Late proliferative phase",
+      "Late secretory phase",
+      "Early proliferative phase"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cornification index peaks during estrogen dominance."
+  },
+  {
+    "q": "Endometrial biopsy is done in which phase of menstrual cycle –",
+    "options": [
+      "5–7 days",
+      "12–14 days",
+      "18–20 days",
+      "22–24 days"
+    ],
+    "answerIndex": 3,
+    "explanation": "Biopsy is ideally done in the late secretory phase."
+  },
+  {
+    "q": "Sertoli cells have receptors for – (AI 04)",
+    "options": [
+      "Inhibin",
+      "Luteinising hormone",
+      "Follicle stimulating hormone",
+      "Melatonin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sertoli cells have FSH receptors."
+  },
+  {
+    "q": "Inhibin inhibits the secretion of which hormone – (TN 04)",
+    "options": [
+      "FSH",
+      "LH",
+      "Estrogen",
+      "Prolactin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Inhibin specifically inhibits FSH secretion."
+  },
+  {
+    "q": "Primary oocyte remains in ovary in which stage – (SGPGI 05)",
+    "options": [
+      "Metaphase",
+      "Anaphase",
+      "Interphase",
+      "Prophase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Primary oocyte remains arrested in prophase I."
+  },
+  {
+    "q": "In a young female of reproductive age with regular menstrual cycles of 28 days ovulation occurs around 14th day of periods. When is the first polar body extruded – (AIIMS May 05)",
+    "options": [
+      "24 hrs prior to ovulation",
+      "Accompanied by ovulation",
+      "48 hrs after the ovulation",
+      "At the time of fertilization"
+    ],
+    "answerIndex": 1,
+    "explanation": "First polar body is extruded just before ovulation."
+  },
+  {
+    "q": "After how many days of ovulation embryo implantation occurs – (AIIMS 06)",
+    "options": [
+      "3–5 days",
+      "7–9 days",
+      "10–12 days",
+      "13–15 days"
+    ],
+    "answerIndex": 1,
+    "explanation": "Implantation occurs around 7–9 days after ovulation."
+  },
+  {
+    "q": "The sensitivity of the uterine musculature is – (AIIMS 06)",
+    "options": [
+      "Enhanced by progesterone",
+      "Enhanced by estrogen",
+      "Inhibited by estrogen",
+      "Enhanced by estrogen and inhibited by progesterone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Estrogen increases and progesterone decreases uterine sensitivity."
+  },
+  {
+    "q": "In those mammals which are seasonal breeder, the females are receptive only once a year; the cycle is termed as – (AIIMS 06)",
+    "options": [
+      "Follicular",
+      "Estrous",
+      "Menstrual",
+      "Luteal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Seasonal breeders exhibit estrous cycles."
+  },
+  {
+    "q": "Corkscrew shaped endometrial glands is seen in – (APPG 06)",
+    "options": [
+      "Early proliferative phase",
+      "Late proliferative phase",
+      "Early secretory phase",
+      "Late secretory phase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Corkscrew glands are characteristic of late secretory phase."
+  },
+  {
+    "q": "Following are the features of inhibin except – (Karn pgmee 06)",
+    "options": [
+      "Nonsteroidal water soluble protein",
+      "Secreted by Graafian follicle",
+      "Stimulates FSH secretion",
+      "Increased secretion of inhibin occurs in polycystic ovarian disease"
+    ],
+    "answerIndex": 2,
+    "explanation": "Inhibin inhibits, not stimulates, FSH secretion."
+  },
+  {
+    "q": "Source of progesterone during normal menstrual cycle – (MAHE 07)",
+    "options": [
+      "Corpus luteum",
+      "Stroma",
+      "Surface epithelium of ovary",
+      "None of above"
+    ],
+    "answerIndex": 0,
+    "explanation": "Progesterone is secreted by the corpus luteum."
+  },
+  {
+    "q": "The best predictor of ovulation is – (Corned 08)",
+    "options": [
+      "Estrogen peak",
+      "Follicle stimulating hormone (FSH) surge",
+      "Onset of the LH surge",
+      "Preovulatory rise in progesterone"
+    ],
+    "answerIndex": 2,
+    "explanation": "LH surge onset best predicts ovulation."
+  },
+  {
+    "q": "Which of the following is the earliest change in the endometrium after ovulation – (UPSC 1108)",
+    "options": [
+      "Secretion in the lumina of the endometrial glands",
+      "Subnuclear vacuolation",
+      "Corkscrew shaped glands",
+      "Stromal cells become oedematous, enlarged and polyhedral in shape"
+    ],
+    "answerIndex": 1,
+    "explanation": "Subnuclear vacuolation is the earliest post-ovulatory change."
+  },
+ 
+  {
+    "q": "Ovary secretes – (UP 08)",
+    "options": [
+      "Oestrogen & Progesterone",
+      "Oestrogen progesterone, Testosterone and androgens",
+      "FSH & LH",
+      "ACTH, Inhibin, TSH"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ovary secretes estrogen, progesterone and small amounts of androgens."
+  },
+  {
+    "q": "Ovulation occurs – (UP 08)",
+    "options": [
+      "After 14 days of menstruation",
+      "Before 14 days of menstruation",
+      "After 16 days of menstruation",
+      "Before 16 days of menstruation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ovulation occurs about 14 days before the next menstruation."
+  },
+  {
+    "q": "Endometrial biopsy is done at – (UP 08)",
+    "options": [
+      "Premenstrual phase",
+      "Mid-cycle phase",
+      "LH surge",
+      "After menstruation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endometrial biopsy is done in the premenstrual (late secretory) phase."
+  },
+  {
+    "q": "Naturally occurring estrogens are – (PGI Dec 08)",
+    "options": [
+      "Estrone",
+      "Estriol",
+      "Ethinylestradiol",
+      "Estradiol",
+      "Diethylstilbestrol"
+    ],
+    "answerIndex": [0, 1, 3],
+    "explanation": "Naturally occurring estrogens are estrone, estradiol and estriol."
+  },
+  {
+    "q": "Characteristics of the fertile phase of the menstrual cycle include all of the following except – (COMED 09)",
+    "options": [
+      "Peak levels of oestrogen",
+      "Clear, abundant cervical mucus",
+      "Ovulation",
+      "Production of progesterone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Progesterone production is characteristic of the luteal phase, not the fertile phase."
+  },
+  {
+    "q": "The “fern pattern” of cervical mucus seen in the first half of menstrual cycle is because of – (UPSC II 09)",
+    "options": [
+      "High mucoprotein level",
+      "Low mucoprotein level",
+      "High sodium chloride level",
+      "Low sodium chloride level"
+    ],
+    "answerIndex": 2,
+    "explanation": "High sodium chloride content causes the fern pattern."
+  },
+  {
+    "q": "After how many hours of LH surge does the ovulation occur? (UPSC II 09)",
+    "options": [
+      "12–24 hours",
+      "24–36 hours",
+      "12–36 hours",
+      "24–48 hours"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ovulation occurs about 12–36 hours after LH surge."
+  },
+  {
+    "q": "True about hCG – (PGI June 09)",
+    "options": [
+      "Produced by cytotrophoblast",
+      "Prevent involution of corpus luteum",
+      "Value reach maximum level at 20 wk of pregnancy",
+      "Its secretion starts after 2 day of ovulation"
+    ],
+    "answerIndex": 1,
+    "explanation": "hCG prevents involution of corpus luteum."
+  },
+  {
+    "q": "True statement regarding oogenesis is/are – (PGI May 10)",
+    "options": [
+      "Primary oocyte arrests in prophase of 1st meiotic division",
+      "Primary oocyte arrests in prophase of II nd meiotic division",
+      "Secondary oocyte arrests in Metaphase of 1st meiotic division",
+      "Secondary oocyte arrests in Metaphase of II nd meiotic division",
+      "1st polar body is extruded during 1st meiotic division of primary oocytes"
+    ],
+    "answerIndex": [0, 3, 4],
+    "explanation": "Primary oocyte arrests in prophase I; secondary oocyte in metaphase II; first polar body is extruded during meiosis I."
+  },
+  {
+    "q": "True statement regarding implantation –",
+    "options": [
+      "Takes place in Blastocyst stage",
+      "Occur after 7 day of fertilization",
+      "Occur on 5th day after ovulation",
+      "Takes place in morula stage"
+    ],
+    "answerIndex": [0, 2],
+    "explanation": "Implantation occurs in blastocyst stage around day 5–7 after ovulation."
+  },
+  {
+    "q": "True about hCG – (PGI Nov 10)",
+    "options": [
+      "α subunit identical to LH, FSH & TSH",
+      "Causes involution of corpus luteum",
+      "Doubles in 7–10 days",
+      "Max. level seen at 60–70 days of gestation",
+      "Detected in serum and urine 8–9 days after ovulation"
+    ],
+    "answerIndex": [0, 3, 4],
+    "explanation": "hCG has identical α subunit, peaks at 8–10 weeks, and is detected early in pregnancy."
+  },
+  {
+    "q": "Which of the following is seen in the ovulatory phase – (AIIMS May 11)",
+    "options": [
+      "Stimulation of continuation of reduction division of oocytes",
+      "Inhibin A is increased",
+      "FSH increases steroid synthesis in granulosa cells",
+      "Activin causes FSH to act on granulosa cells"
+    ],
+    "answerIndex": 3,
+    "explanation": "Activin enhances FSH action on granulosa cells."
+  },
+  {
+    "q": "The peak level of serum LH (ng/ml) required for ovulation – (Karn 11)",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "answerIndex": 0,
+    "explanation": "Minimum LH peak of about 25 ng/ml is required for ovulation."
+  },
+  {
+    "q": "During a normal pregnancy, the changes occurring in the urinary tract include the following except – (UPSC II 11)",
+    "options": [
+      "Increase in the glomerular filtration rate",
+      "Dilatation of the ureters",
+      "Elevation and thickening of the trigone",
+      "Hypertonicity of the ureteric smooth muscle"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ureteric smooth muscle becomes hypotonic, not hypertonic, in pregnancy."
+  },
+  {
+    "q": "Fertilization occurs in – (JIPMER 11)",
+    "options": [
+      "Uterine cavity",
+      "Infundibulum",
+      "Isthmus",
+      "Ampulla"
+    ],
+    "answerIndex": 3,
+    "explanation": "Fertilization normally occurs in the ampulla of the fallopian tube."
+  }
+]
