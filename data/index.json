@@ -1,0 +1,36 @@
+{
+  "subjects": [
+    {
+      "id": "gynae",
+      "name": "Gynaecology",
+      "topics": [
+  { "id": "gyn_anatomy", "name": "Gynaecological Anatomy", "file": "data/gyn_gynaecological_anatomy.json" },
+  { "id": "gyn_physiology", "name": "Physiology & Histology", "file": "data/gyn_physiology_histology.json" },
+  { "id": "gyn_diagnosis", "name": "Gynaecological Diagnosis", "file": "data/gyn_diagnosis.json" },
+  { "id": "gyn_malformation of generative Organs", "name": "Malformation of the Female Generative Organs ", "file": "data/gyn_malformation.json" },
+  { "id": "gyn_intersexuality", "name": "Sex Intersexuality", "file": "data/gyn_sex_intersexuality.json" },
+  { "id": "gyn_vulva", "name": "Vulva", "file": "data/gyn_vulva.json" },
+  { "id": "gyn_vagina", "name": "Vagina", "file": "data/gyn_vagina.json" },
+  { "id": "gyn_std", "name": "Sexually Transmitted Diseases in the Female", "file": "data/gyn_std_female.json" },
+  { "id": "gyn_genital_tb", "name": "Tuberculosis of the Genital Tract", "file": "data/gyn_genital_tuberculosis.json" },
+  { "id": "gyn_urinary_system", "name": "Urinary System", "file": "data/gyn_urinary_system.json" },
+  { "id": "gyn_urinary_fistula", "name": "Urinary Fistulas", "file": "data/gyn_urinary_fistulas.json" },
+  { "id": "gyn_pathology_conception", "name": "Pathology of Conception", "file": "data/gyn_pathology_conception.json" },
+  { "id": "gyn_contraceptives", "name": "Contraceptives", "file": "data/gyn_contraceptives.json" },
+  { "id": "gyn_menstrual_disorders", "name": "Disorders in Menstruation", "file": "data/gyn_menstrual_disorders.json" },
+  { "id": "gyn_choriocarcinoma", "name": "Choriocarcinoma", "file": "data/gyn_choriocarcinoma.json" },
+  { "id": "gyn_prolapse", "name": "Prolapse", "file": "data/gyn_prolapse.json" },
+  { "id": "gyn_fibromyoma", "name": "Fibromyoma of the Uterus", "file": "data/gyn_fibromyoma_uterus.json" },
+  { "id": "gyn_carcinoma_cervix", "name": "Carcinoma Cervix", "file": "data/gyn_carcinoma_cervix.json" },
+  { "id": "gyn_carcinoma_endometrium", "name": "Carcinoma Endometrium (Uterus)", "file": "data/gyn_carcinoma_endometrium.json" },
+  { "id": "gyn_ovary", "name": "Ovary", "file": "data/gyn_ovary.json" },
+  { "id": "gyn_carcinoma_ovary", "name": "Carcinoma Ovary", "file": "data/gyn_carcinoma_ovary.json" },
+  { "id": "gyn_radio_chemo", "name": "Radiotherapy, Chemotherapy & Pharmacology in Gynaecology", "file": "data/gyn_radiotherapy_chemotherapy.json" },
+  { "id": "gyn_pid", "name": "Pelvic Inflammatory Disease", "file": "data/gyn_pelvic_inflammatory_disease.json" },
+  { "id": "gyn_endometriosis", "name": "Endometriosis", "file": "data/gyn_endometriosis.json" },
+  { "id": "gyn_operative", "name": "Operative Gynaecology", "file": "data/gyn_operative_gynaecology.json" },
+  { "id": "gyn_misc", "name": "Miscellaneous (Gynaecology)", "file": "data/gyn_miscellaneous.json" }
+]
+    }
+  ]
+}
