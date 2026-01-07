@@ -1,0 +1,158 @@
+
+[
+  {
+    "q": "All are related to the lateral vaginal fornix except?",
+    "options": ["Ureters", "Mackenrodt’s ligament", "Inferior vesical artery", "Uterine artery"],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "q": "Para-ovarian cysts are derived from?",
+    "options": ["Wolffian duct", "Mullerian duct", "Gartner’s duct", "Pronephros"],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "The epithelial lining of the cervical canal is?",
+    "options": ["Low columnar", "High columnar", "Stratified squamous", "Ciliated columnar"],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "q": "Bartholin’s ducts open into?",
+    "options": ["Labia majora", "Labia minora", "Lower vagina", "Groove between labia minora and hymen"],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "q": "False about vagina is?",
+    "options": [
+      "Partly or wholly derived from urogenital sinus",
+      "Rich in glands",
+      "Lined by stratified squamous epithelium",
+      "Posterior fornix longer than anterior fornix"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "q": "Epithelial lining of Bartholin’s duct is?",
+    "options": ["Columnar", "Transitional", "Cuboidal", "Squamous"],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "Venous drainage of upper part of uterus and placenta is through?",
+    "options": ["Ovarian vein", "Uterine vein", "Internal iliac vein", "None"],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "Clitoris develops from?",
+    "options": ["Urogenital sinus", "Labio-scrotal swelling", "Genital folds", "Genital tubercle"],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "q": "Scrotum is analogous to?",
+    "options": ["Labia minora", "Labia majora", "Uterus", "Vagina"],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "q": "Which of the following is Schiller positive?",
+    "options": ["Erosion", "Ectropion", "Carcinoma cervix", "All of the above"],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "q": "Lymphatics from clitoris drain into?",
+    "options": ["Superficial inguinal lymph nodes", "Deep inguinal lymph nodes", "Lymph node of Cloquet", "Obturator lymph node"],
+    "answerIndex": [1, 2],
+    "explanation": ""
+  },
+  {
+    "q": "Ovary develops from?",
+    "options": ["Mullerian duct", "Genital ridge", "Genital tubercle", "Mesonephric duct"],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "q": "Transverse vaginal septum corresponds to?",
+    "options": ["External os", "Vesical neck", "Bladder base", "Hymen", "Above the external urethral meatus"],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "True about isthmus are all EXCEPT?",
+    "options": [
+      "Measures 20 mm in length",
+      "Forms lower uterine segment",
+      "Mucosa similar to endometrium",
+      "Present between cervical mucosa and endometrial mucosa"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "Which condition is commonly encountered in female newborn and usually requires no therapy?",
+    "options": ["Enlarged clitoris", "Labial fusion", "Mucoid vaginal discharge", "Prolapsed urethra"],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "q": "Size of Graafian follicle is?",
+    "options": ["2 mm", "3 mm", "4 mm", "6 mm"],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "The shape of a nulliparous cervix is?",
+    "options": ["Circular", "Transverse", "Longitudinal", "Fimbriated"],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "Bartholin’s glands correspond to?",
+    "options": ["Bulbourethral glands", "Urethral glands", "Paraurethral glands", "Cowper’s glands"],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "q": "Which artery is NOT a branch of the anterior division of internal iliac artery?",
+    "options": ["Uterine", "Internal pudendal", "Iliolumbar", "Vaginal"],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "q": "Before puberty, what is the ratio between cervical length and uterine body?",
+    "options": ["1:2", "2:1", "1:3", "1:4"],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "q": "During development of female genital organs, Bartholin’s gland develops from?",
+    "options": ["Genital fold", "Genital tubercle", "Urogenital fold", "Urogenital sinus"],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "q": "Main support of the uterus is formed by?",
+    "options": ["Mackenrodt’s ligament", "Broad ligament", "Fallopian tubes", "Round ligament"],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "Cervix to body ratio in a prepubertal girl is?",
+    "options": ["1:1", "2:1", "3:1", "1:2"],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "q": "Cortex of ovary contains all EXCEPT?",
+    "options": ["Hilus cells", "Corpus luteum", "Primordial germ cells", "Graafian follicle"],
+    "answerIndex": 0,
+    "explanation": ""
+  }
+]
+
