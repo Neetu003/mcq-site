@@ -1,0 +1,112 @@
+[
+{
+  "q": "To diagnose Uterus didelphys, procedure of choice is – (AIIMS 92)",
+  "options": [
+    "Laparoscopy",
+    "IVP",
+    "Hysterosalpingography",
+    "USG"
+  ],
+  "answerIndex": 2,
+  "explanation": ""
+},
+{
+  "q": "Ideal age for repair of Vaginal agenesis is – (AIIMS 92)",
+  "options": [
+    "6 months",
+    "3 years",
+    "At puberty",
+    "Before marriage"
+  ],
+  "answerIndex": 3,
+  "explanation": ""
+},
+{
+  "q": "Bicornuate uterus is due to – (PGI 98)",
+  "options": [
+    "Incomplete fusion of uterine cavity",
+    "Incomplete fusion of paramesonephric duct",
+    "Incomplete fusion of mesonephric duct",
+    "Incomplete formation of vagina"
+  ],
+  "answerIndex": 1,
+  "explanation": ""
+},
+{
+  "q": "Cochleate uterus is – (ORRISA 98)",
+  "options": [
+    "Acute antiflexion",
+    "Acute retroflexion",
+    "Acute retroversion of uterus",
+    "None of the above"
+  ],
+  "answerIndex": 0,
+  "explanation": ""
+},
+{
+  "q": "Raloxifene can cause – (APPG 03)",
+  "options": [
+    "Endometrial carcinoma",
+    "Ovarian carcinoma",
+    "Breast carcinoma",
+    "Cervical carcinoma"
+  ],
+  "answerIndex": 2,
+  "explanation": ""
+},
+{
+  "q": "Complete failure of mullerian duct fusion will result in – (UPPGMEE 04)",
+  "options": [
+    "Uterus didelphys",
+    "Arcuate uterus",
+    "Subseptate uterus",
+    "Unicornuate uterus"
+  ],
+  "answerIndex": 0,
+  "explanation": ""
+},
+{
+  "q": "The most important indication for surgical repair of a Bicornuate uterus is – (ARMS NOV 05)",
+  "options": [
+    "Infertility",
+    "Dysmenorrhoea",
+    "Menorrhagia",
+    "Habitual abortion"
+  ],
+  "answerIndex": 3,
+  "explanation": ""
+},
+{
+  "q": "Diethylstilboestrol causes the following defects except – (APPG 06)",
+  "options": [
+    "Renal anomalies",
+    "Perifimbrial cyst",
+    "T-shaped uterus",
+    "Vaginal adenosis"
+  ],
+  "answerIndex": 0,
+  "explanation": ""
+},
+{
+  "q": "In complete mullerian duct aplasia all of the following are likely to be absent except – (AI 08)",
+  "options": [
+    "Ovaries",
+    "Fallopian tubes",
+    "Uterus",
+    "Vagina"
+  ],
+  "answerIndex": 0,
+  "explanation": ""
+},
+{
+  "q": "Which of the following condition presents with absence of both Mullerian and Wolffian duct structures – (AI 10)",
+  "options": [
+    "Antimullerian hormone deficiency",
+    "Androgen insensitivity syndrome",
+    "FSH receptor defect",
+    "Ovotesticular syndrome"
+  ],
+  "answerIndex": 1,
+  "explanation": ""
+}
+]
