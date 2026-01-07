@@ -1,0 +1,125 @@
+[
+  {
+    "q": "Pap smear is taken from the – (TN 90)",
+    "options": [
+      "Lateral fornix",
+      "Anterior fornix",
+      "Posterior fornix",
+      "Any fornix"
+    ],
+    "answerIndex": null,
+    "explanation": ""
+  },
+  {
+    "q": "Ultrasound is diagnostic in – (TN 91)",
+    "options": [
+      "Endometrial carcinoma",
+      "Cancer cervix",
+      "Leiomyosarcoma",
+      "Fibroid uterus"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "q": "All of the following are indications of doing a PAP smear except – (AT 96)",
+    "options": [
+      ">40 years",
+      "Pregnant female",
+      "Sexually active female",
+      "Menorrhagia"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "q": "What percentage of postmenopausal ovaries are identified on transvaginal ultrasonography – (PGI 96)",
+    "options": [
+      "60%",
+      "70%",
+      "80%",
+      "100%"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "q": "Hysteroscopy can diagnose all, except – (PGI 98)",
+    "options": [
+      "Asherman's syndrome",
+      "Septate uterus",
+      "Adenomyosis",
+      "TB endometritis"
+    ],
+    "answerIndex": null,
+    "explanation": ""
+  },
+  {
+    "q": "The colposcopic features suggestive of malignancy are except – (PGI 99)",
+    "options": [
+      "Condyloma",
+      "Vascular atypia",
+      "Punctuation",
+      "White epithelium"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "q": "Evaluation of a patient with postmenopausal bleeding is done by – (PGI June 05)",
+    "options": [
+      "Pap smear",
+      "USG",
+      "Endometrial biopsy",
+      "Dilatation & curettage"
+    ],
+    "answerIndex": [0, 2, 3],
+    "explanation": ""
+  },
+  {
+    "q": "Hysteroscopy means visualization of – (PGI 05)",
+    "options": [
+      "Genital tract",
+      "Fallopian tube",
+      "Uterine cavity",
+      "Cervix",
+      "Abdominal cavity"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "q": "The investigation of choice in a 55 year old postmenopausal woman with postmenopausal bleeding is – (AI 06)",
+    "options": [
+      "Pap smear",
+      "Fractional curettage",
+      "Transvaginal ultrasound",
+      "CA-125 estimation"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "q": "Which of the following are distension media used in hysteroscopy – (PGI Dec 08)",
+    "options": [
+      "Carbon dioxide",
+      "Glycine",
+      "Distilled water",
+      "Air",
+      "Dextrose"
+    ],
+    "answerIndex": [0, 1, 4],
+    "explanation": ""
+  },
+  {
+    "q": "Following are the indications for hysterosalpingography except – (DELHI PG Mar 09)",
+    "options": [
+      "Infertility",
+      "Pelvic infections",
+      "Recurrent abortions",
+      "Abnormal uterine bleeding"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  }
+]
