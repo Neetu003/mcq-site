@@ -1,0 +1,154 @@
+[
+  {
+    "q": "You are a certified BLS provider showing your junior how to perform bag and mask ventilation on a mannequin. While applying the face mask, where would you place the fifth digit of your hand?",
+    "options": [
+      "Bridge of the nose",
+      "The mask device",
+      "Ramus of mandible",
+      "Angle of mandible"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_airway_devices/q1_eximage.jpg",
+    "explanation": "The fifth digit of the hand should be placed at the angle of the mandible while holding a face mask.\n\nOne hand technique: C-E technique\n\nThe anesthetist holds the mask in his left hand using C-E technique. C is formed by the thumb and the index finger, and E is formed by the remaining 3 fingers.\n\n• The thumb and index fingers form a C around the collar of the connector\n• The third and fourth digits are placed on the body of the mandible\n• The fifth digit is placed on the angle of the mandible\n\nThe thumb and index finger ensure a tight mask seal, while the remaining digits provide jaw thrust to aid airway patency."
+  },
+  {
+    "q": "In which of the following situations can bag and mask ventilation be performed?",
+    "options": [
+      "Obese individual with a difficult airway",
+      "Emergency laparotomy requiring rapid sequence induction",
+      "Severe facial trauma",
+      "Diaphragmatic hernia following blunt trauma to chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bag and mask ventilation can be performed in patients with difficult airway.\n\nBag and mask ventilation serves as a rescue technique to provide oxygenation and ventilation in patients with difficult airway until tracheal intubation is achieved.\n\nContraindications of bag and mask ventilation:\n\nPatients at greater risk of aspiration such as patients with diaphragmatic hernia and those undergoing rapid sequence induction and intubation. This is because air can enter the stomach leading to raised intragastric pressure which increases the risk of aspiration.\n\nMask ventilation should also be performed with caution in patients with severe facial trauma and in patients in whom head and neck manipulation must be avoided (e.g., those with an unstable cervical spine fracture)."
+  },
+  {
+    "q": "You are a resident posted in the medicine ward. A patient who has been previously diagnosed with epilepsy has an episode of seizures and becomes unconscious. You immediately call a code. The patient is unresponsive and chest rise is not appreciable but you can feel a pulse. You suspect that this is due to falling back of the tongue and decide to secure the airway using the device shown. What landmarks would you use before selecting the appropriate size?",
+    "options": [
+      "Incisor teeth and tragus of the ear",
+      "Corner of mouth and angle of mandible",
+      "Tip of nose and angle of mandible",
+      "Ala of nose and angle of mandible"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_airway_devices/q3_qimage.jpg",
+    "expImage": "assets/images/anes_airway_devices/q3_eximage.jpg",
+    "explanation": "The image shows oropharyngeal airway or Guedel airway of various sizes. The landmarks used for measuring the appropriate size of this device are the corner of the mouth and the angle of the mandible or tragus.\n\nAn oropharyngeal airway is an airway adjunct which keeps the tongue from falling back onto the posterior pharynx.\n\nIt is essential to choose the correct size since inappropriately sized ones may aggravate airway obstruction.\n\nThese airways should not be used in conscious patients as they may come into contact with the epiglottis and base of tongue. This can cause coughing, retching or laryngospasm if the pharyngeal and laryngeal reflexes are not blunted with local anesthetic.\n\nNote: Nasopharyngeal airway size is chosen by measuring the distance between the tip of the nose and tragus of the ear. These airways, when well lubricated and inserted with proper technique, can be used in conscious patients to secure airway."
+  },
+  {
+    "q": "Which of the following statements is true regarding the airway adjunct shown in the image given below?",
+    "options": [
+      "It is used only in unconscious patients",
+      "Prevents falling back of tongue post-extubation",
+      "Prevents tongue bite during seizure activity",
+      "Can be used in patients with central facial fracture"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_airway_devices/q4_qimage.jpg",
+    "explanation": "The image shows nasopharyngeal airway and its insertion. The true statement is that it is used to prevent falling back of tongue post-extubation especially in obese patients.\n\nNasopharyngeal airways are less stimulating than oropharyngeal airways as it bypasses the gag reflex. Thus, it can be used in conscious patients as well.\n\nIt does not prevent tongue bite unlike the oropharyngeal airway which has a bite block. It can prevent falling back of the tongue in patients with seizures.\n\nIt is contraindicated in:\n• Basilar skull fractures, central facial fractures, CSF rhinorrhea - risk of meningitis\n• Patients on anticoagulants, coagulopathies, epistaxis - risk of bleeding\n• Relatively contraindicated in pregnancy (increased vascularity leading to bleeding), deformity of the nose."
+  },
+  {
+    "q": "The image shown below is the technique of insertion of?",
+    "options": [
+      "Oropharyngeal airway",
+      "Nasopharyngeal airway",
+      "Laryngeal mask airway",
+      "Endotracheal tube"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_airway_devices/q5_qimage.jpg",
+    "expImages": [
+      "assets/images/anes_airway_devices/q5_eximage_1.jpg",
+      "assets/images/anes_airway_devices/q5_eximage_2.jpg",
+      "assets/images/anes_airway_devices/q5_eximage_3.jpg"
+    ],
+    "explanation": "The image shown above is the technique of insertion of laryngeal mask airway.\n\nLaryngeal mask airway (LMA) is a supraglottic airway device that is positioned in the hypopharynx.\n\nSupraglottic airway devices are used with both spontaneously and ventilated patients during anesthesia.\n\nLMA has advantages of being used in many settings, including the operating room (alternate route of ventilation), the emergency department (difficult intubation), and out-of-hospital care (paramedics).\n\nThis is because it is easy to use, quick to place even for the inexperienced provider and has a very high success rate.\n\nThe technique of insertion:\n• The deflated cuff of LMA is lubricated and inserted blindly into the hypopharynx so that, once inflated, the cuff forms a low-pressure seal around the entrance to the larynx.\n• Correct placement of the tube is confirmed by giving gentle positive pressure ventilation while checking for chest rise and ETCO2 using capnography."
+  },
+  {
+    "q": "What size LMA would you choose for a man weighing 75 kgs?",
+    "options": [
+      "3",
+      "4",
+      "4.5",
+      "5"
+    ],
+    "answerIndex": 3,
+    "explanation": "The appropriate size of laryngeal mask airway for a man weighing 75 kg is 5.\n\nLaryngeal mask airway is a supraglottic airway device, which is placed in the hypopharynx and protects the larynx from pharyngeal secretions."
+  },
+  {
+    "q": "Laryngeal mask airway of size 3 would be appropriate for a person with a weight of _______.",
+    "options": [
+      "3 kg",
+      "10 kg",
+      "30 kg",
+      "70 kg"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laryngeal mask airway of size 3 would be most appropriate for individuals weighing about 30 kgs."
+  },
+  {
+    "q": "In which of the following patients would you prefer to use an LMA for securing the airway?",
+    "options": [
+      "A term G2P1L1 woman previously diagnosed with pre-eclampsia planned for elective Cesarean section",
+      "A 30-year-old patient to be taken up for repair of hiatus hernia",
+      "A middle-aged man with a history of diabetes diagnosed with pharyngeal abscess",
+      "A 40-year-old woman planned for laparoscopic cholecystectomy, having Mallampati class III airway"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_airway_devices/q8_eximage.jpg",
+    "explanation": "Laryngeal mask airway (LMA) is indicated in cases with difficult airway where endotracheal intubation is not possible or not available. It can be used as an alternative to an endotracheal tube for ventilating and oxygenating the patient.\n\nLMA is relatively contraindicated in conditions that are associated with increased risk of aspiration (e.g., hiatal hernia, pregnancy, inadequate NPO).\n\nLMA may protect the larynx from pharyngeal secretions but not from gastric secretions.\n\nThe presence of a pharyngeal pathology such as an abscess or tumor, or pharyngeal obstruction is also a relative contraindication of LMA insertion.\n\nThe normal anatomic position of the LMA: The proximal portion of the LMA rests upon the epiglottis, whereas the distal end or the tip extends into the pharynx at the upper end of the esophagus. The opening on the laryngeal mask overlies the laryngeal inlet."
+  },
+  {
+    "q": "A 55 year old woman presents to the pre-anesthetic clinic. She has been advised to undergo an elective laparoscopic hysterectomy. On further evaluation, her BMI is calculated to be 31 and she has a Mallampati class III airway. The anaesthetist then decides that a Proseal laryngeal mask airway would be ideal for this patient. Identify the false statement about this device?",
+    "options": [
+      "Single use second generation airway device",
+      "Built in bite-block",
+      "Gastric drainage tube to remove secretions",
+      "Can be used in surgery requiring prone position"
+    ],
+    "answerIndex": 0,
+    "expImages": [
+      "assets/images/anes_airway_devices/q9_eximage_1.jpg",
+      "assets/images/anes_airway_devices/q9_eximage_2.jpg"
+    ],
+    "explanation": "Proseal laryngeal mask airway (LMA) is a re-usable second-generation supraglottic airway device, not a single-use device.\n\nIt also has an integrated bite block, a drainage tube to remove gastric secretions, and an improved cuff design. This reduces the risk of aspiration.\n\nHence it may be suitable in non-supine positions (e.g., lateral, prone), laparoscopic surgery (e.g., cholecystectomy, gynaecological surgery), and in patients who are obese.\n\nAll these features are also present in LMA Supreme, except that it is a single-use second generation supraglottic device."
+  },
+  {
+    "q": "What is the advantage of the following device?",
+    "options": [
+      "Has a port for orogastric tube",
+      "Can facilitate endotracheal intubation",
+      "Ideal for infants alone",
+      "Suction tube to remove secretions"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_airway_devices/q10_qimage.jpg",
+    "expImages": [
+      "assets/images/anes_airway_devices/q10_eximage_1.jpg",
+      "assets/images/anes_airway_devices/q10_eximage_2.jpg"
+    ],
+    "explanation": "The image shown above is the Fastrach laryngeal mask airway (LMA) or intubating LMA with an endotracheal tube within its lumen.\n\nIt has a distinct advantage over other LMA designs as it can facilitate endotracheal intubation through the LMA device.\n\nIt has a rigid handle and an epiglottis elevator.\n\nLMA Proseal and LMA Supreme are second-generation LMA devices that have integrated bite blocks, an orogastric tube to remove gastric secretions, and an improved cuff design."
+  },
+  {
+    "q": "Laryngeal mask airway has the following advantages over endotracheal intubation except _______.",
+    "options": [
+      "Less invasive",
+      "Muscle relaxation not required",
+      "Low risk of laryngeal trauma",
+      "Low risk of aspiration"
+    ],
+    "answerIndex": 3,
+    "explanation": "There is an increased risk of aspiration of gastric contents with laryngeal mask airway.\n\nThe laryngeal mask airway (LMA) is a supraglottic airway device that sits in the hypopharynx and partially protects the larynx from pharyngeal secretions, but not gastric regurgitation.\n\nAdvantages:\n• Easy and rapid\n• Less invasive\n• Better hemodynamic stability\n• Very useful in difficult intubations\n• Less tooth and laryngeal trauma\n• Does not require muscle relaxation\n• Does not require neck mobility\n\nDisadvantages:\n• Increased risk of gastrointestinal aspiration\n• Less safe in prone or jack-knife positions\n• Less secure airway\n• Greater risk of gas leak and pollution\n• Can cause gastric distention"
+  },
+  {
+    "q": "Which of the following is the most common complication following the use of a laryngeal mask airway?",
+    "options": [
+      "Recurrent laryngeal nerve palsy",
+      "Damage to the teeth",
+      "Sore throat",
+      "Lingual nerve palsy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sore throat is the most common symptom following the use of a laryngeal mask airway with an incidence of 10-20%.\n\nInjury to the lingual, hypoglossal, and recurrent laryngeal nerves are rare.\n\nThese complications can be minimized by using an adequate sized device and avoiding high cuff pressures."
+  }
+]

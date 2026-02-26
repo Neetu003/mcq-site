@@ -1,0 +1,263 @@
+[
+  {
+    "q": "A 65-year-old lady with a history of motion sickness underwent a knee replacement under spinal anesthesia. After the procedure, she complains she is feeling nauseous. Which of the following is false about post-anaesthetic nausea and vomiting associated?",
+    "options": [
+      "History of motion sickness is a risk factor",
+      "Elderly age groups are at lesser risk",
+      "Female patients are at higher risk",
+      "Intrathecal morphine administration has the least incidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "Intrathecal morphine has a higher risk and incidence of nausea and vomiting among opioids as compared to fentanyl/sufentanil.\n\nThis is because hydrophilic opioids (morphine) remain in CSF for a prolonged duration than lipophilic opioids (fentanyl) and sensitize the central chemoreceptor trigger zone.\n\nThe Apfel score is used to predict the risk of developing postoperative nausea and vomiting (PONV). According to this, risk factors are:\n• Post-operative use of opioids\n• Non-smoker\n• Female gender\n• History of postoperative nausea, vomiting, or motion sickness\n\nAdditional risk factors are the use of nitrous oxide as an inhalational anesthetic agent and the duration of anesthesia.\n\nOndansetron with or without dexamethasone is used in the management of this condition.\n\nThe use of propofol in balanced or total IV anesthesia (TIVA) significantly reduces the incidence of PONV."
+  },
+  {
+    "q": "A patient was scheduled to undergo a vaginal hysterectomy procedure under epidural anaesthesia. 5 minutes after the epidural block was given, the patient started shivering. Which of the following is false regarding post-neuraxial shivering?",
+    "options": [
+      "Is not a sign of malignant hyperthermia",
+      "More common with spinal than epidural anaesthesia",
+      "Epidural fentanyl can prevent shivering",
+      "I.V. meperidine is used for treatment"
+    ],
+    "answerIndex": 1,
+    "explanation": "Post-neuraxial shivering is more common with epidural than spinal anaesthesia.\n\nThe possible reasons include the use of a large volume of cold epidural injectate as compared to a small volume of spinal drug and the inability to shiver with spinal anaesthesia because of the profound motor block as compared with epidural techniques.\n\nPost-neuraxial shivering:\n• The incidence of post-neuraxial shivering is more than 40% (~55%)\n• The addition of neuraxial opioids (fentanyl, pethidine) reduces the likelihood of shivering\n• Prewarming the patient with a forced-air warmer and avoiding the administration of cold epidural and intravenous fluids helps to prevent shivering\n• It has no relation to malignant hyperthermia\n• Intravenous meperidine and tramadol are used in the treatment"
+  },
+  {
+    "q": "A patient was undergoing a surgical procedure under spinal anaesthesia. 30 mins into the procedure, his EtCO2 fell and the patient became apneic. Bag and mask ventilation was given and the patient regained consciousness and began to spontaneously respire in 10 mins. What is the most common cause of the apnea seen in this patient?",
+    "options": [
+      "Diaphragmatic paralysis",
+      "Hypotension",
+      "Intercostal muscle paralysis",
+      "Systemic toxicity of the local anesthetic"
+    ],
+    "answerIndex": 1,
+    "explanation": "The most common cause of apnea following neuraxial blockade is hypotension leading to hypoperfusion of the brain stem respiratory centers.\n\nDiaphragmatic paralysis would require the height of the block up to the cervical level (phrenic nerve), which is very rare. However, it can occur in the setting of high spinal up to the cervical level and total spinal anesthesia.\n\nBlockade of the intercostal and abdominal muscles during neuraxial anesthesia is adequately compensated by an unaltered function of the diaphragm and other accessory respiratory muscles.\n\nSystemic toxicity of the local anesthetic would mainly affect the central nervous system and cardiovascular system."
+  },
+  {
+    "q": "Which of the following statements is false about spinal-anaesthesia-induced hypotension?",
+    "options": [
+      "Nausea is the first symptom",
+      "It is common with block height above T5",
+      "Sustained hypotension can lead to apnea",
+      "It is treated with epinephrine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Spinal-anaesthesia-induced hypotension is treated with ephedrine (most commonly), mephentermine or phenylephrine. Epinephrine is reserved only for refractory hypotension or cardiac arrest following spinal anesthesia.\n\nRisk factors for spinal-anaesthesia-induced hypotension:\n• Peak block height greater than or equal to T5\n• Age older than or equal to 40 years\n• Baseline systolic blood pressure less than 120 mm Hg\n• Combined spinal and general anesthesia\n• Spinal puncture at or above the L2-L3 interspace\n\nClinical features:\n• SBP < 90 mmHg\n• Nausea precedes hypotension (first symptom to appear)\n• Apnea due to medullary hypoperfusion\n• Bradycardia\n\nTreatment:\n• Rapid administration of intravenous fluids\n• Head-down position (only after local anesthesia is fixed (~20 minutes for bupivacaine), else hyperbaric solution can ascend and lead to high spinal)\n• Intravenous vasopressors (ephedrine, phenylephrine)\n• Bradycardia is treated with atropine"
+  },
+  {
+    "q": "Which of the following nerve fibres are included under cardioaccelerator fibres?",
+    "options": [
+      "C1-4",
+      "C4-7",
+      "T1-4",
+      "T5-L2"
+    ],
+    "answerIndex": 2,
+    "explanation": "The sympathetic cardio-accelerator fibers include T1–T4.\n\nHigh spinal block above the level of T4 will block the cardio-acceleratory fibers which supply the heart. This would lead to severe bradycardia along with hypotension."
+  },
+  {
+    "q": "You are planning to administer spinal anesthesia to a young female. Which of the following needles would be the least suitable for reducing the risk of a post-dural puncture headache?",
+    "options": [
+      "22G Quincke",
+      "22G Whitacre",
+      "25G Quincke",
+      "25G Whitacre"
+    ],
+    "answerIndex": 0,
+    "explanation": "Post-dural puncture headache is most commonly seen with 22G Quincke needle (22G has a larger diameter than 25G). So, it should be avoided in cases with a higher risk of PDPH.\n\nTypes of spinal needles:\n• Cutting needle: Quincke (also includes Quinke-Babcock, Pitkin)\n• Non-cutting (splitting, pencil point, blunt) needle: Whitacre, Sprotte\n\nCutting needle:\n• Cuts the dura\n• Higher incidence of post-dural puncture headache (PDPH) due to CSF leak\n• Technically less challenging as loss of resistance is well appreciated during lumbar puncture\n\nNon-cutting needle:\n• Splits the dura\n• Lower incidence of PDPH\n• Technically more challenging as loss of resistance is not well appreciated"
+    ,
+    "expImage": [
+      "assets/images/anes_regional_complications/q6_eximage.jpg"
+    ]
+  },
+  {
+    "q": "Which of the following is false regarding post-dural puncture headache?",
+    "options": [
+      "Due to intracranial hypotension",
+      "Usually seen within first 72 hours",
+      "Relieved on sitting",
+      "Common with cutting spinal needles"
+    ],
+    "answerIndex": 2,
+    "explanation": "Post-dural puncture headache worsens with upright or sitting position and is relieved by supine position.\n\nPost-dural puncture headache is believed to result from puncture of the dura (unintentional or intentional) in the setting of neuraxial anesthesia. This causes leakage of CSF from a dural defect leading to intracranial hypotension.\n\nThe characteristic feature of a post-dural puncture headache is the frontal or an occipital headache."
+  },
+  {
+    "q": "Which of the following does the incidence of post-dural puncture headache not depend on?",
+    "options": [
+      "Age",
+      "Timing of ambulation",
+      "Pregnancy",
+      "Gender"
+    ],
+    "answerIndex": 1,
+    "explanation": "The timing of ambulation does not seem to affect the incidence of post-dural puncture headache, i.e., early ambulation does not increase the incidence."
+  },
+  {
+    "q": "A 23-year-old primigravida underwent C-section under spinal anesthesia administered by 22G Quincke needle. 18 hours after the procedure she complained of a headache which was aggravated by sitting up and relieved on lying down. What is the definitive treatment for the condition that she is suffering from?",
+    "options": [
+      "Analgesics",
+      "Caffeine",
+      "Supine posture",
+      "Epidural blood patch"
+    ],
+    "answerIndex": 3,
+    "explanation": "The scenario given in the question is most likely post-dural puncture headache (PDPH). The definitive treatment for post-dural puncture headache is epidural blood patch. The remaining options include conservative management approaches for PDPH.\n\nProcedure:\n• Ideally performed 24 hours after dural puncture and development of classic PDPH symptoms.\n• 15–20 mL of autologous blood is injected into the epidural space at same or one interspace below the level of the dural puncture.\n• It stops further leakage of CSF by either mass effect or coagulation.\n• A second patch can be performed after 24–48 hours if needed. Approximately 90% of patients will respond to a single blood patch, and 90% of initial nonresponders will obtain relief from a second injection."
+  },
+  {
+    "q": "Which of the following is false regarding epidural blood patch?",
+    "options": [
+      "20 mL of blood injected into epidural space",
+      "Effective in 90% of patients",
+      "A second patch performed after 24-48 hours if needed",
+      "Prophylactic blood patch is recommended as per the recent guidelines"
+    ],
+    "answerIndex": 3,
+    "explanation": "Prophylactic blood patch is not recommended as its efficacy is not supported by evidence.\n\nEpidural blood patch:\n• Definitive therapy for PDPH\n• Performed 24–48 hours after dural puncture and the development of classic PDPH symptoms.\n• 15–20 mL of autologous blood is injected into the epidural space at the same or one interspace below the level of the dural puncture.\n• It stops further leakage of CSF by either mass effect or coagulation.\n• A second patch can be performed after 24–48 hours, if needed.\n• Approximately 90% of patients will respond to a single blood patch, and 90% of initial nonresponders will obtain relief from a second injection."
+  },
+  {
+    "q": "Soon after the administration of an epidural block with 1.5% lignocaine with epinephrine, your patient went into bradycardia, hypotension, and apnea. What is the most likely diagnosis?",
+    "options": [
+      "Accidental subdural injection",
+      "Accidental subarachnoid injection",
+      "Accidental intravascular injection",
+      "Allergic manifestation to lignocaine"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bradycardia, hypotension, and apnea soon after the administration of an epidural block suggests accidental subarachnoid (intrathecal) injection resulting in total spinal anesthesia.\n\nSalient features of total spinal anesthesia:\n• Occurs following attempted epidural/caudal anesthesia if there is accidental intrathecal injection\n• Rapid onset, as the anesthetic required for epidural and caudal anesthesia is 5–10 times that required for spinal anesthesia\n• High spinal anesthesia extends to involve cranial nerves\n• Accompanied by hypotension, bradycardia, apnea, and loss of consciousness\n\nPrevention:\n• Careful aspiration for CSF (to rule out intrathecal placement) and blood (to rule out intravascular placement) before injecting the local anesthesia\n• Use of a test dose with lidocaine and adrenaline\n• Incremental injection techniques instead of a bolus dose\n\nTreatment:\n• Maintaining an adequate airway and ventilation and supporting the circulation\n\nOption A – Accidental subdural injection manifests after 15–20 minutes with features similar to a high spinal blockade.\nOption C – Accidental intravascular injection manifests as systemic toxicity with CNS and CVS symptoms.\nOption D – Allergic manifestation presents with hives, angioedema, and bronchospasm."
+  },
+  {
+    "q": "A patient was administered an epidural block before a lower limb surgery. After 20 minutes, the patient went into bradycardia, hypotension, and apnea. What is the most likely cause?",
+    "options": [
+      "Accidental subdural injection",
+      "Accidental subarachnoid injection",
+      "Accidental intravascular injection",
+      "Allergic manifestation to lignocaine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bradycardia, hypotension, and apnea presenting 20 minutes after epidural injection suggest accidental subdural injection.\n\nThe clinical presentation of subdural anaesthesia is similar to that of high spinal anaesthesia, with the exception that the onset may be delayed for 15–30 minutes and the block may be patchy.\n\nUnlike the epidural space, the subdural space extends intracranially. Hence, the anaesthetic injected into the subdural space can ascend to higher levels than epidural medications.\n\nAs with high spinal anaesthesia, treatment is supportive and may require intubation, mechanical ventilation, and cardiovascular support.\n\nOption B – Accidental subarachnoid injection manifests immediately with similar features.\nOption C – Accidental intravascular injection presents with CNS and CVS symptoms.\nOption D – Allergic manifestation presents with hives, angioedema, and bronchospasm."
+  },
+  {
+    "q": "A patient was administered an epidural block with 1.5% lignocaine with epinephrine. Immediately after the injection, the patient became disoriented followed by an episode of seizures ending in apnea. His BP was 80/50 mm Hg. What is this most likely due to?",
+    "options": [
+      "Accidental subdural injection",
+      "Accidental subarachnoid injection",
+      "Accidental intravascular injection",
+      "Allergic manifestation to lignocaine"
+    ],
+    "answerIndex": 2,
+    "explanation": "The above condition is most likely due to accidental intravascular injection of local anaesthetic into the epidural vein resulting in local anaesthesia systemic toxicity (LAST).\n\nFeatures of LAST:\n• CNS (in the order of appearance)\n  - Tinnitus, blurred vision, dizziness, tongue paresthesia, and circumoral numbness\n  - Excitatory signs such as nervousness, agitation, restlessness, and muscle twitching leading to tonic-clonic seizures\n  - CNS depression with slurred speech, drowsiness, unconsciousness, and then respiratory arrest\n  - Patients who have received CNS depressant drugs may present with only CNS depression without any preceding excitatory signs\n• CVS\n  - Prolonged PR intervals and widened QRS complexes, and sinus bradycardia/arrest\n  - Ventricular arrhythmias, including fibrillation, are more likely to occur with bupivacaine than lidocaine\n\nPrevention:\n• Careful aspiration for CSF (to rule out intrathecal placement) and blood (to rule out intravascular placement) before injecting the local anesthesia\n• Use of a test dose with lidocaine and adrenaline\n• Incremental injection techniques instead of a bolus dose\n• Close observation for early signs of intravascular injection\n\nTreatment:\n• Seizures: Benzodiazepine; if not available, a small dose of propofol or thiopentone. If seizures persist, a neuromuscular blockade to minimize acidosis and hypoxemia\n• Cardiac arrest: standard ACLS protocol with few modifications\n• Lipid emulsion therapy\n• Last resort: cardio-pulmonary bypass"
+  },
+  {
+    "q": "A first-year anaesthesia resident was attempting to administer epidural anaesthesia with bupivacaine. Inadvertently he injected the local anaesthetic intravascularly. Following this, the patient’s ECG showed prolonged PR intervals, widened QRS complexes and sinus bradycardia. Which of the following measures could not have prevented this?",
+    "options": [
+      "Aspirating before injecting",
+      "Using test dose",
+      "Using bolus dose",
+      "Using incremental doses"
+    ],
+    "answerIndex": 2,
+    "explanation": "Using bolus dose does not prevent systemic toxic side effects from accidental intravascular injection of local anesthetics.\n\nThe major systemic toxic side effects from accidental intravascular injection can be avoided by:\n• Initial test dose\n• Aspirating prior to each injection (negative aspiration for blood)\n• Using incremental dosing\n• Close observation for early signs of intravascular injection (tinnitus, lingual sensations)"
+  },
+  {
+    "q": "A patient who was given epidural anaesthesia for a knee surgery developed fever, headache, vomiting and neck stiffness on the 4th post-operative day. Which of the following is the most likely agent causing this?",
+    "options": [
+      "Streptococcus",
+      "Staphylococcus",
+      "E. coli",
+      "Haemophilus influenzae"
+    ],
+    "answerIndex": 0,
+    "explanation": "The above case scenario is suggestive of bacterial meningitis following epidural anaesthesia. The most common organism responsible for bacterial meningitis following neuraxial blockade (spinal and epidural) is Streptococcus viridans.\n\nHowever, the most common organisms responsible for epidural-anaesthesia-related local infection (abscess) is Staphylococcus.\n\nStreptococcus viridans is an oral commensal, emphasizing the purpose of wearing a mask as part of a full aseptic technique."
+  },
+  {
+    "q": "The nurse provides you with the case list for the day. In which of the following patients can centrineuraxial (spinal and epidural) anaesthesia be safely administered to immediately?",
+    "options": [
+      "14 year old boy with h/o bleeding diathesis",
+      "72 year old man on low dose aspirin",
+      "48 year old woman on warfarin",
+      "32 year old woman on LMWH"
+    ],
+    "answerIndex": 1,
+    "explanation": "Being on low dose aspirin is not a contraindication for the use of centrineuraxial anaesthesia. So, it is safe to administer it to a patient on low dose aspirin.\n\nThis is because the use of most antiplatelet agents (except aspirin & NSAIDs) is associated with an increased risk of complications from centrineuraxial anaesthesia.\n\nLMWH administration must be stopped prophylactically (12 hours prior) and therapeutically (24 hours prior) to centrineuraxial anaesthesia. It can be done only after checking if the platelet count is normal (if LMWH has been administered for more than 4 days). This is due to reports of spinal/epidural hematomas when centrineuraxial anaesthesia is given to patients on LMWH."
+  },
+  {
+    "q": "Which of the following is not an absolute contraindication for spinal anaesthesia?",
+    "options": [
+      "Patient refusal",
+      "Myelopathy",
+      "Raised intracranial pressure",
+      "Local infection"
+    ],
+    "answerIndex": 1,
+    "explanation": "All the above are absolute contraindications for spinal anaesthesia except myelopathy, which is a relative contraindication.\n\nIn the setting of neurological deficit (myelopathy), careful evaluation of neurologic status must first be undertaken and noted along with documentation of the discussion of the risks and benefits for a medico-legal purpose."
+  },
+  {
+    "q": "As a first-year anaesthesia resident posted in the emergency OT, you are handed the list of cases posted for surgery. In which of the following patients can you plan to perform spinal anaesthesia?",
+    "options": [
+      "Patient with polytrauma and massive bleeding",
+      "Patient having pyogenic vertebral osteomyelitis",
+      "Patient having a coronary stent on clopidogrel",
+      "Patient with hypertension on amlodipine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Patient being on antihypertensives like CCBs (amlodipine) is not a contraindication for a neuraxial block.\n\nPatient on antiplatelets:\nAntiplatelets (except aspirin and NSAIDs) should be withheld till their effects have worn off as they increase the risk of spinal hematoma.\n\nWaiting period (examples):\n• Clopidogrel – 7 days\n• Ticlopidine – 14 days\n• Abciximab – 48 hours"
+    ,
+    "expImage": [
+      "assets/images/anes_regional_complications/q18_eximage.jpg"
+    ]
+  },
+  {
+    "q": "A patient on therapeutic low-molecular-weight heparin (LMWH) is to be posted for surgery. How many hours after the last dose of LMWH can a neuraxial block be safely performed?",
+    "options": [
+      "Immediately",
+      "After 4 hours",
+      "After 12 hours",
+      "After 24 hours"
+    ],
+    "answerIndex": 3,
+    "explanation": "The neuraxial block can be safely performed 24 hours after the last therapeutic dose of low-molecular-weight heparin (LMWH).\n\nIn a patient who has received a prophylactic dose of LMWH, the block is delayed for 12 hours.\n\nPostoperative LMWH thromboprophylaxis:\n• Remove epidural catheter 2 hours prior to the first LMWH dose\n• If thromboprophylaxis is already started, remove epidural catheter 10 hours after a dose of LMWH. Subsequent LMWH dosing is given 2 hours after the removal of the catheter."
+  },
+  {
+    "q": "A 65-year-old woman with a history of DVT and CKD is on heparin. She is set to undergo a hemiarthroplasty under neuraxial block. How much interval should there be between her last dose of unfractionated heparin and the surgical procedure?",
+    "options": [
+      "Immediately",
+      "4 hours",
+      "12 hours",
+      "24 hours"
+    ],
+    "answerIndex": 1,
+    "explanation": "An interval of at least 4 hours must be there between her last dose of unfractionated heparin and the surgical procedure being performed under neuraxial block.\n\nAs the patient has CKD, only unfractionated heparin can be used in her. The subsequent dose can be given 1 hour after the neuraxial technique.\n\n“Minidose” subcutaneous heparin prophylaxis, aspirin and NSAIDs are not contraindications to neuraxial anesthesia or epidural catheter removal."
+  },
+  {
+    "q": "Which one of the following is the description of the term allodynia used in the context of pain management?",
+    "options": [
+      "Perception of ordinarily non-noxious stimulus as severe pain",
+      "Absence of pain perception",
+      "Pain in area that lacks sensation",
+      "Unpleasant sensation with or without a stimulus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Perception of ordinarily non-noxious stimulus as severe pain is Allodynia.\n\nAbsence of pain perception: Analgesia\n\nPain in an area that lacks sensation: Anaesthesia Dolorosa\n\nUnpleasant sensation with or without a stimulus: Dysesthesia"
+  },
+  {
+    "q": "You are assessing a 4-year-old child who underwent an appendicectomy for pain. You are using the Children Hospital Eastern Ontario Pain Scale (CHEOPS) for rating postoperative pain. Which of the following parameters will you not use for this?",
+    "options": [
+      "Verbal expression",
+      "Touch position",
+      "Body position",
+      "Oxygen saturation"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Children Hospital Eastern Ontario Pain Scale (CHEOPS) for rating postoperative pain in children does not include oxygen saturation.\n\nIt includes:\n• crying\n• facial expression\n• body position (torso)\n• verbal expression\n• touch position\n• leg position.\n\nOther pain assessment scales include:\n• Oucher face scale\n• Visual analogue scale (VAS)"
+  },
+  {
+    "q": "Transient neurological symptoms are mostly attributed to the use of which local anesthetic?",
+    "options": [
+      "Bupivacaine",
+      "Lidocaine",
+      "Prilocaine",
+      "Ropivacaine"
+    ],
+    "answerIndex": 1,
+    "explanation": "Transient neurological symptoms are mostly attributed to the use of intrathecal lidocaine.\n\nNote: TNS was previously known as transient radicular irritation."
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "q": "What concentration of intravenous thiopentone is used to induce anesthesia in a patient?",
+    "options": ["0.25%", "1%", "2%", "2.5%"],
+    "answerIndex": 3,
+    "explanation": "Thiopentone is used as a 2.5% solution.\n\nThiopentone is prepared as a sodium salt (mixed with 6% by weight anhydrous sodium carbonate) and can be reconstituted with water, 5% glucose, or normal saline to produce a 2.5% solution.\n\nOther reconstituted solutions:\n• 2% solution of thiamylal\n• 1% solution of methohexital"
+  },
+  {
+    "q": "In patients administered thiopentone, which property of the drug allows for the rapid recovery from anesthesia?",
+    "options": ["Rapid elimination", "Rapid reabsorption", "Rapid metabolism", "Rapid redistribution"],
+    "answerIndex": 3,
+    "explanation": "Rapid recovery from thiopentone anesthesia is due to its rapid redistribution.\n\nIt is redistributed from the brain to tissues that are less perfused, such as muscles, resulting in rapid recovery (usually within 20 minutes)."
+  },
+  {
+    "q": "You are asked to reconstitute thiopentone a few minutes before the 1st OT case is scheduled to start. Which of the following would you not use?",
+    "options": ["Normal saline", "Glucose", "Ringer's lactate", "Water"],
+    "answerIndex": 2,
+    "explanation": "Thiopentone is an alkaline solution and should not be reconstituted with Ringer's lactate which has an acidic pH. Ringer's lactate decreases the alkalinity of the solution and the calcium present in it can result in precipitation of thiopentone.\n\nThiopentone and other barbiturates are prepared as sodium salts (mixed with 6% by weight anhydrous sodium carbonate) and can be reconstituted with water, 5% glucose, or normal saline to produce a 2.5% solution.\n\nAfter reconstitution:\n• Thiobarbiturates (thiopentone, thiamylal) – stable if refrigerated for 1 week\n• Methohexital – stable if refrigerated for 6 weeks"
+  },
+  {
+    "q": "In which of the following patients can thiopentone be administered safely?",
+    "options": [
+      "A 44-year-old man with brain tumor",
+      "A 24-year-old woman with history of acute intermittent porphyria",
+      "A 60-year-old woman in hypovolemic shock",
+      "A 52-year-old man with chronic obstructive pulmonary disease"
+    ],
+    "answerIndex": 0,
+    "explanation": "Thiopentone can be safely administered in a patient with raised intracranial tension (e.g., brain tumor).\n\nThiopentone is cerebroprotective as it reduces CSF volume by facilitating its absorption. It also decreases cerebral blood flow and cerebral blood volume, thereby lowering intracranial pressure. It reduces cerebral oxygen consumption (CMRO2) and has anticonvulsant properties.\n\nOther options are contraindications:\n• Acute intermittent porphyria – thiopentone induces ALA synthetase and precipitates porphyria.\n• Hypovolemic shock – causes significant reduction in cardiac output and arterial blood pressure due to vasodilation and venous pooling.\n• COPD – produces dose-related central respiratory depression."
+  },
+  {
+    "q": "On administration of intravenous thiopentone for induction, a patient loses consciousness in less than thirty seconds. Which of the following is the reason for its rapid onset of action?",
+    "options": ["Low lipid solubility", "Rapid redistribution", "High amount of ionized fraction", "High amount of unionized fraction"],
+    "answerIndex": 3,
+    "explanation": "Thiopentone has a rapid onset of action due to high lipid solubility and a high unionized fraction.\n\nOnly the unionized form can cross the blood–brain barrier and exert its effect (within approximately 30 seconds).\n\nRapid redistribution is responsible for termination of action, not onset."
+  },
+  {
+    "q": "Which of the statement regarding the drug given below is incorrect?",
+    "options": [
+      "Rapid onset and ultrashort duration of action",
+      "Produces adequate analgesia",
+      "Contraindicated in status asthmaticus",
+      "Cerebroprotective"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_iv_barbiturates_benzodiazepines/q6_qimage.jpg",
+    "explanation": "Thiopentone does not produce analgesia and may even produce anti-analgesia by reducing the pain threshold.\n\nIt has a rapid onset of action (within 30 seconds) due to high lipid solubility and a high unionized fraction (about 60%). It has an ultrashort duration of action (within 20 minutes) due to rapid redistribution.\n\nThiopentone does not completely suppress airway responses to laryngoscopy and intubation and may lead to bronchospasm in asthmatics.\n\nThiopentone is cerebroprotective as it reduces CSF volume by facilitating its absorption and decreases cerebral blood flow and cerebral blood volume, thus lowering intracranial pressure. It also has anticonvulsant properties."
+  },
+  {
+    "q": "A middle-aged woman diagnosed with major depressive disorder associated with suicidal thoughts is scheduled to receive electroconvulsive therapy. What is the anesthetic agent of choice for her procedure?",
+    "options": ["Thiopentone", "Methohexitone", "Pentobarbitone", "Lorazepam"],
+    "answerIndex": 1,
+    "explanation": "Intravenous methohexital is the agent of choice for providing anesthesia during electroconvulsive therapy (ECT).\n\nMethohexital can induce seizures and has rapid recovery. It is also useful in identifying epileptic foci during surgery for resistant seizures.\n\nAccording to the Mental Health Care Act (MHCA) 2017, ECT should be performed only after administering a short-acting general anesthetic along with muscle relaxants (modified ECT)."
+  },
+  {
+    "q": "Which of the following barbiturates is not completely eliminated by the liver?",
+    "options": ["Thiopentone", "Phenobarbitone", "Thiamylal", "Methohexital"],
+    "answerIndex": 1,
+    "explanation": "Phenobarbitone is not completely eliminated by the liver. Approximately 25–50% of the drug is excreted by the kidneys in an unchanged form.\n\nAll other barbiturates (thiopentone, thiamylal, methohexital) are completely eliminated by the liver."
+  },
+  {
+    "q": "A school student is brought to the casualty unresponsive following trauma to the head. NCCT image is shown below. Which drug would you prefer for induction of anesthesia in him?",
+    "options": ["Ketamine", "Halothane", "Nitrous oxide", "Thiopentone"],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_iv_barbiturates_benzodiazepines/q9_qimage.jpg",
+    "expImage": "assets/images/anes_iv_barbiturates_benzodiazepines/q9_eximage.jpg",
+    "explanation": "The imaging suggests an extradural hemorrhage (EDH). Thiopentone is preferred for induction of anesthesia in head injury.\n\nThiopentone is cerebroprotective, as it decreases cerebral blood flow (CBF), thus lowering intracranial pressure (ICP). It reduces cerebral oxygen consumption (CMRO2) and has anticonvulsant properties.\n\nIn contrast:\n• Ketamine increases CBF and ICP.\n• Halothane increases CBF and ICP.\n• Nitrous oxide increases CBF and ICP."
+  },
+  {
+    "q": "You administer intravenous thiopentone for induction in a patient. As soon as you inject the drug, the patient complains of excruciating pain in his fingers with burning sensation. Fingers turn pale initially and soon became cyanosed. What will be your next step in the management of this situation?",
+    "options": ["Administer saline", "Administer heparin", "Administer lidocaine", "Remove the needle immediately"],
+    "answerIndex": 0,
+    "explanation": "This clinical picture suggests accidental intra-arterial administration of thiopentone.\n\nIntra-arterial injection can form crystals in arterioles and capillaries causing severe vasoconstriction, thrombosis, and even gangrene.\n\nManagement:\n• The needle should not be removed immediately as it can aggravate vasospasm.\n• Saline should be administered via the same needle to dilute the drug (first step).\n• Heparin to prevent thrombosis.\n• Papaverine and lidocaine may help relieve vasospasm.\n• Brachial plexus block or stellate ganglion block may be required."
+  },
+  {
+    "q": "What is the main goal of pre-medication prior to surgery?",
+    "options": ["Decrease secretions", "Reduce postoperative nausea and vomiting", "Diminish anxiety", "Prevent aspiration"],
+    "answerIndex": 2,
+    "explanation": "The main goal of premedication is to diminish anxiety.\n\nPreoperative medication may also provide relief of preoperative pain or perioperative amnesia.\n\nIndications for preoperative medication include:\n• Prophylaxis against postoperative nausea and vomiting (5-HT3 antagonists)\n• Prophylaxis against aspiration pneumonia (e.g., antacids)\n• Prevention of allergic reactions (e.g., antihistamines)\n• Decreasing upper airway secretions (e.g., anticholinergics)\n\nSome medications (e.g., opioids) decrease anesthetic requirements and facilitate smooth induction."
+  },
+  {
+    "q": "Which of the following drugs should be avoided in patients with bronchial asthma?",
+    "options": ["Propofol", "Ketamine", "Etomidate", "Thiopental"],
+    "answerIndex": 3,
+    "explanation": "Histamine release is more commonly seen with barbiturates like thiopental and methohexital. Hence thiopental should be avoided in patients with bronchial asthma to prevent wheezing.\n\nBarbiturates increase histamine release from mast cells and produce a higher incidence of bronchospasm compared to propofol."
+  },
+  {
+    "q": "A 4-year-old child planned for an MRI requires to be sedated. Which short-acting benzodiazepine is to be ideally administered for this purpose?",
+    "options": ["Diazepam", "Lorazepam", "Midazolam", "Temazepam"],
+    "answerIndex": 2,
+    "explanation": "The shortest-acting benzodiazepine among the given options is midazolam. It is administered as premedication in children having separation anxiety before procedures or in short procedures requiring sedation.\n\nBenzodiazepines used in anesthesia are classified as:\n• Ultra-short acting – Remimazolam\n• Short-acting – Midazolam\n• Intermediate-acting – Lorazepam, Temazepam\n• Long-acting – Diazepam"
+  },
+  {
+    "q": "Benzodiazepines are administered to a patient as pre-medication. These drugs have all the following effects except:",
+    "options": ["Allay anxiety", "Analgesia", "Muscle relaxation", "Perioperative amnesia"],
+    "answerIndex": 1,
+    "explanation": "Benzodiazepines do not produce analgesia and must be used with other anesthetic drugs to provide sufficient analgesia.\n\nThey act through GABA-A receptors.\n• α1 subunit – sedation, anterograde amnesia, anticonvulsant action\n• α2 subunit – anxiolysis and muscle relaxation"
+  },
+  {
+    "q": "Remimazolam is administered to a 44-year-old man prior to an esophagogastroduodenoscopy. Which of the following statements is incorrect regarding the drug?",
+    "options": [
+      "Can be used for procedures thirty minutes or less",
+      "Faster acting than midazolam",
+      "Metabolized by nonspecific esterases",
+      "New GABA-B receptor agonist"
+    ],
+    "answerIndex": 3,
+    "explanation": "Remimazolam is a new GABA-A receptor agonist (not GABA-B).\n\nIt is an ultra-short acting intravenous benzodiazepine that is rapidly degraded in plasma by nonspecific esterases into an inactive carboxylic acid metabolite (CNS 7054).\n\nIt has rapid onset of action, greater depth of sedation, and more rapid recovery than midazolam.\n\nIt is commonly used for short procedures."
+  },
+  {
+    "q": "Which of the following can be used as an intravenous induction agent?",
+    "options": ["Lorazepam", "Bupivacaine", "Dexmedetomidine", "Neostigmine"],
+    "answerIndex": 0,
+    "explanation": "Lorazepam is a benzodiazepine that can be used for induction of anesthesia (dose ~0.1 mg/kg), although midazolam is more commonly preferred among benzodiazepines.\n\nBupivacaine is a local anesthetic.\nDexmedetomidine is an alpha-2 agonist mainly used as an adjuvant.\nNeostigmine is an anticholinesterase used for reversal of neuromuscular blockade."
+  },
+  {
+    "q": "Overdose with which of the following drugs can be reversed with flumazenil?",
+    "options": ["Barbiturates", "Benzodiazepines", "Opioids", "Amphetamines"],
+    "answerIndex": 1,
+    "explanation": "Flumazenil is the first benzodiazepine antagonist approved for clinical use to reverse the effects of benzodiazepines.\n\nIt is a competitive, reversible antagonist at the benzodiazepine receptor with high affinity and specificity.\n\nIt is used for both diagnostic and therapeutic reversal of benzodiazepine receptor agonists."
+  },
+  {
+    "q": "Which of the following statements is incorrect concerning the drug in the image below?",
+    "options": [
+      "Predisposes to systemic infections",
+      "Associated with pancreatitis",
+      "Reduces postoperative nausea and vomiting",
+      "Contraindicated in egg allergic patients"
+    ],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_iv_barbiturates_benzodiazepines/q18_qimage.jpg",
+    "explanation": "The drug shown is propofol.\n\nPropofol is formulated as an oil-in-water emulsion containing soybean oil, glycerol, and egg lecithin. Egg allergy is usually due to egg white (albumin), whereas propofol contains egg lecithin derived from egg yolk. Therefore, it is not absolutely contraindicated in egg-allergic patients.\n\nPropofol has been associated with systemic infections because it reduces polymorphonuclear leukocyte chemotaxis and phagocytosis.\n\nIt is associated with hypertriglyceridemia which may predispose to pancreatitis.\n\nIt has antiemetic properties and reduces postoperative nausea and vomiting."
+  },
+  {
+    "q": "Bacterial contamination of drug vials is a risk with ____________.",
+    "options": ["Thiopentone", "Etomidate", "Propofol", "Ketamine"],
+    "answerIndex": 2,
+    "explanation": "Bacterial contamination of vials is a risk with propofol.\n\nPropofol formulations contain egg lecithin and soybean oil. The lipid emulsion is an excellent medium for bacterial growth, and lack of preservatives supports microbial proliferation.\n\nHence, propofol must be used within 6 hours of opening the ampule.\n\nNowadays, additives such as 0.005% disodium edetate or 0.025% sodium metabisulfite are added to retard microbial growth."
+  },
+  {
+    "q": "Which of the following statements is incorrect regarding propofol?",
+    "options": [
+      "Hypotension following induction",
+      "Severe pruritis following injection",
+      "Pain on injection",
+      "Depresses airway reflexes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Propofol has antipruritic properties and may relieve cholestatic pruritus. Hence severe pruritis following injection is incorrect.\n\nPropofol produces a 25–40% reduction in systolic blood pressure following induction.\n\nIt causes pain during injection due to lipid emulsion formulation (can be reduced by lidocaine).\n\nIt produces maximum inhibition of airway reflexes and facilitates intubation and airway manipulation."
+  },
+  {
+    "q": "You decide to use a prodrug of propofol for a bronchoscopy under conscious sedation. Which of the following is an incorrect statement regarding this drug?",
+    "options": [
+      "Water soluble",
+      "Faster acting than propofol",
+      "No pain on injection",
+      "Less incidence of hypotension and apnea"
+    ],
+    "answerIndex": 1,
+    "explanation": "The prodrug is fospropofol.\n\nFospropofol is water-soluble and has slower onset and slower recovery than propofol.\n\nIt is hydrolyzed to propofol, phosphate, and formaldehyde.\n\nIt is not associated with pain on injection and is associated with a lower incidence of hypotension, respiratory depression, apnea, and loss of airway patency compared to propofol."
+  },
+  {
+    "q": "Which of the following anesthetics have high abuse potential?",
+    "options": ["Etomidate", "Thiopentone", "Methohexital", "Propofol"],
+    "answerIndex": 3,
+    "explanation": "Propofol has high abuse potential due to its hypnotic property and development of tolerance on prolonged use.\n\nAbuse is reported especially among healthcare workers with self-administration.\n\nIt has a narrow therapeutic window between hypnotic/euphoric effect and lethal dose."
+  },
+  {
+    "q": "A critically ill patient was given an infusion of an intravenous anesthetic at a dose of 4 mg/kg/hour. 48 hours later, the patient developed refractory bradycardia, and there was evidence of rhabdomyolysis on investigations. Which agent is most likely implicated?",
+    "options": ["Thiopentone", "Propofol", "Etomidate", "Ketamine"],
+    "answerIndex": 1,
+    "explanation": "This presentation suggests propofol infusion syndrome (PRIS).\n\nPRIS is a rare but lethal syndrome seen when propofol infusion exceeds 4 mg/kg/hour for 48 hours or longer.\n\nClinical features include:\n• Acute refractory bradycardia leading to asystole\n• Metabolic acidosis (base deficit >10 mmol/L)\n• Rhabdomyolysis\n• Hyperlipidemia\n• Enlarged fatty liver\n• Cardiomyopathy with acute cardiac failure\n• Hyperkalemia\n• Skeletal myopathy\n\nIt is due to defect in mitochondrial metabolism and electron transport chain function."
+  },
+  {
+    "q": "Two days after he underwent a gastrectomy, a patient complained of severe abdominal pain, nausea, and vomiting. Labs showed elevated serum amylase and lipase levels. CECT showed diffuse parenchymal enlargement of the pancreas. Administration of which of the following anesthetics is implicated here?",
+    "options": ["Propofol", "Etomidate", "Thiopentone", "Ketamine"],
+    "answerIndex": 0,
+    "explanation": "The scenario suggests acute pancreatitis.\n\nPropofol has been associated with hypertriglyceridemia, which may predispose to pancreatitis.\n\nRisk factors for propofol-induced hypertriglyceridemia:\n• Old age\n• Longer ICU stay\n• Prolonged infusion duration\n\nSerum triglyceride levels should be monitored during prolonged infusions."
+  },
+  {
+    "q": "Which of the following findings would not be seen in a patient with propofol infusion syndrome?",
+    "options": ["Bradycardia", "Cardiac failure", "Hyperlipidemia", "Hypokalemia"],
+    "answerIndex": 3,
+    "explanation": "Propofol infusion syndrome is associated with:\n• Acute refractory bradycardia\n• Cardiac failure\n• Hyperlipidemia\n• Rhabdomyolysis\n• Metabolic acidosis\n\nIt is associated with hyperkalemia (due to rhabdomyolysis), not hypokalemia."
+  },
+  {
+    "q": "Which one of the following anesthetic agents shows the Robin Hood phenomenon?",
+    "options": ["Propofol", "Etomidate", "Ketamine", "Thiopentone"],
+    "answerIndex": 3,
+    "explanation": "Robin Hood (reverse steal) phenomenon is seen with thiopentone.\n\nThiopentone constricts normal cerebral vasculature causing a decrease in cerebral blood flow, cerebral blood volume, and intracranial pressure.\n\nBlood vessels in ischemic areas remain dilated due to ischemia-induced vasomotor paralysis and are unaffected by thiopentone.\n\nThis leads to redistribution of blood flow from normal to ischemic areas."
+  },
+  {
+    "q": "Which of the following is true about total intravenous anesthesia?",
+    "options": [
+      "Reduces cerebral metabolism and cerebral blood flow",
+      "Smooth induction with high incidence of postoperative nausea and vomiting",
+      "Propofol inhibits pulmonary vasoconstriction due to hypoxia",
+      "Higher chances of nephrotoxicity and pulmonary toxicity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Total intravenous anesthesia (TIVA) reduces cerebral metabolism and cerebral blood flow.\n\nAdvantages of TIVA:\n• Smooth induction and rapid recovery with minimal hangover\n• Low incidence of postoperative nausea and vomiting\n• Safe in patients susceptible to malignant hyperthermia\n• Reduced greenhouse effect compared to inhalational anesthetics\n• Paralysis not always required (especially in propofol TIVA with remifentanil)"
+  },
+  {
+    "q": "Which of the following is not an intravenous induction agent?",
+    "options": ["Propofol", "Thiopentone", "Etomidate", "Halothane"],
+    "answerIndex": 3,
+    "explanation": "Halothane is an inhalational anesthetic agent (halogenated alkane).\n\nIntravenous induction agents include:\n• Propofol – most commonly used IV anesthetic\n• Thiopentone – IV agent of choice for cerebral protection\n• Etomidate – IV agent preferred for cardiovascular stability\n• Ketamine – IV agent of choice in asthmatics"
+  }
+]

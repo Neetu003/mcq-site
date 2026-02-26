@@ -1,0 +1,230 @@
+[
+  {
+    "q": "Which of the following is the correct sequence?",
+    "options": [
+      "Assess the patient's response, Activate ERS, check carotid pulse, Start CPR",
+      "Check carotid pulse, Start CPR, Call for help and activate ERS, Defibrillate",
+      "Defibrillate, Assess response, Check carotid pulse, Maintain airway",
+      "Start CPR, Activate ERS, Defibrillate, Check pulse"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct sequence in Basic Life Support (BLS) follows a structured approach to maximize survival.\n\n1. Scene Safety – Ensure the surroundings are safe for both rescuer and victim.\n2. Check Responsiveness – Tap and shout.\n3. Activate Emergency Response System (ERS) and call for AED.\n4. Check breathing and carotid pulse simultaneously for no more than 10 seconds.\n\nIf no pulse and no breathing → Start high-quality CPR immediately.\n\nCPR ratio: 30 compressions : 2 rescue breaths.\nCompression rate: 100–120/min.\nCompression depth (adult): at least 5 cm but not more than 6 cm.\n\nIf pulse present but no breathing → Give rescue breathing 1 breath every 5–6 seconds (10–12 breaths/min).\n\nAttach AED as soon as available. If shockable rhythm detected (VF/pVT), deliver one shock and resume CPR immediately."
+  },
+
+  {
+    "q": "On your morning walk in the park, you notice an unconscious man lying on the ground. Which of the following options would be the next best step?",
+    "options": [
+      "Check carotid pulse, start CPR, and call for help; Defibrillate if no pulse.",
+      "Call for help, check pulse, do CPR, defibrillate if no pulse",
+      "Observe",
+      "Ignore and continue to walk"
+    ],
+    "answerIndex": 1,
+    "explanation": "After confirming scene safety and unresponsiveness, the immediate action is to activate emergency response and call for help.\n\nThen assess breathing and carotid pulse simultaneously for no more than 10 seconds.\n\nIf pulse absent → Start chest compressions immediately.\nIf pulse present but apneic → Provide rescue breathing.\n\nEarly activation of ERS ensures rapid AED access and advanced care."
+  },
+
+  {
+    "q": "On witnessing a cardiac arrest, what is the first thing you would do?",
+    "options": [
+      "Check for victim’s responsiveness",
+      "Check for a pulse",
+      "Check for breathing",
+      "Check for scene safety"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first step in any emergency is ensuring scene safety. The rescuer must confirm there is no danger (traffic, fire, electrical hazard).\n\nOnly after ensuring safety should responsiveness be assessed.\n\nIf unresponsive:\n• Activate ERS\n• Check breathing and pulse\n• Begin CPR if no pulse\n\nThis prevents rescuer injury and ensures structured resuscitation."
+  },
+
+  {
+    "q": "What does the cardiopulmonary resuscitation sequence start with?",
+    "options": [
+      "Airway",
+      "Breathing",
+      "Circulation",
+      "Drugs"
+    ],
+    "answerIndex": 2,
+    "explanation": "The CPR sequence follows the CAB approach:\n\nC – Circulation (Chest compressions)\nA – Airway\nB – Breathing\n\nChest compressions are initiated first because maintaining coronary and cerebral perfusion is critical. Interruptions in circulation rapidly decrease survival chances.\n\nEffective compressions generate forward blood flow by compressing the heart between sternum and spine."
+  },
+
+  {
+    "q": "A 50-year-old man presented to the ER with complaints of chest pain. He suddenly collapsed and became unresponsive. His pulse was not recordable so you started chest compressions. Which of the following steps would you not perform according to the BLS algorithm?",
+    "options": [
+      "Defibrillation using Automated external defibrillator",
+      "Intubation using Laryngeal mask airway",
+      "Performing Head tilt – chin lift",
+      "Bag and mask ventilation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Insertion of advanced airway devices such as a Laryngeal Mask Airway (LMA) is part of Advanced Cardiac Life Support (ACLS), not Basic Life Support.\n\nBLS includes:\n• High-quality chest compressions\n• Airway opening (head tilt–chin lift)\n• Rescue breathing\n• AED defibrillation\n\nAdvanced airway management belongs to ACLS."
+  },
+
+  {
+    "q": "You witness a 40-year-old man suddenly collapse near the ER. For maximum effectiveness, what should be the depth of chest compressions?",
+    "options": ["1 cm", "2 cm", "3 cm", "5 cm"],
+    "answerIndex": 3,
+    "explanation": "Adult compression depth should be at least 5 cm but not more than 6 cm.\n\nShallow compressions reduce perfusion pressure.\nExcessively deep compressions increase injury risk.\n\nAdequate depth improves coronary perfusion pressure and survival."
+  },
+
+  {
+    "q": "What should be the rate of chest compressions?",
+    "options": ["60-80", "80-100", "100-120", "120-140"],
+    "answerIndex": 2,
+    "explanation": "Compression rate should be 100–120 per minute.\n\nRate <100 → insufficient perfusion.\nRate >120 → incomplete chest recoil and reduced filling."
+  },
+
+  {
+    "q": "What is the adult compression to ventilation ratio?",
+    "options": ["15:1", "15:2", "30:1", "30:2"],
+    "answerIndex": 3,
+    "explanation": "Adult CPR ratio is 30:2 regardless of number of rescuers.\n\nContinuous compressions are prioritized."
+  },
+
+  {
+    "q": "For effective compressions, hand placement should be?",
+    "options": [
+      "Upper half of sternum",
+      "Middle third",
+      "Lower half of sternum",
+      "Upper third"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hands are placed on the lower half of sternum.\n\nHeel of one hand placed centrally.\nOther hand on top.\nElbows locked.\nUse body weight for compressions."
+  },
+
+  {
+    "q": "Which of the following defines high-quality CPR?",
+    "options": [
+      "1, 2, 3, and 4",
+      "1, 2, and 4",
+      "2, 3, and 4",
+      "1 and 2 only"
+    ],
+    "answerIndex": 2,
+    "explanation": "High-quality CPR includes:\n• Rate 100–120/min\n• Depth ≥5 cm adults\n• Full recoil\n• Minimize interruptions\n• Avoid excessive ventilation"
+  },
+
+  {
+    "q": "Which is NOT included in high-quality CPR?",
+    "options": [
+      "Compression depth ≥5 cm",
+      "Rotate compressor every 3 minutes",
+      "Avoid excessive ventilation",
+      "30:2 ratio"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rescuers should rotate every 2 minutes to prevent fatigue."
+  },
+
+  {
+    "q": "A 3-year-old choking child becomes unresponsive. Next step?",
+    "options": [
+      "5 back slaps",
+      "Abdominal thrusts",
+      "Intubation",
+      "Chest compressions"
+    ],
+    "answerIndex": 3,
+    "expImages": [
+      "assets/images/anes_bls_pals/q12_eximage_1.jpg",
+      "assets/images/anes_bls_pals/q12_eximage_2.jpg"
+    ],
+    "explanation": "If choking child becomes unresponsive:\n\n• Call for help\n• Begin CPR starting with chest compressions\n• Check airway during rescue breaths\n• Do NOT perform blind finger sweep\n\nResponsive child → Abdominal thrusts\nResponsive infant → 5 back slaps + 5 chest thrusts"
+  },
+
+  {
+    "q": "Identify the device shown.",
+    "options": [
+      "Automated External Desynchronizer",
+      "Automated External Defibrillator",
+      "Automated Electronic Defibrillator",
+      "Automated External decompressor"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_bls_pals/q13_qimage.jpg",
+    "explanation": "The device is an Automated External Defibrillator (AED).\n\nIt analyzes cardiac rhythm and delivers shock in ventricular fibrillation or pulseless ventricular tachycardia.\n\nUsed with CPR in sudden cardiac arrest."
+  },
+  {
+    "q": "In a cardiac arrest patient, if intravenous access cannot be obtained, what is the next best way to administer epinephrine?",
+    "options": [
+      "Endotracheal route",
+      "Intramuscular",
+      "Intraosseous",
+      "Wait till intravenous access is made"
+    ],
+    "answerIndex": 2,
+    "explanation": "If intravenous (IV) access cannot be obtained rapidly during cardiac arrest, the recommended alternative is the intraosseous (IO) route.\n\nThe intraosseous route provides access to the marrow venous plexus, which drains into the central circulation. Drug delivery via IO achieves plasma concentrations comparable to IV administration.\n\nPreferred IO sites in children:\n• Proximal tibia (most common and preferred)\n• Distal femur (alternative)\n\nIO access should not delay CPR or defibrillation."
+  },
+
+  {
+    "q": "An unconscious 4-year-old child is brought to the ER. On examination, she is gasping but her pulse is not recordable. You start CPR but cannot obtain IV access. Which site is preferred for intraosseous access?",
+    "options": [
+      "Proximal Tibia",
+      "Sternum",
+      "Iliac crest",
+      "Proximal femur"
+    ],
+    "answerIndex": 0,
+    "explanation": "The proximal tibia is the preferred intraosseous access site in pediatric patients.\n\nAnatomically, it is easily identifiable and has a large marrow cavity suitable for rapid drug delivery.\n\nIO access allows administration of:\n• Epinephrine\n• Fluids\n• Antiarrhythmics\n\nThis route should be established if IV access is not achieved within 60–90 seconds."
+  },
+
+  {
+    "q": "According to the AHA 2020 Pediatric guidelines, which statement is incorrect?",
+    "options": [
+      "Administer epinephrine within 5 minutes of starting compressions",
+      "Cuffed endotracheal tubes are preferred",
+      "Routine cricoid pressure is recommended",
+      "Infant respiratory rate is 20–30 breaths/min"
+    ],
+    "answerIndex": 2,
+    "explanation": "Routine cricoid pressure during intubation is NOT recommended in the AHA 2020 guidelines.\n\nCorrect recommendations include:\n• Administer first epinephrine dose within 5 minutes of starting chest compressions in non-shockable rhythms.\n• Cuffed endotracheal tubes are preferred in infants and children.\n• Normal respiratory rate in infants during assisted ventilation is approximately 20–30 breaths per minute."
+  },
+
+  {
+    "q": "A 6-year-old collapses. With two rescuers, what is the compression to ventilation ratio?",
+    "options": [
+      "15:1",
+      "15:2",
+      "30:1",
+      "30:2"
+    ],
+    "answerIndex": 1,
+    "explanation": "In pediatric CPR:\n\nSingle rescuer → 30:2\nTwo rescuers → 15:2\n\nThis higher ventilation frequency reflects the greater likelihood of respiratory causes in pediatric cardiac arrest."
+  },
+
+  {
+    "q": "An unresponsive child has a pulse rate of 40/min and SpO2 70% despite ventilation. What is the next best step?",
+    "options": [
+      "IV atropine",
+      "IV epinephrine",
+      "IV dopamine",
+      "IV adenosine"
+    ],
+    "answerIndex": 1,
+    "explanation": "In pediatric bradycardia with poor perfusion (HR <60/min despite oxygenation and ventilation), epinephrine is indicated.\n\nDose:\n• 0.01 mg/kg IV/IO of 1:10,000 solution\n• Repeat every 3–5 minutes if needed\n\nEpinephrine improves heart rate and cardiac output by beta-adrenergic stimulation."
+  },
+
+  {
+    "q": "A 5-year-old child in ventricular fibrillation requires defibrillation. What is the initial energy dose?",
+    "options": [
+      "1 J/kg",
+      "2 J/kg",
+      "4 J/kg",
+      "6 J/kg"
+    ],
+    "answerIndex": 1,
+    "explanation": "Initial pediatric defibrillation dose is 2 J/kg.\n\nIf rhythm persists:\n• Second shock: 4 J/kg\n• Subsequent shocks: ≥4 J/kg (maximum 10 J/kg or adult dose)\n\nEarly defibrillation improves survival in shockable rhythms."
+  },
+
+  {
+    "q": "In pediatric tachycardia with pulse, what defines a wide QRS complex according to AHA 2020?",
+    "options": [
+      ">0.11 sec",
+      ">0.10 sec",
+      ">0.09 sec",
+      ">0.12 sec"
+    ],
+    "answerIndex": 2,
+    "explanation": "In pediatric tachycardia with a pulse:\n\n• Narrow QRS: ≤0.09 seconds\n• Wide QRS: >0.09 seconds\n\nQRS duration helps differentiate supraventricular from ventricular tachycardia and guides management."
+  }
+]

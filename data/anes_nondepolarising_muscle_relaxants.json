@@ -1,0 +1,316 @@
+[
+  {
+    "q": "What is the mechanism of action of the curare group of muscle relaxants?",
+    "options": [
+      "Persistently depolarizing at neuromuscular junction",
+      "Competitively blocking the binding of ACh to its receptors",
+      "Repetitive stimulation of ACh receptors on muscle endplate",
+      "Inhibiting the calcium channels on presynaptic membrane"
+    ],
+    "answerIndex": 1,
+    "explanation": "The curare group of drugs includes non-depolarizing neuromuscular blocking agents that act by competitively blocking the binding of acetylcholine (ACh) to its receptors at the neuromuscular junction. This prevents depolarization of the motor end plate and thus blocks neuromuscular transmission. As a result, muscle contraction does not occur."
+  },
+  {
+    "q": "Following administration of which of the following neuromuscular blockers, is a patient likely to recover fastest?",
+    "options": [
+      "Atracurium",
+      "Cis-atracurium",
+      "Mivacurium",
+      "Rocuronium"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mivacurium is the shortest-acting non-depolarizing muscle relaxant among the given options. It is rapidly hydrolyzed by plasma pseudocholinesterase, leading to a short duration of action and rapid recovery. Hence, recovery will be fastest with mivacurium."
+  },
+  {
+    "q": "Which of the following non-depolarising neuromuscular blockers has the fastest onset of action?",
+    "options": [
+      "Succinylcholine",
+      "Mivacurium",
+      "Rocuronium",
+      "Vecuronium"
+    ],
+    "answerIndex": 2,
+    "explanation": "Among non-depolarizing muscle relaxants, rocuronium has the fastest onset of action. Although succinylcholine has a faster onset overall, it is a depolarizing agent. Rocuronium has an onset of 0.5–2 minutes and is often used as an alternative to succinylcholine for rapid sequence intubation."
+  },
+  {
+    "q": "Which of the following is not a property of gantacurium?",
+    "options": [
+      "Mixed-onium fumarate compound",
+      "Undergoes enzymatic degradation",
+      "Adduction products formed with L-cysteine",
+      "Available as lyophilized powder"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gantacurium is an ultra-short acting, rapid-onset, non-depolarizing neuromuscular blocker belonging to the mixed-onium fumarate class. It undergoes non-enzymatic degradation and is rapidly inactivated by L-cysteine adduction. It is supplied as a lyophilized powder that requires reconstitution. It does not undergo enzymatic degradation."
+  },
+  {
+    "q": "A 33-year-old lady with infertility is taken up for laparoscopic ovarian drilling in outpatient surgery. Mivacurium is administered under daycare anesthesia. Why is this drug preferred in this scenario?",
+    "options": [
+      "Rapid absorption",
+      "Rapid hydrolysis",
+      "Rapid excretion",
+      "Rapid conjugation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mivacurium is preferred in daycare procedures because it undergoes rapid hydrolysis by plasma pseudocholinesterase. This results in a short duration of action and rapid recovery, making it suitable for short outpatient procedures."
+  },
+  {
+    "q": "Which of the following is an incorrect statement regarding mivacurium?",
+    "options": [
+      "Can be used in a case of raised ICP",
+      "Metabolized by pseudocholinesterase",
+      "Causes histamine release",
+      "Elimination is kidney function dependent"
+    ],
+    "answerIndex": 3,
+    "explanation": "Mivacurium is metabolized by plasma pseudocholinesterase and does not depend on renal function for elimination. It may cause histamine release. Therefore, elimination being kidney-dependent is an incorrect statement."
+  },
+  {
+    "q": "Which of the following drugs is least suitable for muscle relaxation in long procedures?",
+    "options": [
+      "Doxacurium",
+      "Cis-atracurium",
+      "Pancuronium",
+      "Pipecuronium"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cis-atracurium is an intermediate-acting muscle relaxant. For long procedures, long-acting agents such as doxacurium or pancuronium may be preferred. Hence, cis-atracurium is least suitable for prolonged procedures among the given options."
+  }  ,
+  {
+    "q": "Which of the following muscle relaxants can cause seizures?",
+    "options": [
+      "Atracurium",
+      "Mivacurium",
+      "Pancuronium",
+      "Rocuronium"
+    ],
+    "answerIndex": 0,
+    "explanation": "Atracurium can cause seizures due to accumulation of its metabolite laudanosine. Laudanosine has central nervous system stimulating properties and, in high concentrations, may lower the seizure threshold."
+  },
+  {
+    "q": "Which of the following is incorrect regarding atracurium?",
+    "options": [
+      "Mixture of 10 optical isomers",
+      "Safe in asthmatics",
+      "Undergoes spontaneous non-enzymatic degradation",
+      "Chemically incompatible with thiopental"
+    ],
+    "answerIndex": 1,
+    "explanation": "Atracurium causes histamine release and may lead to bronchospasm. Therefore, it is not considered completely safe in asthmatic patients. It undergoes Hofmann elimination and ester hydrolysis and is chemically incompatible with alkaline solutions such as thiopental."
+  },
+  {
+    "q": "Which of the following drugs does not have a steroid ring in its structure?",
+    "options": [
+      "Vecuronium",
+      "Pancuronium",
+      "Atracurium",
+      "Rocuronium"
+    ],
+    "answerIndex": 2,
+    "explanation": "Atracurium is a benzylisoquinoline compound and does not contain a steroid nucleus. Pancuronium, vecuronium, and rocuronium are steroidal non-depolarizing neuromuscular blockers."
+  },
+  {
+    "q": "Which of the following is a true statement regarding cis-atracurium?",
+    "options": [
+      "No laudanosine production",
+      "Less potent than atracurium",
+      "Contraindicated in renal failure",
+      "No histamine production"
+    ],
+    "answerIndex": 3,
+    "explanation": "Cis-atracurium produces minimal to no histamine release compared to atracurium. It undergoes Hofmann elimination and is organ independent in metabolism. Although it produces laudanosine, the amount is much less than atracurium."
+  },
+  {
+    "q": "A 7-year-old child is posted for an elective tonsillectomy. Which drug will you use to facilitate his intubation?",
+    "options": [
+      "Vecuronium",
+      "Rocuronium",
+      "Suxamethonium",
+      "Pancuronium"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rocuronium is commonly used for intubation in pediatric patients due to its rapid onset of action and availability in intramuscular form. It provides conditions similar to succinylcholine without the adverse effects associated with depolarizing agents."
+  },
+  {
+    "q": "Which is the ideal muscle relaxant for a 2-day old neonate planned for surgery?",
+    "options": [
+      "Succinylcholine",
+      "Pancuronium",
+      "Rocuronium",
+      "Atracurium"
+    ],
+    "answerIndex": 3,
+    "explanation": "Atracurium (or cis-atracurium) is preferred in neonates because it undergoes Hofmann elimination and ester hydrolysis. Its metabolism is independent of hepatic and renal function, making it safer in neonates."
+  },
+  {
+    "q": "Which of the following muscle relaxants is vagolytic?",
+    "options": [
+      "Pancuronium",
+      "Atracurium",
+      "Mivacurium",
+      "d-tubocurarine"
+    ],
+    "answerIndex": 0,
+    "expImage": "assets/images/anes_non_depolarising_muscle_relaxants/q14_eximage.jpg",
+    "explanation": "Pancuronium has vagolytic properties due to its ability to block cardiac muscarinic (M2) receptors. This results in tachycardia and an increase in cardiac output. It has minimal histamine release but significant vagolytic action."
+  }  ,
+  {
+    "q": "A 50-year-old man with a history of myocardial infarction is planned for emergency laparotomy. Which muscle relaxant would you choose?",
+    "options": [
+      "Succinylcholine",
+      "d-tubocurarine",
+      "Pancuronium",
+      "Vecuronium"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_non_depolarising_muscle_relaxants/q15_eximage.jpg",
+    "explanation": "Vecuronium is considered the most cardio-stable non-depolarizing muscle relaxant among the given options. It produces minimal cardiovascular effects and does not cause significant histamine release or vagolytic action. Therefore, it is preferred in patients with ischemic heart disease."
+  },
+  {
+    "q": "Patient has creatinine 2.3 mg/dL. Which muscle relaxant is to be avoided?",
+    "options": [
+      "Pancuronium",
+      "Atracurium",
+      "Mivacurium",
+      "Cis-atracurium"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pancuronium is predominantly excreted unchanged by the kidneys. In patients with renal impairment, it may accumulate and prolong neuromuscular blockade. Hence, it should be avoided."
+  },
+  {
+    "q": "Which of the following is an incorrect statement concerning rapacuronium?",
+    "options": [
+      "Rapid onset and short duration",
+      "Minimal cardiovascular side effects",
+      "Safe in asthmatics",
+      "Non-depolarising muscle relaxant"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rapacuronium has been associated with significant bronchospasm and increased airway resistance. Therefore, it is not considered safe in asthmatic patients."
+  },
+  {
+    "q": "Which of the following drugs produces maximum ganglion blockade?",
+    "options": [
+      "Succinylcholine",
+      "Pancuronium",
+      "Vecuronium",
+      "d-Tubocurarine"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_non_depolarising_muscle_relaxants/q18_eximage.jpg",
+    "explanation": "d-Tubocurarine produces significant ganglionic blockade and histamine release. This can lead to hypotension due to vasodilation and reduced sympathetic tone."
+  },
+  {
+    "q": "A 65-year-old woman suspected to have ovarian cancer is set to undergo a diagnostic laparotomy under general anesthesia. During the pre-op evaluation, you note that the patient has a 5-year history of diabetic nephropathy. Which of the following drugs will you prefer to use in her case?",
+    "options": [
+      "Pancuronium",
+      "Pipecuronium",
+      "Cis-atracurium",
+      "Doxacurium"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cis-atracurium is preferred in renal impairment because its metabolism is organ independent. It undergoes Hofmann elimination and ester hydrolysis, and thus does not accumulate in renal failure."
+  },
+  {
+    "q": "A patient with chronic hepatitis B is posted for an appendectomy. His pre-op investigations show deranged liver function tests. Which muscle relaxant will you choose?",
+    "options": [
+      "Vecuronium",
+      "Pancuronium",
+      "Atracurium",
+      "Pipecuronium"
+    ],
+    "answerIndex": 2,
+    "explanation": "Atracurium undergoes Hofmann elimination and ester hydrolysis, independent of hepatic metabolism. Therefore, it is preferred in patients with liver dysfunction."
+  },
+  {
+    "q": "Following the administration of a muscle relaxant, a patient developed erythema and flushing of the face, neck, and upper body, with a drop in blood pressure. Which drug was most likely administered?",
+    "options": [
+      "Pancuronium",
+      "Atracurium",
+      "Vecuronium",
+      "Rocuronium"
+    ],
+    "answerIndex": 1,
+    "explanation": "Atracurium is known to cause histamine release, which can lead to erythema, flushing, and hypotension. These symptoms are characteristic of histamine-mediated reactions."
+  }  ,
+  {
+    "q": "During recovery from anesthesia, which of the following drugs cannot be used for reversal of neuromuscular blockade?",
+    "options": [
+      "Neostigmine",
+      "Sugammadex",
+      "Glycopyrrolate",
+      "Pyridostigmine"
+    ],
+    "answerIndex": 2,
+    "explanation": "Glycopyrrolate is an anticholinergic drug and does not reverse neuromuscular blockade. It is administered along with anticholinesterases such as neostigmine to counteract muscarinic side effects like bradycardia and excessive secretions."
+  },
+  {
+    "q": "Which of the following muscles is the last to recover from the effects of neuromuscular blockade?",
+    "options": [
+      "Orbicularis oculi",
+      "Laryngeal adductors",
+      "Diaphragm",
+      "Adductor pollicis"
+    ],
+    "answerIndex": 3,
+    "explanation": "The adductor pollicis muscle is the last to recover from neuromuscular blockade. Recovery of this muscle is commonly monitored using train-of-four stimulation at the ulnar nerve."
+  },
+  {
+    "q": "Which of the following is the best sign to assess adequate reversal of neuromuscular blockade in a patient recovering from general anesthesia?",
+    "options": [
+      "Sustained head lift > 3 seconds",
+      "Protrusion of the tongue",
+      "Sustained leg lift > 3 seconds",
+      "Train of four ratio > 0.9"
+    ],
+    "answerIndex": 3,
+    "explanation": "A train-of-four ratio greater than 0.9 is the most reliable indicator of adequate reversal of neuromuscular blockade. Clinical signs such as head lift may not reliably exclude residual paralysis."
+  },
+  {
+    "q": "Neostigmine is administered following a laparoscopic procedure to reverse neuromuscular blockade. This would result in all of the following effects in the patient except:",
+    "options": [
+      "Decreasing the breakdown of acetylcholine at the motor end plate",
+      "Preventing the potassium efflux from the cell",
+      "Increasing acetylcholine at the motor end plate",
+      "Depolarization at the motor end plate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Neostigmine is an acetylcholinesterase inhibitor. It decreases the breakdown of acetylcholine at the neuromuscular junction, thereby increasing its concentration and helping reverse non-depolarizing blockade. It does not prevent potassium efflux."
+  },
+  {
+    "q": "Before shifting a patient to the PACU, the anesthetist administers atropine along with neostigmine. What is the purpose of doing this?",
+    "options": [
+      "Prevent metabolism of neostigmine",
+      "Block muscarinic side effects",
+      "Enhance excretion",
+      "Enhance potency"
+    ],
+    "answerIndex": 1,
+    "explanation": "Atropine is administered along with neostigmine to block the muscarinic side effects of increased acetylcholine levels, such as bradycardia, salivation, bronchospasm, and increased gastrointestinal motility."
+  },
+  {
+    "q": "As you enter the OT, the senior resident asks you to administer Sugammadex to a patient being shifted to the post-op ward. Which muscle relaxant was likely to have been administered?",
+    "options": [
+      "Succinylcholine",
+      "Mivacurium",
+      "Atracurium",
+      "Rocuronium"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sugammadex is used for reversal of steroidal non-depolarizing muscle relaxants such as rocuronium and vecuronium. It works by encapsulating the drug molecule and rendering it inactive."
+  },
+  {
+    "q": "A patient is given a nicotinic receptor antagonist as a muscle relaxant. Which drug is given postoperatively to recover from muscle weakness?",
+    "options": [
+      "Physostigmine",
+      "Neostigmine",
+      "Carbachol",
+      "Succinylcholine"
+    ],
+    "answerIndex": 1,
+    "explanation": "Neostigmine is administered postoperatively to reverse non-depolarizing neuromuscular blockade. It inhibits acetylcholinesterase and increases acetylcholine concentration at the neuromuscular junction."
+  }
+]
+
+
+

@@ -1,0 +1,180 @@
+[
+  {
+    "q": "A 45-year-old woman presented to the ER with dizziness. Her blood pressure is 80/60mm Hg, pulse rate is 45/minute. Her ECG is shown below. What is the next best step of management?",
+    "options": ["IV Epinephrine", "IV Atropine", "IV Amiodarone", "IV Adenosine"],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_acls/q1_qimage.jpg",
+    "explanation": "The ECG is suggestive of symptomatic bradycardia. Treatment is indicated when bradycardia is accompanied by any of the following:\n\n• Hypotension\n• Acutely altered mental status\n• Signs of shock\n• Ischemic chest discomfort\n• Acute heart failure\n\nManagement of symptomatic bradycardia (ACLS):\n\n1) Atropine 1 mg IV bolus\n   • Repeat every 3–5 minutes\n   • Maximum total dose = 3 mg\n\n2) Along with atropine, transcutaneous pacing should be done.\n\nIf refractory to atropine and pacing:\n• Consider dopamine infusion 5–20 μg/kg/min OR epinephrine infusion 2–10 μg/min\n\nIf still not responding:\n• Try transvenous pacing\n\nNote:\n• In patients under spinal anesthesia, low dose epinephrine (0.2 mg) IV can be given.\n• Epinephrine is the drug of choice for treating bradyarrhythmias in infants and children."
+  },
+  {
+    "q": "A middle-aged woman with acute altered mental state was brought to ER. She has a history of hypothyroidism but was not on regular medication. On examination, her pulse rate was 40 beats/min. BP was 80/60 mm Hg. Which of the following cannot be used in the treatment of this patient?",
+    "options": ["Atropine", "Dopamine", "Transcutaneous pacing", "Adenosine"],
+    "answerIndex": 3,
+    "explanation": "The clinical scenario suggests symptomatic bradycardia (hypotension with altered mental status). Adenosine is used for supraventricular tachycardia and is not used in the treatment of symptomatic bradycardia.\n\nTreatment is indicated when bradycardia is accompanied by any of the following:\n\n• Hypotension\n• Acutely altered mental status\n• Signs of shock\n• Ischemic chest discomfort\n• Acute heart failure\n\nManagement:\n\n1) Atropine 1 mg IV bolus\n   • Repeat every 3–5 minutes\n   • Maximum total dose = 3 mg\n\n2) Along with atropine, transcutaneous pacing should be done.\n\nIf refractory to atropine and pacing:\n• Consider dopamine infusion 5–20 μg/kg/min OR epinephrine infusion 2–10 μg/min\n\nIf still not responding:\n• Transvenous pacing should be tried.\n\nNote:\n• In spinal anesthesia, low dose epinephrine (0.2 mg) IV can be given.\n• Epinephrine is the drug of choice for treating bradyarrhythmias in infants and children."
+  },
+  {
+    "q": "What is the maximum dose of IV atropine that can be given to treat a patient with symptomatic bradycardia?",
+    "options": ["0.5 mg", "0.6 mg", "3 mg", "6 mg"],
+    "answerIndex": 2,
+    "explanation": "In symptomatic bradycardia, atropine is given as 1 mg IV bolus and repeated every 3–5 minutes to a maximum total dose of 3 mg.\n\nAlong with atropine, transcutaneous pacing should be done.\n\nIf refractory:\n• Dopamine infusion 5–20 μg/kg/min OR epinephrine infusion 2–10 μg/min\n\nIf still not responding:\n• Transvenous pacing should be tried."
+  },
+  {
+    "q": "A 22-year-old man was brought to the casualty with palpitations and dizziness. His heart rate was 160/minute and blood pressure was 110/80 mm Hg. His ECG is given below. What is the first line of management?",
+    "options": ["Adenosine 6 mg", "Adenosine 12 mg", "Vagal manoeuvre", "Amiodarone 300 mg"],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_acls/q4_qimage.jpg",
+    "explanation": "This is a supraventricular tachycardia (SVT) with hemodynamic stability (BP is normal). In a stable patient, the first line of management is vagal manoeuvre (Valsalva manoeuvre) in awake patients.\n\nVagal manoeuvres alone can terminate 20%–25% of re-entrant supraventricular tachycardias.\n\nIf ineffective:\n• IV adenosine 6 mg rapid IV push\n• If needed, IV adenosine 12 mg after 1–2 minutes\n\nIf administered via central venous catheter:\n• Reduce dose to 3 mg and 6 mg.\n\nIf there is hemodynamic deterioration:\n• Cardioversion is the treatment of choice."
+  },
+  {
+    "q": "A 22-year-old man was brought to the casualty with palpitations and dizziness. His heart rate was 160/minute and blood pressure was 110/80 mm Hg. His ECG is given below. Vagal manoeuvre was found to be ineffective. What would your next line of management be?",
+    "options": ["Adenosine 0.6 mg", "Adenosine 1.2 mg", "Adenosine 6 mg", "Adenosine 12 mg"],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_acls/q5_qimage.jpg",
+    "explanation": "This is SVT with hemodynamic stability. After vagal manoeuvre is ineffective, the next line of management is IV adenosine 6 mg.\n\nIf needed:\n• IV adenosine 12 mg after 1–2 minutes.\n\nIf administered via central venous catheter:\n• Reduce dose to 3 mg and 6 mg.\n\nIf there is hemodynamic deterioration:\n• Cardioversion is the treatment of choice."
+  },
+  {
+    "q": "A 22-year-old male was brought to the casualty with palpitations and dizziness. His heart rate is 170/minute and his blood pressure was 70/40 mm Hg. His ECG is given below. What is the first line of management?",
+    "options": ["Vagal manoeuvre", "Adenosine 6 mg IV", "Adenosine 12 mg IV", "Cardioversion"],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_acls/q6_qimage.jpg",
+    "explanation": "This is tachyarrhythmia with hemodynamic instability (hypotension). The first line of management is synchronized cardioversion (about 50–100 J).\n\nIf the patient is stable:\n• Vagal manoeuvre → adenosine 6 mg → adenosine 12 mg.\n\nIf unstable:\n• Synchronized cardioversion is the treatment of choice."
+  },
+  {
+    "q": "A 50-year-old patient with a history of hypertension and diabetes mellitus developed the following rhythm. His blood pressure was 90/40 mm Hg and he had a feeble pulse. What is the next step of management?",
+    "options": ["IV adenosine", "IV diltiazem", "DC cardioversion", "Ibutilide"],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_acls/q7_qimage.jpg",
+    "explanation": "The patient is hemodynamically unstable (hypotension with feeble pulse). The next step of management is synchronized DC cardioversion (50–100 J).\n\nIf the patient had been hemodynamically stable:\n• Vagal manoeuvre\n• IV adenosine 6 mg\n• IV adenosine 12 mg if needed.\n\nIn unstable tachyarrhythmia:\n• DC cardioversion is the treatment of choice."
+  },
+  {
+    "q": "A 58-year-old man presented to the casualty with complaints of increasing shortness of breath, lightheadedness and palpitations. He had an irregularly irregular pulse and blood pressure was 120/70 mm Hg. His ECG is given below. What is the treatment of choice?",
+    "options": ["Immediate defibrillation", "Synchronized cardioversion", "IV adenosine", "IV ibutilide"],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_acls/q8_qimage.jpg",
+    "expImages": [
+      "assets/images/anes_acls/q8_eximage_1.jpg",
+      "assets/images/anes_acls/q8_eximage_2.jpg"
+    ],
+    "explanation": "Irregularly irregular pulse suggests atrial fibrillation. Since the patient is hemodynamically stable, the treatment of choice is IV ibutilide.\n\nIbutilide:\n• Class III anti-arrhythmic\n• Rapid onset\n• Restores sinus rhythm by prolonging action potential duration and effective refractory period.\n\nDose:\n• 1 mg IV over 10 minutes\n• If necessary, a second dose may be administered 10 minutes after the first.\n\nIf there is evidence of hemodynamic deterioration:\n• Immediate synchronized cardioversion is the treatment of choice.\n\nCardioversion vs defibrillation:\n• Cardioversion is synchronized shock delivery (typically synchronized with the R wave/QRS complex).\n• Defibrillation is non-synchronized shock delivery.\n• Mechanism is similar (depolarizes myocardium to terminate abnormal rhythm).\n\nEnergy selection (commonly tested):\n• Atrial fibrillation cardioversion: 200 J monophasic; 120–200 J biphasic.\n• Atrial flutter cardioversion: 100 J monophasic; 50–100 J biphasic.\n• Ventricular tachycardia with pulse: 200 J monophasic; 100 J biphasic.\n• Ventricular fibrillation/pulseless VT: 360 J monophasic; 120–200 J biphasic."
+  },
+  {
+    "q": "A young man was brought to the casualty with complaints of palpitations and dizziness. His pulse rate was 150/minute and blood pressure 120/70 mm Hg. His ECG is shown below. What is the line of management?",
+    "options": ["IV procainamide", "IV adenosine", "IV lidocaine", "Defibrillation"],
+    "answerIndex": 0,
+    "qImage": "assets/images/anes_acls/q9_qimage.jpg",
+    "expImages": [
+      "assets/images/anes_acls/q9_eximage_1.jpg",
+      "assets/images/anes_acls/q9_eximage_2.jpg"
+    ],
+    "explanation": "The ECG is suggestive of ventricular tachycardia (wide QRS tachycardia). Since the patient is hemodynamically stable, the line of management includes IV procainamide.\n\nProcainamide:\n• Class IA anti-arrhythmic.\n\nGeneral management of stable wide QRS tachycardia includes:\n• Procainamide / amiodarone / sotalol (as per algorithm and clinical scenario)\n\nIf hemodynamic deterioration occurs:\n• Synchronized cardioversion\n\nSupportive measures:\n• Maintain airway, assist breathing\n• Administer oxygen if hypoxemic\n• Attach monitor, monitor BP and oximetry\n\nNotes on options:\n• Adenosine is used in regular narrow complex tachycardia.\n• Lidocaine has limiting side effects and increases overall mortality risk.\n• Defibrillation is for VF/pulseless VT."
+  },
+  {
+    "q": "A 70-year-old woman with chronic kidney disease on chronic therapy with a loop diuretic was brought to the ER. Her daughter says that she complained of palpitation, dizziness and then suddenly collapsed. Her ECG is given below. Which electrolyte abnormality has to be considered in this patient?",
+    "options": ["Hypermagnesemia", "Hypomagnesemia", "Hypernatremia", "Hyponatremia"],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_acls/q10_qimage.jpg",
+    "explanation": "The ECG depicts torsades de pointes (polymorphic ventricular tachycardia). Loop diuretics predispose to hypomagnesemia and hypokalemia.\n\nTorsades de pointes:\n• Polymorphic ventricular tachycardia (“twisting of the points”)\n• Associated with QT interval prolongation due to non-uniform delay in repolarization\n\nCommon associations:\n• Hypomagnesemia\n• Hypokalemia\n\nOther causes:\n• Drugs like quinidine, procainamide, disopyramide, phenothiazines\n• Bradycardia\n• Acute ischemia or infarction\n\nManagement:\n• Discontinue offending drug\n• Correct electrolyte abnormalities, pH and hypoxia\n• Magnesium sulphate infusion\n• Increase heart rate if needed (electrical pacing, isoproterenol infusion, or IV atropine)"
+  },
+  {
+    "q": "Which among the following is the most common cause of pulseless electrical activity?",
+    "options": ["Cardiac tamponade", "Pulmonary embolism", "Tension pneumothorax", "Hypovolemia"],
+    "answerIndex": 3,
+    "explanation": "Hypovolemia and hypoxia are the two most common causes of pulseless electrical activity (PEA).\n\nOther likely causes include:\n• Trauma: hypovolemia, cardiac tamponade, tension pneumothorax\n• Intraoperative/postoperative period: acute massive pulmonary thromboembolism or air embolism\n• Pregnant women: uterine compression of inferior vena cava, amniotic fluid embolism, uterine rupture"
+  },
+  {
+    "q": "Which of the following is an incorrect statement concerning pulseless electrical activity (PEA)?",
+    "options": [
+      "A pulselessness in the presence of organized electrical activity",
+      "Cardiac tamponade can lead to PEA",
+      "Immediate defibrillation is required",
+      "1 mg of epinephrine is given immediately"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pulseless electrical activity (PEA) is a non-shockable rhythm. Defibrillation is of no benefit.\n\nPEA involves a heterogeneous group of cardiac rhythms all without a pulse.\n\nImmediate treatment:\n• Start chest compressions\n• Give 1 mg epinephrine as early as possible\n• Continue CPR until definitive therapy to treat the cause can be instituted\n\nIt is essential to rule out reversible causes of cardiac arrest because treatment for each cause differs, and PEA is likely to persist until the cause is treated."
+  },
+  {
+    "q": "Which is the most common cardiac rhythm seen in adults experiencing sudden cardiac arrest?",
+    "options": ["Ventricular fibrillation", "Asystole", "Atrial fibrillation", "Paroxysmal supraventricular tachycardia"],
+    "answerIndex": 1,
+    "explanation": "The most common cardiac rhythm seen in adults experiencing sudden cardiac arrest is asystole, recorded at initial contact in about 45–50% of cases.\n\nPreviously ventricular fibrillation was thought to be the common rhythm, but its incidence has been decreasing."
+  },
+  {
+    "q": "What is the most common cause of cardiac arrest in children?",
+    "options": ["Ventricular fibrillation", "Myocardial infarction", "Asphyxia", "Congenital heart disease"],
+    "answerIndex": 2,
+    "explanation": "In children, the more common cause of cardiac arrest is asphyxia rather than ventricular fibrillation.\n\nPediatric resuscitation starts with chest compressions rather than rescue breaths (simplicity in training), because a cycle of 30 chest compressions before rescue breathing delays ventilation only for 15–20 seconds.\n\nCompression-to-ventilation ratio:\n• Infants/children: 30:2 for a single rescuer; 15:2 if 2 or more rescuers\n• Adults: 30:2 irrespective of the number of rescuers\n\nCompression depth:\n• At least one-third of the anteroposterior chest diameter\n• ≈ 5 cm in children, ≈ 4 cm in infants"
+  },
+  {
+    "q": "A 30-year-old man was brought to the ER in an unconscious state after having collapsed in a railway station. As there was no pulse, cardiopulmonary resuscitation was started, and the monitor showed asystole. What is the next step in the management?",
+    "options": ["Defibrillation", "Synchronized cardioversion", "0.5 mg atropine IV", "1 mg epinephrine IV"],
+    "answerIndex": 3,
+    "explanation": "Asystole is a non-shockable rhythm. Treatment involves CPR immediately and administering 1 mg epinephrine IV.\n\nAsystole is the complete and sustained absence of electrical activity. It is usually seen as a terminal rhythm in resuscitation attempts that started with another rhythm, or in unwitnessed/prolonged cardiac arrest.\n\nPrognosis for persistent asystole is poor.\n\nPulseless electrical activity (PEA) is another non-shockable rhythm; it involves cardiac rhythms without a pulse.\n\nRule out reversible causes because treatment differs for each cause and non-shockable rhythms persist until the cause is corrected."
+  },
+  {
+    "q": "A 47-year-old woman was brought to the casualty in an unconscious state after having sudden collapse. As there was no pulse, cardiopulmonary resuscitation was started and the monitor showed the following rhythm. What is the next step?",
+    "options": ["Defibrillation", "Synchronized cardioversion", "1 mg epinephrine IV", "0.5 mg atropine IV"],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_acls/q16_qimage.jpg",
+    "explanation": "The patient has an organized, apparently normal ECG without a pulse, i.e., pulseless electrical activity (PEA).\n\nPEA involves a heterogeneous group of cardiac rhythms, all without a pulse.\n\nImmediate treatment:\n• Start chest compressions\n• Give 1 mg epinephrine at the earliest\n• Continue CPR until definitive therapy to treat the cause is instituted\n\nIt is essential to rule out reversible causes because PEA is likely to persist until the cause is treated."
+  },
+  {
+    "q": "You are performing cardiopulmonary resuscitation on a patient who had gone into cardiac arrest, and the monitor shows the following rhythm. What is the next step in management?",
+    "options": ["Defibrillation", "Synchronized cardioversion", "0.5 mg atropine IV", "1 mg epinephrine IV"],
+    "answerIndex": 0,
+    "qImage": "assets/images/anes_acls/q17_qimage.jpg",
+    "explanation": "The ECG rhythm shown is ventricular fibrillation (VF), which is treated by immediate defibrillation.\n\nVentricular fibrillation and pulseless ventricular tachycardia are shockable rhythms and are managed similarly.\n\nImmediate chest compressions should be started.\n\nDefibrillation should be done as early as possible because survival decreases by 7–10% every minute without defibrillation.\n\nEnergy:\n• Monophasic defibrillator: 360 J\n• Biphasic defibrillator: 120–200 J"
+  },
+  {
+    "q": "You have just performed defibrillation in a patient with ventricular fibrillation. According to the ACLS guidelines, what should be your next step?",
+    "options": ["Check for a pulse", "Resume chest compression", "Epinephrine 1 mg IV", "Amiodarone 300 mg IV bolus"],
+    "answerIndex": 1,
+    "explanation": "Chest compressions should be resumed immediately following shock delivery.\n\nPulse check and reanalysis of the rhythm should be performed only after 2 minutes of chest compressions and rescue breaths, because the heart is temporarily stunned by a defibrillator shock and compressions improve coronary blood flow during this period.\n\nIf after 2 minutes the rhythm remains the same:\n• Another shock is delivered\n• Resume chest compressions and rescue breaths\n• Administer 1 mg epinephrine\n• Consider advanced airway placement\n\nIf rhythm still remains the same:\n• First dose of amiodarone 300 mg IV bolus\n\nNext cycles:\n• Continue CPR cycles, deliver shocks as indicated\n• Second dose of amiodarone 150 mg may be given if needed"
+  },
+  {
+    "q": "Which of the following drugs are not approved for resuscitation in a cardiac arrest victim?",
+    "options": ["Vasopressin", "Epinephrine", "Amiodarone", "B and C"],
+    "answerIndex": 0,
+    "explanation": "Vasopressin was part of the resuscitation protocol in the 2010 AHA cardiac arrest algorithm but has been removed from the 2015 guidelines.\n\nEpinephrine and amiodarone are the two main drugs approved for resuscitation.\n\nEpinephrine:\n• First dose 1 mg IV after the 2nd defibrillator shock\n• Continue every 3–5 minutes\n\nIf ineffective:\n• Amiodarone 300 mg IV bolus\n• Another dose of 150 mg may be given if necessary"
+  },
+  {
+    "q": "Which of the following is true about adrenaline in CPR?",
+    "options": [
+      "Can be given intratracheally",
+      "Intracardiac route is better than IV",
+      "Converts coarse fibrillation into fine ones",
+      "The dose used is 2 ml containing 1 in 1000 concentration"
+    ],
+    "answerIndex": 0,
+    "explanation": "Intravenous adrenaline is the drug of choice for CPR. However, adrenaline can be given intratracheally as well.\n\nIntratracheal route:\n• Concentration required is 2–2.5 times more than for the IV route.\n\nOption clarifications:\n• Intracardiac injection is not recommended because it can cause myocardial damage.\n• Adrenaline converts fine fibrillation to coarse fibrillation (which responds better to defibrillation), not the reverse.\n• Correct IV cardiac arrest dosing is typically 1 mg every 3–5 minutes (usually 10 mL of 1:10,000), not 2 mL of 1:1000."
+  },
+  {
+    "q": "In cardiac arrest patients, what is the dose of epinephrine you would prefer to use?",
+    "options": ["10 mL of 1:1000", "10 mL of 1:10,000", "10 mL of 1:1,00,000", "1 mL of 1:1,00,000"],
+    "answerIndex": 1,
+    "explanation": "Epinephrine in cardiac arrest patients is given as 10 mL of 1:10,000 solution (1 mg epinephrine).\n\nEpinephrine is an adrenergic agonist:\n• α-adrenergic effects increase myocardial blood flow\n• β-adrenergic effects increase myocardial contractility\n\nIndications include:\n• VF/VT, electromechanical dissociation (PEA), ventricular asystole\n• Severe bradycardia unresponsive to atropine or pacing\n• Severe hypotension\n\nDose:\n• 1 mg IV, repeat every 3–5 minutes as necessary\n\nEndotracheal administration:\n• Requires higher doses (about 2–2.5 mg in adults)."
+  },
+  {
+    "q": "Which of the following drugs cannot be administered via the endotracheal route?",
+    "options": ["Adrenaline", "Vasopressin", "Lignocaine", "Sodium bicarbonate"],
+    "answerIndex": 3,
+    "explanation": "Sodium bicarbonate cannot be administered via the endotracheal route.\n\nEndotracheal drug dosing:\n• Typically 2–2.5 times higher than IV dosing.\n• Drugs should be diluted in 10 mL of normal saline or distilled water for adults and 5 mL for children.\n\nWhen IV access is not possible:\n• Intraosseous route is preferred over endotracheal because optimal endotracheal dose is uncertain.\n\nDuring endotracheal drug delivery:\n• CPR may need to be stopped momentarily because the drug may be regurgitated up the endotracheal tube during compressions."
+  },
+  {
+    "q": "What alternative drug would you use for cardiac arrest if epinephrine is not effective?",
+    "options": ["Vasopressin", "Atropine", "Amiodarone", "Adenosine"],
+    "answerIndex": 2,
+    "explanation": "Epinephrine and amiodarone are the two main drugs approved by the AHA for resuscitation of a cardiac arrest patient.\n\nEpinephrine:\n• 1 mg IV is administered after the second defibrillator shock\n• Continued every 3–5 minutes\n\nIf not effective:\n• Amiodarone 300 mg IV bolus\n• Another dose of 150 mg may be given if necessary"
+  },
+  {
+    "q": "A comatose patient is being shifted to the cardiac ICU after achieving return of spontaneous circulation (ROSC). What is the body temperature to be maintained in this patient?",
+    "options": ["12–16°C", "20–24°C", "32–36°C", "42–45°C"],
+    "answerIndex": 2,
+    "explanation": "According to the post-cardiac arrest care algorithm, targeted temperature management is maintaining a constant target temperature between 32–36°C for at least 24 hours.\n\nThis is done in post-cardiac resuscitation patients who have achieved ROSC but are still comatose.\n\nCooling methods may include:\n• Fluid-filled cooling blankets\n• Ice packs\n• Forced air blankets\n• Cold IV fluids\n• Invasive devices/catheters\n\nThis intervention is beneficial for neurological recovery after cardiac arrest, particularly in patients with ventricular fibrillation and pulseless ventricular tachycardia."
+  },
+  {
+    "q": "You are performing CPR on a woman who is 38-weeks pregnant. She was admitted to the ER after a massive pulmonary embolism had led to cardio-pulmonary arrest. Despite adequate resuscitative measures, there is no improvement. What is the cut-off time for perimortem cesarean delivery in this scenario?",
+    "options": ["1 minute", "2 minutes", "5 minutes", "3 minutes"],
+    "answerIndex": 2,
+    "explanation": "Perimortem cesarean delivery should be considered if there is no return of spontaneous circulation (ROSC) in 5 minutes.\n\nWhen a pregnant woman is in cardiac arrest:\n• High-quality CPR and defibrillation are performed\n• Epinephrine is administered\n• Maternal cardiac arrest team is assembled to look for etiology and perform interventions\n\nMaternal interventions:\n• Airway management\n• Administration of 100% O2\n• Place the IV above the diaphragm\n• If the patient is on IV magnesium, stop it and administer calcium chloride or gluconate\n\nObstetric interventions:\n• Continuous lateral uterine displacement\n\nAfter performing the above interventions, if there is no ROSC in 5 minutes, perimortem cesarean section is considered."
+  }
+]

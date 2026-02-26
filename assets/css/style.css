@@ -206,3 +206,36 @@ a{ color: inherit; }
 
 .footer-note{ margin-top: 22px; }
 
+.question-image {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.question-image img {
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.explanation p {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+.explanation p {
+  margin: 6px 0;
+  line-height: 1.6;
+}
+
+.question-image {
+  text-align: center;
+  margin: 12px 0;
+}
+
+.question-image img {
+  max-width: 100%;
+  max-height: 320px;
+  margin: 6px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}

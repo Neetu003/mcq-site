@@ -1,0 +1,277 @@
+[
+  {
+    "q": "In adults, at which vertebral level does the spinal cord end?",
+    "options": [
+      "Upper border of L1",
+      "Lower border of L1",
+      "Upper border of L3",
+      "Lower border of L3"
+    ],
+    "answerIndex": 1,
+    "explanation": "In adults, the spinal cord ends at the level of the lower border of L1 vertebra.\n\nProximally, the spinal cord is continuous with the brain stem. Distally, it terminates in the conus medullaris as the filum terminale (fibrous extension) and the cauda equina (neural extension).\n\nLumbar puncture during spinal anesthesia (a.k.a. subarachnoid block / intrathecal block) is done below the level of L1 in adults (L2–3, L3–4, L4–5 interspace), to avoid potential needle trauma to the spinal cord."
+  },
+  {
+    "q": "You are about to administer spinal anesthesia to a 7-month-old child. At which vertebral level does his spinal cord end?",
+    "options": [
+      "Lower border of S2",
+      "Upper border of S2",
+      "Lower border of L3",
+      "Upper border of L3"
+    ],
+    "answerIndex": 3,
+    "explanation": "In infants, the spinal cord ends at the upper border of L3 vertebral level (shorter vertebral column compared to spinal cord).\n\nLumbar (subarachnoid) puncture into the subarachnoid space is done below L3 in children to avoid potential needle trauma to the cord."
+  },
+  {
+    "q": "At which vertebral level does the dural sac end in adults?",
+    "options": [
+      "L1",
+      "L3",
+      "S1",
+      "S2"
+    ],
+    "answerIndex": 3,
+    "explanation": "The dural sac in adults ends at the S2 vertebral level.\n\nSo the spinal subdural and subarachnoid spaces extend from the foramen magnum to S2 in adults."
+  },
+  {
+    "q": "You are administering caudal anesthesia to a 9-month-old child. Which is the lowest vertebral level that should not be crossed by the tip of your needle so as to avoid accidental subarachnoid injection?",
+    "options": [
+      "S3",
+      "S2",
+      "L2",
+      "L3"
+    ],
+    "answerIndex": 1,
+    "explanation": "The needle should be kept below the S2 vertebral level as the subarachnoid space in children extends from the foramen magnum to S2–S3.\n\nBecause of this fact, and the smaller body size, caudal anesthesia carries a greater risk of subarachnoid injection in children than in adults."
+  },
+  {
+    "q": "As an intern posted in the OT, you see the anesthesia resident mark out a line on a patient’s back. She tells you that this is Tuffier’s line and is used as a landmark for performing spinal anesthesia. Which vertebral level does this line correspond to?",
+    "options": [
+      "L6",
+      "L2",
+      "L1",
+      "L4"
+    ],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_regional_techniques/q5_qimage.jpg",
+    "expImage": [
+      "assets/images/anes_regional_techniques/q5_eximage.jpg"
+    ],
+    "explanation": "Tuffier’s (intercristal) line is a line drawn between the highest points of both iliac crests, usually crossing either the body of L4 or the L4–L5 interspace.\n\nThis is the landmark to identify the spinal level prior to performing a neuraxial block.\n\nOther bony landmarks:\n• C7 – vertebra prominens\n• T7 – inferior angle of scapula\n• L1 – lower rib margin\n• S2 – posterior superior iliac spine"
+  },
+  {
+    "q": "Following neuraxial block, which would be the first sensation to disappear?",
+    "options": [
+      "Fine touch",
+      "Pinprick sensation",
+      "Vibration",
+      "Sensitivity to cold"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first sensation to disappear following a neuraxial block is cold.\n\nPreganglionic sympathetic fibers (B fibers) are most sensitive to local anesthetic blockade. The larger A-alpha motor fibers are more resistant than any of the sensory fibers. The sensations lost at the earliest will be cold → pinprick → touch.\n\nRegression of blockade (“recovery”) follows in the reverse order: motor function → touch → pinprick → cold sensation → autonomic.\n\nControversial note: There is an obvious discrepancy among various authors regarding the order of differential blockade. Some studies mention pin prick sensation to be lost before sensation to cold.\n\nBut our reference to this MCQ is from standard textbook of anesthesia (Miller’s Anesthesia 9th edition)."
+  },
+  {
+    "q": "A patient underwent knee replacement under spinal anesthesia. Following the procedure, you examine him in the post-op ward. Which of the following would be the first to recover?",
+    "options": [
+      "Heat sensation",
+      "Touch sensation",
+      "Pinprick sensation",
+      "Motor function"
+    ],
+    "answerIndex": 3,
+    "explanation": "Motor function recovers the earliest after a neuraxial block.\n\nMotor function is carried by A alpha fibers, which are myelinated and have the largest diameter, making them most resistant to local anesthesia.\n\nHence, motor function is the last to get affected and the first to recover."
+  },
+  {
+    "q": "You are given the opportunity to perform a neuraxial block procedure. What is the antiseptic of choice to prepare the site before this procedure?",
+    "options": [
+      "Povidone iodine",
+      "Glutaraldehyde",
+      "Hydrogen peroxide",
+      "Chlorhexidine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Antiseptic of choice for neuraxial block procedure is Chlorhexidine."
+  },
+  {
+    "q": "While administering spinal anesthesia to a patient, which of the following structures would you not be piercing?",
+    "options": [
+      "Ligamentum flavum",
+      "Supraspinous ligament",
+      "Posterior longitudinal ligament",
+      "Duramater"
+    ],
+    "answerIndex": 2,
+    "explanation": "During spinal anesthesia administration, the posterior longitudinal ligament is not pierced.\n\nThe following structures are pierced during spinal anesthesia, in that order:\n• Skin\n• Subcutaneous tissue\n• Supraspinous ligament\n• Interspinous ligament\n• Ligamentum flavum\n• Dura mater\n• Arachnoid"
+  },
+  {
+    "q": "While administering spinal anesthesia in a patient, between which of the following structures would you be injecting the local anesthetic?",
+    "options": [
+      "Dura and ligamentum flavum",
+      "Dura and arachnoid",
+      "Pia and vertebra",
+      "Pia and arachnoid"
+    ],
+    "answerIndex": 3,
+    "expImage": [
+      "assets/images/anes_regional_techniques/q10_eximage.jpg"
+    ],
+    "explanation": "Spinal anesthesia (subarachnoid block, intrathecal block) involves the administration of local anesthetic between the pia and arachnoid mater.\n\nIn spinal anesthesia, the local anesthetic is injected into CSF, which bathes the nerve root. Hence, a relatively small dose and volume of local anesthetic is sufficient to achieve dense sensory and motor blockade.\n\nEpidural anesthesia involves local anesthetic administration between the dura and ligamentum flavum. Subdural injection, seen in a failed spinal anesthesia, is between dura and arachnoid."
+  },
+  {
+    "q": "In a normal sized adult, which of the following parameters would least affect the level of neuraxial block achieved?",
+    "options": [
+      "Age",
+      "CSF volume",
+      "Height",
+      "Patient's position"
+    ],
+    "answerIndex": 2,
+    "explanation": "In a normal-sized adult, the patient’s height does not seem to affect the spread of spinal anesthesia. However, at extremes of height, consideration should be given to altering the dose accordingly.\n\nOption A: Advanced age is associated with increased block height, due to decreased CSF volume.\nOption B: CSF volume is inversely related to the block level.\nOption D: Patient’s position affects the spread of hyperbaric and hypobaric solutions. Hyperbaric solution settles at the dependent position while hypobaric solution settles at the non-dependent position."
+  },
+  {
+    "q": "Which of the following factors have the least impact on the height of neuraxial block in a patient?",
+    "options": [
+      "Age",
+      "Gender",
+      "Pregnancy",
+      "Height"
+    ],
+    "answerIndex": 1,
+    "explanation": "The gender of the patient is the factor that least affects the height of the neuraxial block, among the options given.\n\nTheoretically, the density of CSF is lower in women than in men. Although this may affect relative baricity of local anesthetics, the clinical variation in the spread is probably unimportant.\n\nOption A: Higher anesthetic levels are achieved in the elderly for a given dosage of spinal anesthetic.\nOption C: Increased intraabdominal pressure or conditions that cause engorgement of the epidural veins, decrease CSF volume and thus increase block height. This includes conditions such as pregnancy, ascites, and large abdominal tumors.\nOption D: Within the range of “normal-sized” adults, patient height does not seem to affect the spread of spinal anesthesia. But, extremes of height can affect the block height."
+  },
+  {
+    "q": "A patient is set to undergo cesarean section under subarachnoid block. Up to which dermatome must the anesthetist ensure adequate anesthesia?",
+    "options": [
+      "T4",
+      "T8",
+      "T10",
+      "T12"
+    ],
+    "answerIndex": 0,
+    "explanation": "For a cesarean section, the sensory block should be achieved up to T4 dermatome level (motor T6), as the pain-sensitive peritoneum innervation starts from T4 level.\n\nThe risk of high spinal and severe hypotension is higher because the block has to reach T4. Hence, consider prehydration with 20 ml/kg, proper positioning, and keeping phenylephrine or ephedrine on hand.\n\nDermatomal Level required for Various Common Surgical Procedures:\n• T4 – Upper abdominal surgery\n• T10 – Transurethral resection of prostate\n• T10 – Hip surgery\n• L2 – Foot and ankle surgery"
+  },
+  {
+    "q": "In which procedure is the instrument shown in the image most commonly used?",
+    "options": [
+      "Retrobulbar block",
+      "Epidural anesthesia",
+      "Spinal anesthesia",
+      "Combined spinal epidural anesthesia"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_regional_techniques/q14_qimage.jpg",
+    "expImages": [
+      "assets/images/anes_regional_techniques/q14_eximage_1.jpg",
+      "assets/images/anes_regional_techniques/q14_eximage_2.jpg",
+      "assets/images/anes_regional_techniques/q14_eximage_3.jpg"
+    ],
+    "explanation": "The instrument shown is the Quincke needle, used in spinal anesthesia. The Quincke needle is a cutting needle used in injection.\n\nSpinal needles are long needles that are classified based on their tip into:\n• Cutting needles: Quincke–Babcock, Pitkin\n• Pencil tip needles: Whitacre and Sprotte\n\nA Tuohy needle is used to provide epidural anesthesia. It can be recognized by its curved (Huber) tip and the markings made at 1-cm interval along its length.\n\nThe combined spinal epidural (CSE) needle set consists of a spinal needle passed through the epidural needle."
+  },
+  {
+    "q": "Which of the following is not a blunt-tipped needle used in regional anesthesia?",
+    "options": [
+      "Quincke",
+      "Whitacre",
+      "Sprotte",
+      "Tuohy"
+    ],
+    "answerIndex": 0,
+    "expImages": [
+      "assets/images/anes_regional_techniques/q15_eximage_1.jpg",
+      "assets/images/anes_regional_techniques/q15_eximage_2.jpg",
+      "assets/images/anes_regional_techniques/q15_eximage_3.jpg"
+    ],
+    "explanation": "All of the above are blunt-tipped needles used in regional anesthesia, except Quincke, which is a cutting type of spinal needle.\n\nTypes of spinal needles:\n\nCutting needle vs Non-cutting (splitting, pencil point, blunt) needle:\n• Cutting needles cut the dura and hence have higher incidence of postdural puncture headache (PDPH) due to CSF leak.\n• Non-cutting needles split the dura and hence have lower incidence of PDPH.\n\nTechnically less challenging and gives less resistance, hence well appreciated during lumbar puncture.\n\nExamples:\n• Cutting: Quincke–Babcock, Pitkin\n• Non-cutting: Whitacre, Sprotte\n\nTuohy needle is the most commonly used needle for epidural anesthesia. It has a blunt Huber tip, which helps prevent accidental penetration of the dura."
+  },
+  {
+    "q": "As an intern posted in the OT, you see the Anesthesia Senior Resident holding the needle shown in the image. What is the likely procedure that he is about to perform?",
+    "options": [
+      "Spinal anesthesia",
+      "Epidural anesthesia",
+      "Combined spinal epidural anesthesia",
+      "IV cannulation"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_regional_techniques/q16_qimage.jpg",
+    "expImage": [
+      "assets/images/anes_regional_techniques/q16_eximage.jpg"
+    ],
+    "explanation": "The image shown is the 18G Tuohy needle, which is used in epidural anesthesia.\n\nIdentification points:\n• It has a blunt, curved tip (Huber tip) that helps to prevent accidental dural puncture.\n• The needle shaft is marked in 1-cm intervals so that the depth of insertion can be identified.\n\nEpidural anesthesia set with Tuohy needle and epidural catheter.\n\nOther epidural needles: Crawford needle (straight needles without a curved tip) has a greater incidence of dural puncture."
+  },
+  {
+    "q": "While administering epidural anesthesia to a patient, in which of the following spaces would you inject the local anesthetic?",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_regional_techniques/q17_qimage.jpg",
+    "expImage": [
+      "assets/images/anes_regional_techniques/q17_eximage.jpg"
+    ],
+    "explanation": "During epidural anesthesia, the local anesthetic is injected into the epidural/extradural space. In the given image, this is marked as B.\n\nThe epidural space exists between the dura and the ligamentum flavum posteriorly.\n\nThe other markings are as follows:\n• A: Subarachnoid space\n• C: Interspinous ligament\n• D: Subcutaneous tissue"
+  },
+  {
+    "q": "A patient set to undergo an elective C section receives epidural anesthesia before the procedure. Which structure is not pierced while performing this block?",
+    "options": [
+      "Skin",
+      "Duramater",
+      "Supraspinous ligament",
+      "Ligamentum flavum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dura mater is not pierced while performing an epidural block.\n\nThe structures pierced during epidural anesthesia are:\n• Skin\n• Subcutaneous tissue\n• Supraspinous ligament\n• Interspinous ligament\n• Ligamentum flavum\n\nEpidural space is a potential negative pressure space. This is used to exploit in the identification of epidural space.\n\nAs the needle penetrates the ligamentum flavum, an increase in resistance is encountered. After which, when the needle enters the epidural space, a sudden loss of resistance is encountered.\n\nThe techniques to identify epidural space:\n• Loss of resistance (to injection of air or saline)\n• Hanging drop (drop of saline is sucked in as the needle enters epidural space)"
+  },
+  {
+    "q": "You are planning to administer combined spinal epidural anesthesia to a pre-eclamptic patient before an elective C section. You know that the patient may have to remain seated for a while after administration of the spinal anesthetic for insertion of the epidural catheter. Which of the following will you use for spinal anesthesia to reduce the chances of hemodynamic disturbances in this scenario?",
+    "options": [
+      "0.5% Bupivacaine with glucose",
+      "0.5% Bupivacaine with fentanyl",
+      "0.5% Bupivacaine with sterile water",
+      "0.5% Plain bupivacaine"
+    ],
+    "answerIndex": 0,
+    "explanation": "To prevent hemodynamic disturbance, we must prevent the migration of the spinal block to upper thoracic segments. In the sitting position, this can be achieved by using a hyperbaric solution like bupivacaine with glucose.\n\nBaricity of local anesthetics refers to the specific gravity of the solution with respect to that of CSF.\n\nA hyperbaric solution (addition of glucose) of local anesthetic is denser (heavier) than CSF; a hypobaric solution (addition of sterile water) is lighter than CSF; and isobaric solution (plain or 1:1 CSF) has density same as that of CSF.\n\nHyperbaric solution tends to move to the dependent area of the spine, while a hypobaric solution moves to the non-dependent area. An isobaric solution remains at the level of injection.\n\nWith the patient in a head-down position, a hyperbaric solution spreads cephalad, and a hypobaric solution moves caudally.\n\nIn clinical practice, hyperbaric solutions are most commonly used during spinal anesthesia. A hypobaric solution is only used in prone jackknife position. A saddle block is around perineum during certain anorectal surgeries."
+  },
+  {
+    "q": "You administer epidural anesthesia to a patient before surgery. Which of the following methods can you use to test the adequacy of motor block in him?",
+    "options": [
+      "1, 3",
+      "1, 2, 3, 4",
+      "Only 3",
+      "1, 3, 5"
+    ],
+    "answerIndex": 3,
+    "explanation": "Electromyography, Modified Bromage scale, and spirometry can all be used to test the adequacy of the motor block after neuraxial anesthesia.\n\nThe Modified Bromage Scale is most commonly used, but the disadvantage is that this represents only limb motor fibers.\n\nModified Bromage scale:\n0: No motor block\n1: Inability to raise extended leg; Able to move knees and feet\n2: Inability to raise extended leg and move knee; Able to move feet\n3: Complete block of motor limb\n\nElectromyography and pulmonary function tests (spirometry) have been used to measure abdominal and thoracic motor function, but these are neither practical nor specific.\n\nTrain of four ratio and bispectral index are used in monitoring a patient under general anesthesia."
+  },
+  {
+    "q": "A 5-month-old child is set to undergo a herniotomy procedure for congenital inguinal hernia under caudal anesthesia. Where is the local anesthetic injected into for this procedure?",
+    "options": [
+      "Spinal cord",
+      "Subdural space",
+      "Subarachnoid space",
+      "Epidural space"
+    ],
+    "answerIndex": 3,
+    "expImage": [
+      "assets/images/anes_regional_techniques/q21_eximage.jpg"
+    ],
+    "explanation": "During caudal anesthesia, the local anesthetic is injected into the sacral portion of the epidural space.\n\nCaudal anesthesia involves a needle and/or catheter penetration of the sacrococcygeal ligament which opens into the caudal/epidural space. The sacrococcygeal ligament covers the unfused S4 and S5 laminae.\n\nSacral hiatus is well appreciated in children. Hence, it is a common regional technique in pediatric procedures below the diaphragm, including urogenital, rectal, inguinal, and lower extremity surgery.\n\nIt may also be used for anorectal surgery in adults but it is technically challenging in adults."
+  },
+  {
+    "q": "An 18-month-old boy with CTEV is undergoing corrective treatment. He is scheduled for a posteromedial soft tissue release procedure. You see the anesthesia resident mark out the points shown in the image on his back. In what anesthetic procedure are these landmarks used?",
+    "options": [
+      "Spinal anesthesia",
+      "Caudal anesthesia",
+      "Epidural anesthesia",
+      "Saddle block"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_regional_techniques/q22_qimage.jpg",
+    "expImage": [
+      "assets/images/anes_regional_techniques/q22_eximage.jpg"
+    ],
+    "explanation": "The landmarks depicted in the image are in reference to caudal anesthesia. It is a common regional technique in pediatric procedures below the diaphragm, including urogenital, rectal, inguinal, and lower extremity surgery.\n\nCaudal anesthesia involves deposition of local anesthetic in the caudal epidural space, accessed through the sacral hiatus. Sacral hiatus is formed by the unfused S4 and S5 laminae and is covered by the sacrococcygeal ligament.\n\nThe lines joining the posterior superior iliac spines and sacral hiatus make an equilateral triangle.\n\nThe sacral hiatus is felt as a groove or notch and the coccyx and between two bony prominences as lateral cornua.\n\nIt is better appreciated in children than in adults hence it is a common regional technique among pediatric patients."
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "q": "Which of the following inhaled anesthetics is the induction agent of choice in a patient planned for surgery under GA?",
+    "options": ["Halothane", "Sevoflurane", "Desflurane", "Nitrous oxide"],
+    "answerIndex": 1,
+    "explanation": "Sevoflurane is the induction agent of choice among inhalational anesthetics. It is non-pungent and has low blood-gas solubility (0.65), allowing for smooth induction of anesthesia.\n\nOption A: Halothane has high blood gas solubility, leading to slower induction of anesthesia.\nOption C: Desflurane and isoflurane are airway irritants, of which desflurane is the most pungent inhalational agent. Hence, they are not used for induction of anesthesia as they can precipitate laryngospasm. These agents are used only during the maintenance of anesthesia.\nOption D: Nitrous oxide has a MAC value of 104%, which makes it the least potent inhaled anesthetic. It is always used in combination with more potent volatile agents."
+  },
+  {
+    "q": "A 7-year-old boy is posted for laparoscopic appendectomy. Which of the following inhalational agents is preferred for induction?",
+    "options": ["Halothane", "Isoflurane", "Sevoflurane", "Desflurane"],
+    "answerIndex": 2,
+    "explanation": "Sevoflurane is preferred for induction as it is the agent of choice in pediatric anesthesia. Although both halothane and sevoflurane provide a smooth induction, sevoflurane appears to have a greater therapeutic index than halothane and hence is the preferred agent for inhaled induction in pediatric anesthesia.\n\nIsoflurane and desflurane are airway irritants. Hence they are not used for induction of anesthesia as they can precipitate laryngospasm. These agents are used only during the maintenance of anesthesia."
+  },
+  {
+    "q": "Which inhaled anesthetic has the maximum global warming potential?",
+    "options": ["Nitrous oxide", "Sevoflurane", "Isoflurane", "Desflurane"],
+    "answerIndex": 3,
+    "explanation": "Desflurane has the maximum global warming potential (GWP) among inhaled anesthetics.\n\nGlobal warming potential of anesthetic gases:\nNitrous oxide < Isoflurane < Sevoflurane < Desflurane (maximum)\n\nXenon produces no greenhouse effect or ozone depletion as it is entirely unreactive in the biosphere. Although the GWP factor of desflurane is much higher than that of nitrous oxide, the latter contributes the most to increased climate impact (99.97%) as the consumption volumes of N2O far exceed those of other anesthetic gases."
+  },
+  {
+    "q": "A 39-year-old woman is posted for resection of an intracranial tumor. Which inhalational anesthetic is most suitable in this case?",
+    "options": ["Halothane", "Sevoflurane", "Isoflurane", "Desflurane"],
+    "answerIndex": 1,
+    "explanation": "The inhalational agent of choice for neurosurgery in patients with elevated intracranial pressure (intracranial tumor) is sevoflurane.\n\nSevoflurane best preserves autoregulation of cerebral blood flow and produces limited vasodilation. Hence, it is the preferred volatile agent in patients with elevated ICP.\n\nThe order of vasodilating potency is approximately: halothane > enflurane > desflurane > isoflurane > sevoflurane."
+  },
+  {
+    "q": "Which anesthetic agent is to be avoided in patients diagnosed with epilepsy?",
+    "options": ["Halothane", "Enflurane", "Nitrous oxide", "Sevoflurane"],
+    "answerIndex": 1,
+    "explanation": "Enflurane is contraindicated in patients with a known history of seizures, cerebrovascular disease, and head injuries.\n\nEnflurane is the most epileptogenic inhalational anesthetic. It increases seizure activity, especially in the presence of cerebral injury and hypocapnia, and results in increasing the cerebral metabolic rate.\n\nBesides, enflurane increases cerebrospinal fluid secretion and decreases its absorption which is deleterious in those with poor intracranial compliance.\n\nSeizures have also been associated with the use of sevoflurane in high concentrations, especially in the pediatric population.\n\nEpileptogenic potential: enflurane >>> sevoflurane."
+  },
+  {
+    "q": "An elderly male patient is scheduled to undergo an elective procedure. What is the choice of inhalational anesthetic you will consider for him?",
+    "options": ["Halothane", "Desflurane", "Isoflurane", "Sevoflurane"],
+    "answerIndex": 1,
+    "explanation": "Desflurane is the inhalational agent of choice in the elderly as it is rapidly eliminated and undergoes minimal metabolism.\n\nThe amount of fluoride ion produced is only about 5 µM which is much lower than the other fluorinated agents and hence safe in elderly as they may have compromised renal function.\n\nDesflurane is also the inhalational agent of choice in renal disease."
+  },
+  {
+    "q": "Which of the following is the inhalational agent of choice for general anesthesia in asthmatic patients?",
+    "options": ["Desflurane", "Sevoflurane", "Halothane", "Isoflurane"],
+    "answerIndex": 1,
+    "explanation": "Sevoflurane is the inhalational agent of choice for asthmatics because of its bronchodilatory effect.\n\nAlthough halothane produces greater bronchodilation, sevoflurane appears to have a greater therapeutic index. Halothane sensitizes the heart to adrenaline and causes cardiovascular depression, bradycardia, arrhythmias, and respiratory depression which are less likely with sevoflurane."
+  },
+  {
+    "q": "A middle-aged man with liver cirrhosis is posted for surgery. Which would be the inhalational anesthetic agent of choice?",
+    "options": ["Methoxyflurane", "Nitrous oxide", "Sevoflurane", "Halothane"],
+    "answerIndex": 2,
+    "explanation": "Sevoflurane is the inhalational anesthetic agent of choice in liver cirrhosis.\n\nA cirrhotic liver has a compromised portal venous blood flow and hence it is essential to preserve the hepatic arterial blood flow.\n\nSevoflurane decreases portal vein blood flow but increases hepatic artery blood flow. Thus the total hepatic blood flow and oxygen delivery are better maintained.\n\nAn alternative is isoflurane which may reduce hepatic arterial blood flow but maintains hepatic oxygen supply."
+  },
+  {
+    "q": "A 7-year-old kid recovering from anesthesia started developing seizures. Which of the following inhalational agents would have been used?",
+    "options": ["Desflurane", "Isoflurane", "Sevoflurane", "Halothane"],
+    "answerIndex": 2,
+    "explanation": "Seizures have been associated with the use of sevoflurane in high concentrations, especially in the pediatric population.\n\nEmergence from sevoflurane is associated with tonic-clonic movements suggestive of seizure. Hence sevoflurane must be used cautiously in patients with a known history of seizure.\n\nThough isoflurane can cause myoclonus and EEG spiking, frank seizure activity is not seen.\n\nNote: Enflurane has the most epileptogenic potential among inhaled anesthetics."
+  },
+  {
+    "q": "Which of the following anesthetic agents is most likely to exacerbate myocardial ischemia in a patient undergoing CABG?",
+    "options": ["Nitrous oxide", "Isoflurane", "Desflurane", "Halothane"],
+    "answerIndex": 1,
+    "explanation": "The given clinical scenario of myocardial ischemia, hypotension, ST-segment changes, and decreased cardiac output points towards a diagnosis of coronary steal syndrome.\n\nIsoflurane has been associated with myocardial ischemic symptoms, particularly in scenarios where coronary perfusion pressure is compromised.\n\nIt dilates normal coronary arteries, which can redirect blood flow away from areas supplied by stenotic or diseased vessels, worsening ischemia in those regions. This redistribution of blood flow may contribute to hypotension, ST-segment changes, and reduced cardiac output."
+  },
+  {
+    "q": "A patient with impaired renal function was administered desflurane for general anesthesia. Which of the following statements is true regarding this drug?",
+    "options": ["Commonly used for induction in children", "Rapid induction and recovery", "Environmentally safe anesthetic", "Less potent than nitrous oxide"],
+    "answerIndex": 1,
+    "explanation": "Desflurane has rapid induction and recovery from anesthesia due to its low blood gas solubility.\n\nIt is not used for induction as it is very pungent and may result in cough, laryngospasm, and bronchospasm.\n\nDesflurane is not environmentally safe as it has the maximum global warming potential among inhaled anesthetics.\n\nDesflurane is 17 times more potent than nitrous oxide."
+  },
+  {
+    "q": "An intern notices the following canister attached to the anesthesia circuit. Which gas produces carbon monoxide when passed through it?",
+    "options": ["Halothane", "Methoxyflurane", "Sevoflurane", "Desflurane"],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_inhaled_fluorinated/q12_qimage.jpg",
+    "explanation": "The canister contains desiccated soda lime. Desflurane undergoes degradation to produce carbon monoxide in the presence of strong bases in dry CO2 absorbents like desiccated soda lime.\n\nCO production is predominantly seen with absorbents that contain sodium or potassium hydroxide. The propensity for CO production correlates with the anesthetic concentration in the breathing circuit (desflurane > enflurane > isoflurane).\n\nSevoflurane, methoxyflurane, and halothane also undergo degradation in the presence of strong bases, but they do not produce carbon monoxide."
+  },
+  {
+    "q": "Which of the following inhalational agents produces a nephrotoxic substance called compound A?",
+    "options": ["Halothane", "Methoxyflurane", "Sevoflurane", "Desflurane"],
+    "answerIndex": 2,
+    "explanation": "Sevoflurane reacts with strong bases like sodium hydroxide and potassium hydroxide present in soda-lime and baralyme leading to the formation of a haloalkene (fluoromethyl-2,2-difluoro-1-trifluoromethyl vinyl ether) known as compound A.\n\nCompound A has the potential to cause proximal tubular necrosis.\n\nRisk factors for increased compound A production include:\n• Prolonged duration of anesthesia\n• High concentration of sevoflurane\n• Low flow techniques\n• Dry baralyme\n\nA fresh gas flow of at least 2 L/min can prevent the generation of compound A.\n\nAmsorb is a CO2 absorbent that is more inert than soda-lime and baralyme and is associated with less degradation of sevoflurane and less compound A production."
+  },
+  {
+    "q": "Which of the following is an incorrect statement regarding xenon?",
+    "options": ["Increases airflow resistance and work of breathing", "Safe in cardiac patients", "Teratogenic", "Does not trigger malignant hyperthermia"],
+    "answerIndex": 2,
+    "explanation": "Xenon is non-teratogenic. Therefore, the statement that xenon is teratogenic is incorrect.\n\nXenon has a high density (5.9 g/L), much higher than oxygen and nitrous oxide, which leads to increased flow resistance and work of breathing. Thus, it is unsuitable for patients with compromised respiratory function.\n\nIt has minimal cardiovascular effects and produces minimal myocardial depression. It is not arrhythmogenic and hence safe in cardiac patients.\n\nXenon does not trigger malignant hyperthermia.\n\nAdvantages of xenon include:\n• Inert and non-explosive\n• Safe in cardiac disease\n• Has analgesic activity and reduces intraoperative opioid requirements\n\nDisadvantages include:\n• High cost\n• Low potency\n• High-density gas leading to higher flow resistance and poor choice for patients with respiratory compromise.",
+    "expImage": "assets/images/anes_inhaled_fluorinated/q14_eximage.jpg"
+
+  },
+  {
+    "q": "Which inhalational anesthetic has a negligible greenhouse effect?",
+    "options": ["Nitrous oxide", "Desflurane", "Xenon", "Halothane"],
+    "answerIndex": 2,
+    "explanation": "Xenon produces no greenhouse effect or ozone depletion as it is inert in the biosphere.\n\nAll other inhaled anesthetics are greenhouse gases.\n\nNitrous oxide has a global warming potential about 300 times greater than carbon dioxide.\n\nDesflurane has the maximum global warming potential among inhaled anesthetics.\n\nHalothane has the potential to destroy stratospheric ozone due to its bromine-bearing molecules."
+  },
+  {
+    "q": "A middle-aged man presented to the ER with stridor due to partial upper airway obstruction. You are asked to administer heliox for symptomatic relief. What is the composition of this breathing mixture?",
+    "options": ["Helium 30% and oxygen 70%", "Helium 70% and oxygen 30%", "Helium 50% and oxygen 50%", "Helium 40% and oxygen 60%"],
+    "answerIndex": 1,
+    "explanation": "Heliox is a mixture of 70% helium and 30% oxygen.\n\nIt is supplied in E-size cylinders and delivered through a non-rebreathing face mask starting at a flow rate of 10 L/min.\n\nHeliox is used in cases of partial airway obstruction as in stridor to relieve the increased work of breathing. The flow of heliox through obstruction is higher compared to oxygen because helium has only 40% of the density of oxygen. Thus it provides symptomatic relief from acute distress before definitive treatment can be instituted.\n\nThe use of heliox in relieving lower airway obstruction as in acute asthma or COPD is unsatisfactory."
+  },
+  {
+    "q": "Which of the following is an incorrect statement regarding oxygen as a therapeutic agent?",
+    "options": ["Hyperbaric oxygen increases the availability of dissolved O2 in blood", "Primarily used in hypoxia", "Inhalation of higher oxygen concentration increases the partial pressure of nitrogen inside the body", "Can be administered at pressures greater than atmospheric oxygen pressure"],
+    "answerIndex": 2,
+    "explanation": "Inhalation of higher oxygen concentrations reduces the partial pressure of nitrogen inside the body, not increases it. Hence the statement is incorrect.\n\nReduction in total body partial pressure of nitrogen provides a substantial gradient for removal of nitrogen from gas spaces. This is beneficial in conditions such as bowel distension from obstruction of ileus, intravascular air embolism, or pneumothorax.\n\nHyperbaric oxygen increases the availability of dissolved oxygen in blood and is administered at pressures greater than atmospheric pressure in hyperbaric chambers.\n\nOxygen is primarily used in hypoxia."
+  },
+  {
+    "q": "During a coronary artery bypass graft surgery, the surgeon uses a therapeutic gas to flood the surgical field. Which of the following would he use?",
+    "options": ["Oxygen", "Nitric oxide", "Nitrous oxide", "Carbon dioxide"],
+    "answerIndex": 3,
+    "explanation": "Carbon dioxide (CO2) is commonly used to flood the surgical field during cardiac surgery.\n\nA common cause of myocardial ischemia during open-heart surgery is air embolism to the coronary arteries.\n\nCarbon dioxide, because of its higher density, displaces the air surrounding the open heart so that any gas bubbles trapped in the heart are carbon dioxide (which is soluble) and not nitrogen (which is relatively insoluble). This reduces the risk of air embolism."
+  },
+  {
+    "q": "In which of the following patients is inhaled nitric oxide approved for management?",
+    "options": ["52-year-old man with hypertensive emergency", "44-year-old woman with gastric varices", "3-day-old neonate with persistent pulmonary hypertension", "80-year-old man with malignant hypertension"],
+    "answerIndex": 2,
+    "explanation": "Inhaled nitric oxide (NO) is approved (USFDA) for use in persistent pulmonary hypertension of the newborn.\n\nInhaled NO selectively dilates the pulmonary vasculature and has the potential to treat many conditions that result in increased pulmonary hypertension.\n\nIt improves oxygenation by reducing pulmonary vascular resistance without causing systemic hypotension."
+  },
+  {
+    "q": "Which of the following inhalational anesthetics does not preserve cardiac output?",
+    "options": ["Isoflurane", "Desflurane", "Halothane", "Sevoflurane"],
+    "answerIndex": 2,
+    "explanation": "Halothane produces the maximum decrease in cardiac output by a combination of decreased heart rate and depressed myocardial contractility.\n\nHalothane and enflurane produce a greater decrease in myocardial contractility than isoflurane, desflurane, and sevoflurane which best maintain cardiac output.\n\nOf these, cardiac output is best preserved with isoflurane — though it produces some myocardial depression, reflex tachycardia maintains cardiac output."
+  },
+  {
+    "q": "Ozone depletion is least with which inhaled anesthetic?",
+    "options": ["Xenon", "Nitrous oxide", "Isoflurane", "Halothane"],
+    "answerIndex": 0,
+    "explanation": "Xenon is a noble gas which is inert and has no effect on ozone.\n\nHalothane and isoflurane have the potential to destroy stratospheric ozone due to their bromine and chlorine-bearing molecules.\n\nNitrous oxide contributes to stratospheric ozone loss and its impact may be more significant compared to halothane and isoflurane."
+  },
+  {
+    "q": "Which of the following statements is true regarding xenon?",
+    "options": ["Decreases airflow resistance and work of breathing", "Contraindicated in cardiac patients", "Contributes to greenhouse effect", "Rapid induction and recovery"],
+    "answerIndex": 3,
+    "explanation": "Xenon has a very low blood-gas solubility coefficient (0.115) and so produces rapid induction and emergence from anesthesia.\n\nXenon has high density (5.9 g/L), which increases airflow resistance and work of breathing and therefore is not suitable for patients with compromised respiratory function.\n\nIt has minimal cardiovascular effects and is safe in cardiac patients.\n\nXenon produces no greenhouse effect or ozone depletion and is environmentally safe.\n\nOther advantages of xenon include:\n• Does not trigger malignant hyperthermia\n• Non-explosive\n• Has analgesic activity and reduces intraoperative opioid requirements"
+  },
+  {
+    "q": "Which of the following inhalational agents is suitable for neurosurgery?",
+    "options": ["Halothane", "Isoflurane", "Nitrous oxide", "Ether"],
+    "answerIndex": 1,
+    "explanation": "Among the given options, isoflurane is best suited for neurosurgery.\n\nAll of the inhalational anesthetics are cerebral vasodilators. The order of vasodilating potency is:\nhalothane > enflurane > desflurane > isoflurane > sevoflurane.\n\nDue to its lesser vasodilating property compared to halothane and enflurane, isoflurane is preferred for neurosurgery as it produces less increase in intracranial pressure."
+  }
+]

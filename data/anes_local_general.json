@@ -1,0 +1,223 @@
+[
+  {
+    "q": "The main mechanism of action of lignocaine is through inhibition of __________.",
+    "options": [
+      "Resting, voltage-gated Na channel",
+      "Inactivated, voltage-gated Na channel",
+      "Resting, ligand-gated Na channel",
+      "Inactivated, ligand-gated Na channel"
+    ],
+    "answerIndex": 1,
+    "explanation": "The main mechanism of action of local anesthetics is through inhibition of inactivated, voltage-gated Na channel.\n\nLocal anesthesia involves the abolition of local sensation through blockade of nerve impulses.\n\nNa channels exist in 3 states:\n• Resting (non-conducting)\n• Open (conducting)\n• Inactivated (non-conducting)\n\nLocal anesthetics have a greater affinity for the channel in the open or inactivated state than in the resting state. They bind to the α subunit of Na channel and inhibit the conformational changes associated with channel opening, thereby preventing Na influx. When a considerable number of Na channels are inactivated, the action potential cannot be generated and impulse cannot be propagated."
+  },
+  {
+    "q": "By what mechanism do local anesthetics block nerve conduction?",
+    "options": [
+      "Inhibiting the release of neurotransmitters",
+      "Decreasing the influx of sodium into the cells",
+      "Increasing the release of inhibitory neurotransmitters",
+      "Inhibiting the efflux of sodium from neurons"
+    ],
+    "answerIndex": 1,
+    "explanation": "Local anesthetics block nerve conduction by decreasing the influx of sodium ions into the cells.\n\nNormally, sodium influx is followed by slight depolarization of the membrane.\n\nLocal anesthetics in unionized form cross the cell membrane and are converted to ionized forms inside the cytoplasm where sodium channel blockade occurs. Resting/closed conformation of the sodium channels have relatively low affinity for local anesthetics."
+  },
+  {
+    "q": "A patient has presented to your OPD with a sebaceous cyst on the scalp. You plan to excise it. Before making the first incision, you inject lidocaine around it. Which of the following effects does this drug have?",
+    "options": [
+      "Only 1",
+      "1, 3 & 5",
+      "1, 2 & 4",
+      "1, 3, 4 & 5"
+    ],
+    "answerIndex": 3,
+    "explanation": "Local anesthetics inhibit potassium channels.\n\nThe effects of local anesthetics include:\n• Inhibition of voltage-gated Na channels\n• Blockade of potassium and calcium channels\n• Transient receptor potential vanilloid 1 (TRPV1)\n• Interaction with cholinergic or N-methyl-D-aspartate (NMDA) receptors\n• Interference with cellular metabolic processes (e.g., oxidative phosphorylation, free fatty acid utilization)\n\nHowever, the main action of local anesthetics is mediated by inhibition of voltage-gated Na channels."
+  },
+  {
+    "q": "Which of the following is not an amino ester?",
+    "options": [
+      "Cocaine",
+      "Procaine",
+      "Lidocaine",
+      "Chloroprocaine"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lidocaine (lignocaine, xylocaine) is an amino-amide."
+  },
+  {
+    "q": "Which of the following local anesthetics is not metabolised by plasma esterase?",
+    "options": [
+      "Tetracaine",
+      "Procaine",
+      "Cocaine",
+      "Articaine"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cocaine is the only amino ester that is not metabolized by plasma cholinesterases. It is partially metabolized by hepatic carboxylesterase and partially excreted unchanged in the urine.\n\nArticaine is the only amino amide which is inactivated by plasma esterases.\n\nNote: Cocaine is a vasoconstrictor due to its property of norepinephrine reuptake inhibition. All the other local anesthetics are vasodilators except cocaine."
+  },
+  {
+    "q": "In a patient undergoing surgical fixation of a distal radius fracture, an axillary approach brachial block is administered for the added benefit of prolonged pain relief. Which of the following drugs is least suited for this purpose?",
+    "options": [
+      "Bupivacaine",
+      "Ropivacaine",
+      "Tetracaine",
+      "Lidocaine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Lidocaine is an intermediate-acting local anesthetic. It is not preferred in procedures for prolonged pain relief.\n\nLong-acting local anesthetics are preferred for prolonged pain relief.\n\nBupivacaine, ropivacaine, and tetracaine are all long-acting and thus can be used to administer the brachial plexus block in this case."
+  },
+  {
+    "q": "Arrange the following local anesthetics in order of potency from most potent to least.",
+    "options": [
+      "2 > 1 > 3",
+      "2 > 3 > 1",
+      "1 > 3 > 2",
+      "3 > 1 > 2"
+    ],
+    "answerIndex": 1,
+    "explanation": "The most potent local anesthetic among the following is bupivacaine followed by mepivacaine and then procaine.\n\nPotency depends on hydrophobicity. Hydrophobicity can be increased by the addition of alkyl groups to the molecule.\n\nNote: Dibucaine is the most potent, most toxic and longest acting local anesthetic agent."
+  },
+  {
+    "q": "The local anesthetic with maximum amount of unionized drug at physiological pH is __________.",
+    "options": [
+      "Bupivacaine",
+      "Chloroprocaine",
+      "Prilocaine",
+      "Lidocaine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Among the given options, lidocaine has the lowest pKa value. Thus, it has the maximum amount of unionized drug at physiological pH.\n\nIt is the unionized form of local anesthetics that penetrate the membrane. Hence, pKa correlates with the onset of action.\n\npKa of a drug is the pH at which the drug is 50% ionized and 50% nonionized."
+  },
+  {
+    "q": "Which of the following patients should you observe most closely for signs of local anesthesia toxicity?",
+    "options": [
+      "A patient who underwent hip replacement under epidural anesthesia",
+      "A patient who underwent hand surgery under brachial plexus block",
+      "A patient who underwent hernioplasty under local anesthesia",
+      "A patient who underwent ICD insertion under intercostal nerve block"
+    ],
+    "answerIndex": 3,
+    "explanation": "Intercostal nerve blocks have the highest systemic absorption among peripheral nerve blocks and therefore carry the highest risk of local anesthetic systemic toxicity."
+  },
+  {
+    "q": "When asked to administer a combination of lignocaine and epinephrine for a minor procedure under local anesthesia, what concentration of epinephrine will you use?",
+    "options": [
+      "1 : 10,000",
+      "1 : 20,000",
+      "1 : 1,00,000",
+      "1 : 2,00,000"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epinephrine is used along with local anesthetics at a concentration of 5 µg/mL or 1:200,000. At this dose, epinephrine provides adequate vasoconstriction.\n\nAdvantages of vasoconstrictors:\n• Increased duration of action\n• Improved depth of anesthesia\n• Decreased local anesthetic toxicity\n• Acts as a marker for inadvertent intravascular injection"
+  },
+  {
+    "q": "You are administering lidocaine to a patient before wound suturing. If you add adrenaline to it, what would be the duration of action of the anesthetic?",
+    "options": [
+      "1 hour",
+      "2 hours",
+      "3 hours",
+      "4 hours"
+    ],
+    "answerIndex": 1,
+    "explanation": "By adding adrenaline to lidocaine, the duration of action can be increased to 2 hours.",
+    "expImage": "assets/images/anes_local_general/q11_expimage.jpg"
+  },
+  {
+    "q": "While administering which of the following blocks will you never use a vasoconstrictor-local anesthetic combination?",
+    "options": [
+      "Digital block",
+      "Spinal block",
+      "Epidural block",
+      "Intercostal nerve block"
+    ],
+    "answerIndex": 0,
+    "explanation": "The use of a vasoconstrictor-local anesthetic combination is contraindicated in digital block (ring block). This is an area supplied by end arteries and there is a risk of ischemia and necrosis.\n\nThe combination is also contraindicated in:\n• Toe block\n• Surgery of the tip of the nose and pinna\n• Surgery of the penis (circumcision)"
+  }  ,
+  {
+    "q": "While administering lidocaine to a patient in the ER, the anesthesia resident adds sodium bicarbonate to it before injecting. All of the following benefits are achieved by this except:",
+    "options": [
+      "Faster onset of action",
+      "Reduced pain on injection",
+      "Improved quality of block",
+      "Reduced local anesthetic toxicity"
+    ],
+    "answerIndex": 3,
+    "explanation": "The addition of sodium bicarbonate to local anesthetics does not reduce local anesthetic toxicity.\n\nAll local anesthetics are weak bases, but commercially available solutions have an acidic pH in order to maximize stability and shelf life. In acidic solutions, most of the drug will be in ionized form. It is only the uncharged (non-ionized) form that diffuses across the lipid barrier to the site of action.\n\nA basic solution (sodium bicarbonate) can be added to a local anesthetic solution immediately before injection to raise the pH. This is termed 'alkalinization' or 'buffering'. Alkalinization increases the proportion of non-ionized drug resulting in more rapid drug diffusion.\n\nAdvantages of alkalinization:\n• Faster onset of action\n• Reduced pain/stinging on subcutaneous injection\n• Improved quality of the block\n\n1 mL of 8.4% sodium bicarbonate is added to 10 mL of local anesthetic solution.\n\nExcessive sodium bicarbonate raises the pH too far and precipitates non-charged basic form in the solution."
+  },
+  {
+    "q": "Which local anesthetic solution causes maximum neurotoxicity on neuro-axial placement?",
+    "options": [
+      "Bupivacaine",
+      "Lidocaine",
+      "Ropivacaine",
+      "Prilocaine"
+    ],
+    "answerIndex": 1,
+    "explanation": "Neurotoxicity from neuro-axial (epidural or spinal) placement of local anesthetic solution is maximum with lidocaine.\n\nOrder of neurotoxicity: Lidocaine > Tetracaine > Bupivacaine > Ropivacaine.\n\nNeurotoxicity may manifest as transient neurological symptoms or cauda equina syndrome."
+  },
+  {
+    "q": "Upon intramuscular injection of which of the following local anesthetics is maximum myotoxicity induced?",
+    "options": [
+      "Lidocaine",
+      "Prilocaine",
+      "Procaine",
+      "Bupivacaine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Local anesthetic-induced myotoxicity following intramuscular injection is maximum with bupivacaine.\n\nThe mechanism of muscle damage is due to mitochondrial damage.\n\nToxicity is reversible as it resolves within 2 weeks."
+  },
+  {
+    "q": "A young male is brought to the ER with uncoordinated movements and difficulty speaking. His friends tell you that these symptoms started after he ate a shellfish dish. He complained of nausea and vomited also. Shellfish poisoning is suspected. Where does this toxin act on?",
+    "options": [
+      "Inner pore of voltage gated sodium channel",
+      "Outer pore of voltage gated sodium channel",
+      "Inner pore of ligand gated sodium channel",
+      "Outer pore of ligand gated sodium channel"
+    ],
+    "answerIndex": 1,
+    "explanation": "The manifestations of shellfish poisoning are due to the action of the poison on the outer pore of the voltage-gated sodium channel.\n\nShellfish poisoning is due to the neurotoxin saxitoxin and puffer fish poisoning is due to tetrodotoxin. Although these toxins are chemically distinct, they are exceedingly potent and have similar mechanisms of action.\n\nWhile local anesthetics inhibit sodium channel activity by binding to the inner pore (from intracellular side), these toxins bind to the outer pore of the channel. As a result, the action potential is blocked.\n\nUnlike local anesthetics, these neurotoxins are very specific to neuronal sodium channels, hence cardiac and neurological side effects are low.\n\nTreatment includes gastric lavage, vasopressors. Mechanical ventilation may be required if respiratory paralysis sets in.\n\nPrognosis is good when the patient survives after 24 hours."
+  },
+  {
+    "q": "A patient was being given spinal anesthesia with bupivacaine when there was an inadvertent intravascular injection. Following this, the patient developed an arrhythmia and went into cardiac arrest. What should you treat this with?",
+    "options": [
+      "Esmolol",
+      "Epinephrine",
+      "Lignocaine",
+      "Calcium channel blockers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bupivacaine toxicity resulting in cardiac arrest is treated with epinephrine.\n\nIf cardiac arrest occurs, the American Society of Regional Anesthesia (ASRA) recommends standard Advanced Cardiac Life Support (ACLS) with the following modifications:\n• If epinephrine is used, small initial doses (10–100 µg boluses in adults) are preferable\n• Vasopressin is not recommended\n• Avoid calcium channel blockers and beta-blockers\n\nIf ventricular arrhythmias develop, amiodarone is preferable.\n\n20% lipid emulsion therapy at 1.5 mL/kg should be considered at the first signs of local anesthetic systemic toxicity (LAST), after airway management (~100 mL in adults).\n\nIn bupivacaine toxicity unresponsive to lipid emulsion and vasopressor therapy, cardiopulmonary bypass may be considered.\n\nAmong anti-arrhythmic drugs, current data emphasizes amiodarone as the mainstay drug. The use of bretylium is no longer endorsed."
+  },
+  {
+    "q": "Which nerve fibre is most susceptible to local anesthetic?",
+    "options": [
+      "Type C",
+      "A gamma",
+      "Type B",
+      "A delta"
+    ],
+    "answerIndex": 2,
+    "explanation": "Nerve fibre most susceptible to local anesthetic is type B.\n\nThe order of susceptibility of nerve fibres to local anesthetics is:\nB > Aγ > Aδ > Aβ > Aα > C\n\n• B fibres are the most susceptible/least resistant\n• C fibres are the least susceptible/most resistant (practically)\n\nFactors that increase the sensitivity of nerve fibres are:\n• Smaller diameter\n• Unmyelinated nerves\n• Anatomical and physiological factors\n\nNote: Although theoretically C fibres are supposed to be the most susceptible to local anesthetics, practically they were found to be the least susceptible."
+  },
+  {
+    "q": "Which nerve fibers are most resistant to local anesthetics?",
+    "options": [
+      "Type Aα",
+      "Type B",
+      "Type Aβ",
+      "Type Aγ"
+    ],
+    "answerIndex": 0,
+    "explanation": "Type Aα fibres are most resistant to local anesthetics among the given options.\n\nThe order of susceptibility of nerve fibres to local anesthetics is:\nB > Aγ > Aδ > Aβ > Aα > C"
+  },
+  {
+    "q": "What is the order of susceptibility of nerve fibers to local anesthetics?",
+    "options": [
+      "Aα > Aβ > B > C",
+      "Aβ > B > Aα > C",
+      "C > B > Aβ > Aα",
+      "B > Aγ > Aδ > Aβ > Aα > C"
+    ],
+    "answerIndex": 3,
+    "explanation": "The order of susceptibility of nerve fibres to local anesthetics is:\nB > Aγ > Aδ > Aβ > Aα > C\n\n• B fibres are the most susceptible/least resistant\n• C fibres are the least susceptible/most resistant (practically)\n\nFactors that increase the sensitivity of nerve fibres are:\n• Smaller diameter\n• Unmyelinated nerves\n• Anatomical and physiological factors\n\nNote: Although theoretically C fibres are supposed to be the most susceptible to local anesthetics, practically they were found to be the least susceptible."
+  }
+]

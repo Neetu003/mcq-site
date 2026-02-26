@@ -1,0 +1,146 @@
+[
+  {
+    "q": "The anaesthesia resident has made the markings as seen in the image on a patient's neck. Which brachial plexus block is he likely planning to perform?",
+    "options": [
+      "Supraclavicular block",
+      "Stellate ganglion block",
+      "Interscalene block",
+      "Infraclavicular block"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_peripheral_nerve_blocks/q1_qimage.jpg",
+    "explanation": "The image shows the surface marking used to perform an interscalene block. The local anaesthetic is injected into the interscalene groove present behind the sternocleidomastoid muscle at the level of the cricoid cartilage (C6 vertebral level).\n\nThis is a brachial plexus block performed at the trunk level.\n\nLevel of brachial plexus block → Type of block:\n• Superior & middle trunk (inferior trunk blockade is incomplete) → Interscalene\n• Distal trunk & proximal division → Supraclavicular\n• Cords → Infraclavicular\n• Terminal nerves → Axillary\n\nInterscalene block provides an adequate block of the superior and middle trunks of the brachial plexus. Therefore, it provides surgical anaesthesia for procedures of the shoulder and upper arm. However, the ulnar nerve (C8, T1) from the inferior trunk level may be missed. Hence, this block is not used for procedures of the forearm and hand.",
+    "expImages": [
+      "assets/images/anes_peripheral_nerve_blocks/q1_eximage_1.jpg",
+      "assets/images/anes_peripheral_nerve_blocks/q1_eximage_2.jpg"
+    ]
+  },
+  {
+    "q": "You are about to administer interscalene block to a patient. What is the most common complication you should anticipate?",
+    "options": [
+      "Pneumothorax",
+      "Diaphragmatic hemiparesis",
+      "Recurrent laryngeal nerve palsy",
+      "Horner's syndrome"
+    ],
+    "answerIndex": 1,
+    "explanation": "The most common complication of interscalene block, seen in nearly 100% of patients, is diaphragmatic hemiparesis due to ipsilateral phrenic nerve blockade.\n\nThis can result in dyspnea, hypoxia, and hypercapnea, especially if the patient has compromised lung function or pre-existing contralateral phrenic nerve paralysis.\n\nOther complications of interscalene block include:\n• Horner's syndrome (ptosis, miosis, anhidrosis) due to involvement of sympathetic nerves to the cervicothoracic ganglion\n• Recurrent laryngeal nerve palsy\n• Vagus nerve involvement\n• Pneumothorax\n• Bezold–Jarisch reflex\n• Accidental vertebral artery injection (immediate seizure may be seen)\n• Accidental spinal or epidural injection"
+  },
+  {
+    "q": "A patient presented with dislocation of the shoulder. It was not amenable to closed reduction, so you plan to perform an open reduction. Which regional anaesthetic technique will you prefer to perform this procedure under?",
+    "options": [
+      "Spinal anesthesia",
+      "Epidural anesthesia",
+      "Interscalene block",
+      "Supraclavicular block"
+    ],
+    "answerIndex": 2,
+    "explanation": "The regional anaesthetic technique preferred for surgery of a dislocated shoulder is an interscalene brachial plexus block.\n\nKey point: Interscalene block targets the superior and middle trunks and is best suited for shoulder and upper arm surgery. Its limitation is ulnar nerve sparing (inferior trunk may be missed), so it is not ideal for forearm and hand surgeries.\n\nFor comparison (broad idea):\n• Interscalene → Shoulder/upper arm (limitation: ulnar nerve sparing)\n• Supraclavicular → Elbow/forearm/hand (limitations: axillary & suprascapular sparing, pneumothorax, phrenic palsy)\n• Infraclavicular → Forearm/hand (limitation: intercostobrachial nerve sparing)\n• Axillary → Forearm/hand (limitations can include incomplete musculocutaneous/axillary/medial cutaneous nerve coverage; risk of inadvertent intravascular injection)",
+    "expImage": "assets/images/anes_peripheral_nerve_blocks/q3_eximage.jpg"
+  },
+  {
+    "q": "The anaesthesia resident is told to perform the 'spinal of the arm' before an elbow surgery. You observe him as he injects a local anaesthetic at the point shown in the image. What procedure is he performing?",
+    "options": [
+      "Stellate ganglion block",
+      "Supraclavicular block",
+      "Infraclavicular block",
+      "Interscalene block"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_peripheral_nerve_blocks/q4_qimage.jpg",
+    "explanation": "The procedure being performed is a supraclavicular block. It can be identified by the point of injection approximately 2 cm posterior to the mid-point of the clavicle.\n\nThe supraclavicular block blocks the brachial plexus at the level of the distal trunks and proximal divisions and is therefore commonly called the “spinal of the arm”.\n\nIt is used for procedures on the elbow, forearm, and hand.\n\nImportant limitation: Supraclavicular block does not adequately block the axillary and suprascapular nerves, and thus it is not reliable for shoulder surgery.",
+    "expImage": "assets/images/anes_peripheral_nerve_blocks/q4_eximage.jpg"
+  },
+  {
+    "q": "What is the most common complication after supraclavicular block?",
+    "options": [
+      "Phrenic nerve palsy",
+      "Horner's syndrome",
+      "Pneumothorax",
+      "Recurrent laryngeal nerve palsy"
+    ],
+    "answerIndex": 0,
+    "explanation": "The most common complication of supraclavicular block is phrenic nerve palsy (incidence > 50%). This results in hemidiaphragmatic paresis, which is usually self-limited and resolves as the block wears off.\n\nComplications / side-effects of supraclavicular block include:\n• Hemidiaphragmatic paresis due to phrenic nerve palsy (most common)\n• Pneumothorax (higher compared to other brachial plexus blocks)\n• Horner's syndrome (from block of the stellate ganglion/cervical sympathetic chain)\n• Hoarseness due to recurrent laryngeal nerve palsy and/or cervical sympathetic block\n\nNote: Pneumothorax is the most dangerous complication of supraclavicular block but it is not the most common. Its incidence ranges roughly from 0.5–6%. Symptoms may develop slowly and can take up to 24 hours."
+  },
+  {
+    "q": "Which procedure has the maximum incidence of pneumothorax?",
+    "options": [
+      "Supraclavicular block",
+      "Infraclavicular block",
+      "Interscalene block",
+      "Axillary block"
+    ],
+    "answerIndex": 0,
+    "explanation": "The incidence of pneumothorax is maximum with supraclavicular block (about 0.5–6%) among the approaches to brachial plexus block.\n\nThe risk can be minimized by performing an ultrasound-guided block."
+  },
+  {
+    "q": "In which of the following patients will the administration of a supraclavicular block not be of much use?",
+    "options": [
+      "30-year-old man with distal radius fracture",
+      "16-year-old boy with elbow dislocation",
+      "40-year-old man with fracture of 1st metacarpal",
+      "25-year-old woman with posterior shoulder dislocation"
+    ],
+    "answerIndex": 3,
+    "explanation": "Supraclavicular block is not reliable for shoulder surgeries because the axillary and suprascapular nerves may be spared. Therefore, it will not be of much use in a case of posterior shoulder dislocation.\n\nSupraclavicular block is primarily used for procedures of the elbow, forearm, and hand (it blocks the brachial plexus at the level of distal trunk/proximal division)."
+  },
+  {
+    "q": "Which of the following blocks is performed by injecting a local anaesthetic at the point marked in the image?",
+    "options": [
+      "Stellate ganglion block",
+      "Supraclavicular block",
+      "Infraclavicular block",
+      "Interscalene block"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_peripheral_nerve_blocks/q8_qimage.jpg",
+    "explanation": "The image shows the surface marking for performing an infraclavicular block.\n\nThis block is performed at a point approximately 2 cm medial and 2 cm caudal to the coracoid process, which is used as a landmark.\n\nThe brachial plexus is blocked at the level of the cords.",
+    "expImage": "assets/images/anes_peripheral_nerve_blocks/q8_eximage.jpg"
+  },
+  {
+    "q": "A brachial plexus block is given by injecting a local anaesthetic at the point shown in the image. Which of the following procedures cannot be performed under this block?",
+    "options": [
+      "Plating of distal radius",
+      "Internal fixation of scaphoid fracture",
+      "Internal fixation of shaft humerus fracture",
+      "Internal fixation of ulnar fracture"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_peripheral_nerve_blocks/q9_qimage.jpg",
+    "explanation": "The image shows local anaesthetic being injected at the tip of the axilla around the axillary artery. This is the technique used to perform an axillary block.\n\nThe terminal branches of the brachial plexus can be blocked via the axillary approach.\n\nIt reliably produces anaesthesia of the arm distal to the elbow. Hence, it can be used for distal radius plating, scaphoid fixation, and ulnar fixation, but it cannot be used for fixation of the shaft of the humerus.",
+    "expImage": "assets/images/anes_peripheral_nerve_blocks/q9_eximage.jpg"
+  },
+  {
+    "q": "A child presents with a dislocated fracture of the first metacarpal. What is the preferred regional anaesthesia technique for the surgery?",
+    "options": [
+      "Supraclavicular block",
+      "Infraclavicular block",
+      "Interscalene block",
+      "Axillary block"
+    ],
+    "answerIndex": 3,
+    "explanation": "The axillary block is the most preferred approach to the brachial plexus in pediatric patients for surgeries of the elbow, forearm, and hand.\n\nIt is a relatively easy and safe procedure.\n\nComplications include systemic toxicity due to accidental intra-arterial injection and permanent nerve injury from intraneural injection."
+  },
+  {
+    "q": "A 4-year-old boy is posted for a circumcision procedure. He is given a pudendal nerve block before the surgery. Which of the following nerve roots are blocked in this technique?",
+    "options": [
+      "L1, L2, L3",
+      "L2, L3, L4",
+      "S1, S2, S3",
+      "S2, S3, S4"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pudendal nerve block involves sacral roots S2, S3, and S4 (S2S3S4)."
+  },
+  {
+    "q": "You have administered a celiac plexus block to a patient of pancreatic cancer for pain relief. What is the most common complication of this block that you should warn him about?",
+    "options": [
+      "Pneumothorax",
+      "Postural hypotension",
+      "Retroperitoneal hemorrhage",
+      "Intra-arterial injection"
+    ],
+    "answerIndex": 1,
+    "explanation": "Most common complication of celiac plexus block is postural (orthostatic) hypotension.\n\nCeliac plexus (important points):\n• Largest plexus of the sympathetic nervous system\n• Contains preganglionic sympathetic fibers (greater, lesser, and least splanchnic nerves: T5 to T12), postganglionic sympathetic fibers, preganglionic parasympathetic fibers, and visceral sensory afferent fibers\n• Provides sensory innervation and sympathetic outflow to stomach, liver, spleen, pancreas, kidney, and GI tract up to the splenic flexure\n• Located in the retroperitoneal space, anterior to the aorta at the level of L1\n• Indication: Pain arising from abdominal viscera, particularly intra-abdominal cancers (e.g., pancreatic cancer)\n\nComplications of celiac plexus block:\n• Orthostatic hypotension (most common; can be minimized with fluid hydration)\n• Diarrhea (secondary to blockade of sympathetic fibers)\n• Paraplegia (from damage to artery of Adamkiewicz)\n• Local anaesthetic toxicity\n• Spinal or epidural injection\n• Retroperitoneal hemorrhage\n• Visceral organ injury\n• Pneumothorax"
+  }
+]

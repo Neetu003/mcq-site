@@ -31,6 +31,53 @@
   { "id": "gyn_operative", "name": "Operative Gynaecology", "file": "data/gyn_operative_gynaecology.json" },
   { "id": "gyn_misc", "name": "Miscellaneous (Gynaecology)", "file": "data/gyn_miscellaneous.json" }
 ]
+    },
+
+  {
+      "id": "anaesthesia",
+      "name": "Anaesthesia",
+      "topics": [
+        
+  { "id": "anes_history_ethics", "name": "History and Ethical Aspects of Anaesthesia", "file": "data/anes_history_ethics.json" },
+  { "id": "anes_preoperative_evaluation", "name": "Preoperative Evaluation", "file": "data/anes_preoperative_evaluation.json" },
+  { "id": "anes_cns_cvs_monitoring", "name": "CNS and CVS Monitoring in Anaesthesia", "file": "data/anes_cns_cvs_monitoring.json" },
+  { "id": "anes_respiratory_monitoring", "name": "Respiratory Monitoring in Anaesthesia", "file": "data/anes_respiratory_monitoring.json" },
+
+  { "id": "anes_airway_devices", "name": "Airway Devices", "file": "data/anes_airway_devices.json" },
+  { "id": "anes_intubation", "name": "Intubation", "file": "data/anes_intubation.json" },
+  { "id": "anes_breathing_systems", "name": "Breathing Systems", "file": "data/anes_breathing_systems.json" },
+  { "id": "anes_workstation", "name": "Anaesthesia Workstation", "file": "data/anes_workstation.json" },
+
+  { "id": "anes_bls_pals", "name": "BLS and PALS", "file": "data/anes_bls_pals.json" },
+  { "id": "anes_acls", "name": "ACLS", "file": "data/anes_acls.json" },
+
+  { "id": "anes_ventilation_o2", "name": "Ventilation and O2 Delivery Systems", "file": "data/anes_ventilation_o2.json" },
+
+  { "id": "anes_depolarising_muscle_relaxants", "name": "Depolarising Muscle Relaxants", "file": "data/anes_depolarising_muscle_relaxants.json" },
+  { "id": "anes_nondepolarising_muscle_relaxants", "name": "Non-Depolarising Muscle Relaxants", "file": "data/anes_nondepolarising_muscle_relaxants.json" },
+
+  { "id": "anes_inhaled_n2o_halothane", "name": "Inhaled Anaesthetics – Properties, N2O and Halothane", "file": "data/anes_inhaled_n2o_halothane.json" },
+  { "id": "anes_inhaled_fluorinated", "name": "Inhaled Anaesthetics – Fluorinated Agents", "file": "data/anes_inhaled_fluorinated.json" },
+
+  { "id": "anes_iv_barbiturates_benzodiazepines", "name": "Intravenous Anaesthesia – Barbiturates and Benzodiazepines", "file": "data/anes_iv_barbiturates_benzodiazepines.json" },
+  { "id": "anes_iv_etomidate_ketamine", "name": "Intravenous Anaesthesia – Etomidate and Ketamine", "file": "data/anes_iv_etomidate_ketamine.json" },
+
+  { "id": "anes_local_general", "name": "Local Anaesthetics – General Properties", "file": "data/anes_local_general.json" },
+  { "id": "anes_local_specific", "name": "Local Anaesthetics – Specific Drugs", "file": "data/anes_local_specific.json" },
+
+  { "id": "anes_regional_techniques", "name": "Regional Anaesthesia – Techniques", "file": "data/anes_regional_techniques.json" },
+  { "id": "anes_regional_complications", "name": "Regional Anaesthesia – Complications and Contraindications", "file": "data/anes_regional_complications.json" },
+
+  { "id": "anes_peripheral_nerve_blocks", "name": "Peripheral Nerve Blocks", "file": "data/anes_peripheral_nerve_blocks.json" },
+
+  { "id": "anes_concurrent_diseases", "name": "Anaesthetic Implication of Concurrent Diseases", "file": "data/anes_concurrent_diseases.json" },
+
+  { "id": "anes_pediatric_obstetric", "name": "Pediatric and Obstetric Anaesthesia", "file": "data/anes_pediatric_obstetric.json" },
+
+  { "id": "anes_complications", "name": "Complications of Anaesthesia", "file": "data/anes_complications.json" }
+]
+
+      
     }
   ]
 }

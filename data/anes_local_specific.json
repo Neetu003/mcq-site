@@ -1,0 +1,274 @@
+[
+  {
+    "q": "Before performing a bronchoscopy, the pulmonologist sprays a topical anesthetic solution in the patient's oral cavity and pharynx. Which of the following drugs is this spray unlikely to contain?",
+    "options": [
+      "Lidocaine",
+      "Tetracaine",
+      "Benzocaine",
+      "Bupivacaine"
+    ],
+    "answerIndex": 3,
+    "explanation": "The spray used by the pulmonologist is most likely a topical anesthetic. Bupivacaine is not used for topical anesthesia.\n\nLidocaine, tetracaine, and benzocaine are used for topical anesthesia.\n\nLidocaine and tetracaine topical sprays are used for:\n• Endotracheal intubation – to blunt cardiovascular responses.\n• Esophagoscopy and bronchoscopy – for mucosal analgesia.\n\nBenzocaine and cetacaine sprays have been used but benzocaine is associated with a higher incidence of methemoglobinemia."
+  },
+  {
+    "q": "The anesthesia PG applies a cream with an occlusive dressing on the forearm of a baby brought for IV cannulation. One hour later, the baby allows cannulation without crying. What is the composition of the cream that was applied?",
+    "options": [
+      "2.5% lidocaine and 2.5% procaine",
+      "2.5% lidocaine and 2.5% prilocaine",
+      "5% lidocaine and 2.5% procaine",
+      "5% lidocaine and 2.5% prilocaine"
+    ],
+    "answerIndex": 1,
+    "explanation": "The cream applied is EMLA cream (Eutectic Mixture of Local Anesthetic), which consists of a 1:1 mixture of 2.5% lidocaine and 2.5% prilocaine.\n\nA eutectic mixture has a melting point lower than the individual drugs, allowing the mixture to remain in oil form at room temperature.\n\nEMLA provides adequate dermal analgesia for:\n• Venipuncture and IV cannulation in children\n• Split skin graft harvesting\n• Laser skin treatments\n• Lithotripsy\n• Circumcision\n\nIt is applied 45–60 minutes before the procedure under an occlusive dressing and provides analgesia up to 5 mm depth lasting 1–2 hours.",
+    "expImage": "assets/images/anes_local_specific/q2_eximage.jpg"
+  },
+  {
+    "q": "A patient presents with a foreign body in the right cornea. Which would be the topical anesthetic of choice to remove it?",
+    "options": [
+      "Tetracaine",
+      "Cocaine",
+      "Bupivacaine",
+      "Prilocaine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tetracaine is the topical anesthetic of choice for removal of foreign bodies from the cornea.\n\nTopical anesthetics used in ophthalmology include:\n• Tetracaine\n• Proparacaine eye drops\n• Lidocaine gel\n• Intranasal cocaine"
+  },
+  {
+    "q": "The drug most frequently used for intravenous regional anesthesia is ________.",
+    "options": [
+      "Lidocaine",
+      "Bupivacaine",
+      "Mepivacaine",
+      "Procaine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lidocaine is the most frequently used drug for intravenous regional anesthesia (IVRA) or Bier's block.\n\nIVRA involves intravenous administration of local anesthetic into a tourniquet-occluded limb. It is used for short limb procedures (less than 60 minutes).\n\nBupivacaine is not used for IVRA because it is highly cardiotoxic and accidental early deflation of the tourniquet can result in severe systemic toxicity including arrhythmias and cardiovascular collapse.",
+    "expImage": "assets/images/anes_local_specific/q4_eximage.jpg"
+  },
+  {
+    "q": "A patient presents with a ganglion cyst planned for excision under Bier's block. Which of the following drugs will you not use for this procedure?",
+    "options": [
+      "Prilocaine",
+      "Lidocaine",
+      "Etidocaine",
+      "Bupivacaine"
+    ],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_local_specific/q5_qimage.jpg",
+    "explanation": "Bupivacaine is not used for Bier's block because it is the most cardiotoxic local anesthetic. Accidental early deflation of the tourniquet can lead to massive systemic absorption resulting in cardiac arrhythmias and cardiovascular collapse.\n\nIVRA involves intravenous injection of local anesthetic into a limb after exsanguination and inflation of a tourniquet. Typically 30–40 mL of 0.5% lidocaine is used.\n\nThe tourniquet must remain inflated for at least 15–20 minutes to prevent rapid systemic absorption. Slow deflation is recommended to avoid toxicity.",
+    "expImage": "assets/images/anes_local_specific/q4_eximage.jpg"
+  },
+  {
+    "q": "Which of the following statements about lignocaine is false?",
+    "options": [
+      "It blocks active sodium channels with more affinity than resting sodium channels",
+      "It can cause cardiotoxicity",
+      "It can be given orally for cardiac arrhythmias",
+      "Its duration of action is increased by adrenaline"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lignocaine is used for cardiac arrhythmias but is not effective orally because of high first-pass metabolism.\n\nLocal anesthetics have more affinity for active (open/inactivated) sodium channels than resting channels.\n\nLignocaine can cause cardiotoxicity at high doses.\n\nAdrenaline increases duration of action by vasoconstriction."
+  },
+  {
+    "q": "A 24-year-old primigravida in labor requests epidural analgesia. What is the maximum dose of lidocaine that can be given to her when epinephrine is not used?",
+    "options": [
+      "3 mg/kg",
+      "4.5 mg/kg",
+      "7 mg/kg",
+      "12 mg/kg"
+    ],
+    "answerIndex": 1,
+    "explanation": "The maximum dose of lidocaine without epinephrine is 4.5 mg/kg."
+  },
+  {
+    "q": "For epidural anesthesia, what is the maximum dose of lidocaine with adrenaline that can be given to a 70 kg patient?",
+    "options": [
+      "175 mg",
+      "200 mg",
+      "350 mg",
+      "500 mg"
+    ],
+    "answerIndex": 2,
+    "explanation": "The maximum dose of lidocaine with adrenaline is 7 mg/kg up to a maximum of 500 mg. For a 70 kg patient, this equals 490 mg (approximately 500 mg)."
+  },
+  {
+    "q": "What is the concentration of bupivacaine you use while administering spinal anesthesia to a patient?",
+    "options": [
+      "0.2%",
+      "0.5%",
+      "0.75%",
+      "5%"
+    ],
+    "answerIndex": 1,
+    "explanation": "0.5% hyperbaric preservative-free bupivacaine is most commonly used for spinal anesthesia.\n\n1 mL of 0.5% bupivacaine contains 5 mg of drug.\n\nHyperbaric solution is prepared by adding dextrose, making it heavier than CSF.\n\nAddition of opioids may improve quality and duration of anesthesia.",
+    "expImage": "assets/images/anes_local_specific/q9_eximage.jpg"
+  },
+  {
+    "q": "A patient with a tibial shaft fracture is planned for tibia nailing under epidural anesthesia. What concentration of bupivacaine should be used?",
+    "options": [
+      "1%",
+      "0.1%",
+      "5%",
+      "0.5%"
+    ],
+    "answerIndex": 3,
+    "explanation": "The concentration of bupivacaine used in epidural anesthesia for surgical procedures is 0.5%.\n\nLower concentrations (0.0625–0.1%) are used for labor analgesia.\n\nHigher concentrations (0.5–0.75%) produce dense sensory and motor block for surgery.",
+    "expImage": "assets/images/anes_local_specific/q10_eximage.jpg"
+  },
+  {
+    "q": "A patient with PSVT and type 1 diabetes requires femoral nailing. The resident suggests ropivacaine instead of bupivacaine for spinal block. What advantage does ropivacaine have?",
+    "options": [
+      "More potent",
+      "Less nephrotoxic",
+      "Less cardiotoxic",
+      "More profound motor blockade"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ropivacaine is less cardiotoxic than bupivacaine.\n\nRopivacaine is the S(-) enantiomer and has a better safety profile. It produces less motor block and is less potent than bupivacaine."
+  },
+  {
+    "q": "What is the CC/CNS dose ratio for bupivacaine?",
+    "options": [
+      "7",
+      "5",
+      "3",
+      "1"
+    ],
+    "answerIndex": 2,
+    "explanation": "The CC/CNS ratio for bupivacaine is approximately 3.\n\nThe lower the ratio, the more cardiotoxic the drug. Therefore, bupivacaine is more cardiotoxic than lidocaine."
+  },
+  {
+    "q": "A patient develops cyanosis after local anesthetic administration and is treated with methylene blue. Which drug was likely given?",
+    "options": [
+      "Lidocaine",
+      "Procaine",
+      "Prilocaine",
+      "Bupivacaine"
+    ],
+    "answerIndex": 2,
+    "explanation": "The scenario describes methemoglobinemia, a known side effect of prilocaine.\n\nPrilocaine is metabolized to o-toluidine, which converts hemoglobin to methemoglobin.\n\nTreatment is intravenous methylene blue.",
+    "expImage": "assets/images/anes_local_specific/q17_eximage.jpg"
+  },
+  {
+    "q": "A patient undergoing a dental extraction develops breathing difficulty, swelling of lips, and a diffuse rash following local anesthetic administration. Which of the following agents is commonly implicated?",
+    "options": [
+      "Lidocaine",
+      "Procaine",
+      "Prilocaine",
+      "Bupivacaine"
+    ],
+    "answerIndex": 1,
+    "explanation": "The clinical scenario depicts an allergic reaction to a local anesthetic agent.\n\nAllergic reactions are classically more common with **ester local anesthetics** due to their metabolism to **para-aminobenzoic acid (PABA)** derivatives. Hence, **procaine (an amino-ester)** is the commonly implicated agent.\n\nAmide local anesthetics (lidocaine, prilocaine, bupivacaine) are much less commonly associated with true allergy."
+  },
+  {
+    "q": "A patient with HIV is on cotrimoxazole prophylaxis. He presents with a laceration that requires suturing under local anesthesia. Which of the following local anesthetic agents would not be preferred in this case?",
+    "options": [
+      "Prilocaine",
+      "Procaine",
+      "Lidocaine",
+      "Bupivacaine"
+    ],
+    "answerIndex": 1,
+    "explanation": "The patient is on **cotrimoxazole** (sulfonamide: sulfamethoxazole + trimethoprim).\n\n**Procaine** is an ester local anesthetic that is hydrolyzed in vivo to form **para-aminobenzoic acid (PABA)**. PABA can **antagonize/ interfere with sulfonamide action**, so **procaine is not preferred** in patients receiving sulfonamides.\n\nAmide local anesthetics (prilocaine, lidocaine, bupivacaine) do not form PABA and do not interact this way."
+  },
+  {
+    "q": "Which of the following is not a vasodilator?",
+    "options": [
+      "Procaine",
+      "Lidocaine",
+      "Cocaine",
+      "Chloroprocaine"
+    ],
+    "answerIndex": 2,
+    "explanation": "Most local anesthetics are **vasodilators**.\n\n**Cocaine** is the exception: it produces **vasoconstriction** because it inhibits **norepinephrine reuptake** at sympathetic nerve endings.\n\nTherefore, cocaine is **not** a vasodilator."
+  },
+  {
+    "q": "A middle-aged man is brought to the ER screaming about bugs crawling on his body (none are seen). A white powder is found in his pocket and identified as a drug. Which statement is not true about this drug?",
+    "options": [
+      "Produces miosis",
+      "Strong vasoconstrictor",
+      "Has abuse potential",
+      "Metabolised mainly in liver"
+    ],
+    "answerIndex": 0,
+    "explanation": "The presentation suggests **cocaine intoxication** with tactile hallucinations (“cocaine bugs”), also referred to as **Magnan syndrome**.\n\nCocaine causes:\n• **Mydriasis** (not miosis)\n• **Strong vasoconstriction** (via norepinephrine reuptake inhibition)\n• **Abuse potential** (euphoria due to catecholamine reuptake inhibition, especially dopamine)\n• It is metabolized by **liver cholinesterases** and excreted in urine.\n\nHence, the statement that is **not true** is: **Produces miosis**.",
+    "expImage": "assets/images/anes_local_specific/q17_eximage.jpg"
+  },
+  {
+    "q": "Which of the following drugs is an aminoester local anesthetic?",
+    "options": [
+      "Procaine",
+      "Prilocaine",
+      "Lidocaine",
+      "Bupivacaine"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Procaine** is an **amino-ester** local anesthetic.\n\nPrilocaine, lidocaine, and bupivacaine are **amino-amides**."
+  },
+  {
+    "q": "All of the following local anesthetics are metabolized by plasma esterase except ________.",
+    "options": [
+      "Procaine",
+      "Lidocaine",
+      "Articaine",
+      "Tetracaine"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Lidocaine** is an **amide** local anesthetic and is metabolized predominantly by **microsomal cytochrome P-450 enzymes in the liver**.\n\n**Procaine** and **tetracaine** are **esters**, which are metabolized by **plasma esterases**.\n\n**Articaine** is unique: although classified as an amide, it has an **ester linkage** and is largely metabolized by **plasma esterases**.\n\nTherefore, the exception is **lidocaine**."
+  },
+  {
+    "q": "The least potent local anesthetic is ________.",
+    "options": [
+      "Bupivacaine",
+      "Chloroprocaine",
+      "Procaine",
+      "Prilocaine"
+    ],
+    "answerIndex": 2,
+    "explanation": "The least potent local anesthetic among the given options is **procaine**.\n\nPotency of local anesthetics correlates with **lipid solubility (hydrophobicity)**. More lipid-soluble agents are more potent and often longer acting.\n\nProcaine is relatively less lipid soluble, hence least potent."
+  },
+  {
+    "q": "The maximum systemic absorption of a local anesthetic is seen with ________.",
+    "options": [
+      "Tracheal injection",
+      "Intercostal nerve block",
+      "Brachial plexus block",
+      "Epidural block"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maximum systemic absorption of local anesthetics occurs at sites with the **highest vascularity**.\n\nAmong the given options, **intercostal nerve block** has the highest rate/degree of absorption, therefore it carries a higher risk of systemic toxicity.\n\n(Absorption depends mainly on local blood flow and vascularity at the injection site.)"
+  },
+  {
+    "q": "The concentration of bupivacaine used for intravenous regional anesthesia is ______.",
+    "options": [
+      "0.1%",
+      "0.25%",
+      "0.5%",
+      "None of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Bupivacaine is not used for IVRA (Bier's block)** because it is highly **cardiotoxic**.\n\nAccidental or early tourniquet deflation can cause sudden systemic release of bupivacaine leading to severe toxicity (arrhythmias/collapse).\n\nHence, the correct answer is **None of the above**."
+  },
+  {
+    "q": "Which of the following statements regarding ropivacaine is incorrect?",
+    "options": [
+      "R (+) enantiomer of bupivacaine",
+      "Higher safety profile than bupivacaine",
+      "More motor sparing than bupivacaine",
+      "Used in both spinal and epidural anesthesia"
+    ],
+    "answerIndex": 0,
+    "explanation": "The incorrect statement is: **“R (+) enantiomer of bupivacaine.”**\n\n**Ropivacaine is the S(-) enantiomer** (related to bupivacaine family), and it has:\n• **Higher safety profile** and **less cardiotoxicity** than bupivacaine\n• **Less motor block** (more motor sparing)\n• Use in regional anesthesia including epidural and can be used in neuraxial techniques as per practice.\n\nTherefore, option A is incorrect."
+  },
+  {
+    "q": "O-toluidine is a metabolic by-product of ________.",
+    "options": [
+      "Procaine",
+      "Lidocaine",
+      "Bupivacaine",
+      "Prilocaine"
+    ],
+    "answerIndex": 3,
+    "explanation": "**O-toluidine** is a metabolic by-product of **prilocaine**.\n\nPrilocaine metabolism can produce o-toluidine, which can oxidize hemoglobin and cause **methemoglobinemia** in a dose-dependent manner."
+  }
+]

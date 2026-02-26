@@ -1,0 +1,177 @@
+[
+  {
+    "q": "In a patient who is scheduled for a laparoscopic cholecystectomy, which of the following cannot be used for perioperative respiratory monitoring?",
+    "options": [
+      "Capnography",
+      "Pulse oximetry",
+      "Radial artery cannulation",
+      "Impedance pneumography"
+    ],
+    "answerIndex": 2,
+    "explanation": "Radial artery cannulation is an invasive method of blood pressure monitoring and cannot be used for perioperative respiratory monitoring.\n\nRespiratory monitoring involves the use of:\n• Capnography\n• Pulse oximeter\n• Anaesthetic gas analysis (oxygen analysis, piezo electric analysis)\n• Spirometry\n• Impedance pneumography is a method of monitoring apnea"
+  },
+  {
+    "q": "Which of the following is measured by the device shown in the given image?",
+    "options": [
+      "Oxygen saturation",
+      "Oxygen content of the blood",
+      "Partial pressure of oxygen",
+      "Amount of inspired oxygen"
+    ],
+    "answerIndex": 0,
+    "qImage": "assets/images/anes_respiratory_monitoring/q2_image.jpg",
+    "explanation": "The given image depicts a pulse oximeter. Pulse oximetry is used for monitoring pulse rate and oxygen saturation of a patient.\n\nA small sensor is placed on the finger, toe, earlobe, or another convenient place. The relative absorption of light by oxyhemoglobin (HbO2) and deoxyhemoglobin is assessed by measuring the amount of red and infrared light emerging from tissues traversed by light rays and processed by the device, producing an oxygen saturation level.\n\nPulse oximetry does not measure the absolute content or the partial pressures of oxygen or carbon dioxide.\n\nA pulse oximeter is not always reliable as it reads:\n• Falsely high – carboxyhemoglobinemia\n• Falsely low – severe anemia, low cardiac output states, hypovolemia, increased systemic vascular resistance\n• 80% to 85%, irrespective of the arterial oxygen saturation – methemoglobinemia"
+  },
+  {
+    "q": "While examining a patient you record low oxygen saturation on pulse oximetry. Which of the following conditions would you not suspect?",
+    "options": [
+      "Severe anemia",
+      "Carbon monoxide poisoning",
+      "Increased systemic vascular resistance",
+      "Shock"
+    ],
+    "answerIndex": 1,
+    "explanation": "Carbon monoxide poisoning is associated with a falsely high O2 saturation and least likely to show low oxygen saturation values.\n\nOxyhemoglobin absorbs more infrared light (940 nm).\nDeoxyhemoglobin absorbs more red light (660 nm).\nCarboxyhemoglobin and HbO2 absorption spectrum is similar.\n\nThus in patients with carbon monoxide poisoning, a falsely high SpO2 of around 95% is seen irrespective of the actual SpO2 value.\n\nSevere anemia, low cardiac output states, hypovolemia, and increased systemic vascular resistance are associated with falsely low oxygen saturation values."
+  },
+  {
+    "q": "Which among the following is the best device to detect abnormal hemoglobins?",
+    "options": [
+      "Pulse oximeter",
+      "CO-oximeter",
+      "Capnograph",
+      "Spirometer"
+    ],
+    "answerIndex": 1,
+    "explanation": "CO-oximeter is the best device to detect abnormal hemoglobins.\n\nCO-oximeter utilizes an eight wavelength sensor unlike pulse oximeter which uses two wavelengths to distinguish between oxygenated blood, deoxygenated blood and blood containing CO.\n\nCO-oximeter is useful in measuring:\n• Carboxyhemoglobin\n• Methemoglobin"
+  },
+  {
+    "q": "A patient sustained an epidural bleed in a car accident and is brought to the ER. On examination, he has a GCS of 8 and requires immediate intubation. What would be the surest sign of correct placement of the ET tube?",
+    "options": [
+      "Pulse oximeter",
+      "Capnography",
+      "Auscultation of chest and epigastrium",
+      "Chest radiography"
+    ],
+    "answerIndex": 1,
+    "explanation": "End-tidal CO2 measured by capnography is the surest sign of tracheal intubation.\n\nIt also assesses the adequacy of ventilation in the perioperative period. It can rule out esophageal intubation where initially carbon dioxide may be detected due to swallowed air but later on ceases.\n\nIt cannot reliably rule out endobronchial intubation, which is indicated by a sudden rise in peak inspiratory pressure.\n\nPhysical examination methods such as auscultation of chest and epigastrium, visualization of thoracic movement, and fogging in the tube are not sufficiently reliable.\n\nPulse oximetry and chest radiography are not reliable as sole techniques."
+  },
+  {
+    "q": "In an intubated patient, which of the following is ideal for monitoring apnea?",
+    "options": [
+      "CO-oximetry",
+      "Pulse oximetry",
+      "Capnography",
+      "Impedance pulmonometry"
+    ],
+    "answerIndex": 2,
+    "explanation": "Capnography is ideal for monitoring apnea in an intubated patient.\n\nImpedance pulmonometry is most commonly used for apnea monitoring in a non-intubated patient and is also used in home monitoring of neonatal apnea.\n\nPulse oximetry and CO-oximetry are used to assess oxygenation."
+  },
+  {
+    "q": "In a patient being operated on, which of the following values is monitored using capnography?",
+    "options": [
+      "Amount of inspired oxygen",
+      "Amount of expired oxygen",
+      "Arterial carbon dioxide level",
+      "Amount of expired carbon dioxide"
+    ],
+    "answerIndex": 3,
+    "explanation": "Capnography is used to measure the amount of expired carbon dioxide (end-tidal CO2).\n\nArterial carbon dioxide level (PaCO2) is accurately measured using arterial blood gas analysis.\n\nThe gradient between PaCO2 and EtCO2 (normally 2–5 mm Hg) reflects alveolar dead space.\n\nAny significant reduction in lung perfusion increases this gradient. Hence option D is the best answer."
+  },
+  {
+    "q": "You are observing the ET CO2 monitor of the patient in the OT. Your attending asks you what the plateau phase in the waveform represents. What should be your answer?",
+    "options": [
+      "Air in trachea",
+      "Air in bronchi",
+      "Transition gases between airways and alveoli",
+      "Alveolar air"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_respiratory_monitoring/q8_eximage.jpg",
+    "explanation": "In a capnographic waveform, the plateau phase corresponds to alveolar air.\n\nPhase I: Inspiratory baseline – CO2-free gas from the airways.\nPhase II: Expiratory upstroke – mixing of dead space gas with alveolar gas.\nPhase III: Alveolar plateau – CO2-rich gas from alveoli.\nPhase 0: Inspiratory downstroke.\n\nAlpha angle assesses V/Q mismatch.\nBeta angle assesses rebreathing."
+  },
+  {
+    "q": "When a patient is being operated on, which of the following can lead to a decrease in end-tidal CO2 (ETCO2)?",
+    "options": [
+      "Thyrotoxicosis",
+      "Fever",
+      "High spinal anesthesia",
+      "Cardiac arrest"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_respiratory_monitoring/q9_table.jpg",
+    "explanation": "Fall in ETCO2 is seen in cardiac arrest due to decreased blood flow to the lungs.\n\nIncrease in ETCO2 is seen in thyrotoxicosis, fever and high spinal anesthesia."
+  },
+  {
+    "q": "A patient who is under general anesthesia shows the following finding on the ET CO2 monitor. Which condition can lead to this characteristic waveform on capnography?",
+    "options": [
+      "Malignant hyperthermia",
+      "Bronchospasm",
+      "Rebreathing",
+      "Accidental extubation"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_respiratory_monitoring/q10_image.jpg",
+    "explanation": "The capnographic waveform depicts bronchospasm.\n\nShark-fin appearance with prolonged phase II, increased alpha angle and steeper phase III suggests bronchospasm or airway obstruction."
+  },
+  {
+    "q": "In which of the following conditions does this capnographic waveform appear?",
+    "options": [
+      "Malignant hyperthermia",
+      "Bronchospasm",
+      "Rebreathing",
+      "Accidental extubation"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_respiratory_monitoring/q11_image.jpg",
+    "explanation": "The waveform shows an elevated inspiratory baseline, which depicts rebreathing.\n\nRebreathing of CO2 may occur due to exhausted soda lime or incompetent expiratory valve in closed-circuit breathing systems."
+  },
+  {
+    "q": "In which of the following conditions does this capnographic waveform appear?",
+    "options": [
+      "Malignant hyperthermia",
+      "Esophageal intubation",
+      "Rebreathing",
+      "Tracheal intubation"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_respiratory_monitoring/q12_image.jpg",
+    "explanation": "The waveform shows initial detection of CO2 followed by absence, which is typical of esophageal intubation.\n\nSwallowed air in the stomach causes initial CO2 detection which soon washes out.\n\nMalignant hyperthermia shows progressive rise in ETCO2.\nRebreathing shows elevated inspiratory baseline.\nTracheal intubation shows normal capnograph."
+  },
+  {
+    "q": "A patient with masseter spasm after succinylcholine administration shows the following pattern on capnography. What is the most likely condition causing this waveform?",
+    "options": [
+      "Malignant hyperthermia",
+      "Rebreathing",
+      "Tracheal intubation",
+      "Esophageal intubation"
+    ],
+    "answerIndex": 0,
+    "qImage": "assets/images/anes_respiratory_monitoring/q13_image.jpg",
+    "explanation": "Sudden and progressive rise in ETCO2 is one of the earliest and most sensitive indicators of malignant hyperthermia."
+  },
+  {
+    "q": "The following capnographic waveform is most likely seen in which of the following conditions?",
+    "options": [
+      "Tracheal intubation",
+      "Malignant hyperthermia",
+      "Rebreathing",
+      "Esophageal intubation"
+    ],
+    "answerIndex": 0,
+    "qImage": "assets/images/anes_respiratory_monitoring/q14_image.jpg",
+    "explanation": "The waveform shown is that of normal capnography seen during controlled mechanical ventilation in tracheal intubation."
+  },
+  {
+    "q": "A capnograph obtained from an intubated patient undergoing controlled ventilation is given below. Which of the following is a likely cause of the finding seen?",
+    "options": [
+      "Esophageal intubation",
+      "Inspiration with cardiac oscillations",
+      "Bronchospasm",
+      "Spontaneous respiratory effort"
+    ],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_respiratory_monitoring/q15_image.jpg",
+    "expImage": "assets/images/anes_respiratory_monitoring/q15_eximage.jpg",
+    "explanation": "The curare notch in the plateau phase of the capnograph indicates spontaneous breathing effort.\n\nThe patient’s inspiratory effort causes fresh gas to be sucked into the capnometer, resulting in a lower carbon dioxide concentration and a notch.\n\nThis is also known as curare notch or cleft."
+  }
+]

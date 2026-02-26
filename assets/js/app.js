@@ -1,44 +1,110 @@
+/* =========================================================
+   Helpers
+========================================================= */
 function qs(name) {
   return new URLSearchParams(window.location.search).get(name);
 }
 
 async function fetchJson(path) {
   const res = await fetch(path);
-  if (!res.ok) throw new Error(`Failed to load ${path}`);
-  return res.json();
+  const text = await res.text();
+
+  // If server returned HTML (404 page, etc.)
+  const preview = text.slice(0, 100).toLowerCase();
+  if (!res.ok || preview.startsWith("<!doctype") || preview.startsWith("<html")) {
+    throw new Error(`Expected JSON but got HTML for ${path}`);
+  }
+
+  // Remove UTF-8 BOM if present
+  const cleaned = text.replace(/^\uFEFF/, "").trim();
+
+  try {
+    return JSON.parse(cleaned);
+  } catch (err) {
+    throw new Error(
+      `Invalid JSON in ${path}. File must start with [ and contain valid JSON only.`
+    );
+  }
 }
 
 function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, (c) => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
   }[c]));
 }
 
 /* =========================================================
-   SUBJECTS PAGE: Subject -> Topic list (from data/index.json)
+   Image renderers
+========================================================= */
+function renderQuestionImages(item) {
+  if (Array.isArray(item.qImages)) {
+    return `
+      <div class="question-image">
+        ${item.qImages.map(src => `<img src="${src}" alt="">`).join("")}
+      </div>`;
+  }
+  if (item.qImage) {
+    return `
+      <div class="question-image">
+        <img src="${item.qImage}" alt="">
+      </div>`;
+  }
+  return "";
+}
+
+function renderExplanationImages(item) {
+  if (Array.isArray(item.expImages)) {
+    return `
+      <div class="question-image">
+        ${item.expImages.map(src => `<img src="${src}" alt="">`).join("")}
+      </div>`;
+  }
+  if (item.expImage) {
+    return `
+      <div class="question-image">
+        <img src="${item.expImage}" alt="">
+      </div>`;
+  }
+  return "";
+}
+
+function renderExplanationText(text) {
+  return text
+    .split("\n\n")
+    .map(p => `<p class="muted">${escapeHtml(p)}</p>`)
+    .join("");
+}
+
+/* =========================================================
+   SUBJECTS PAGE
 ========================================================= */
 async function initSubjectsPage() {
   const box = document.getElementById("subjectsList");
   if (!box) return;
 
+  box.innerHTML = `<p class="muted">Loading...</p>`;
   const data = await fetchJson("data/index.json");
-  box.innerHTML = "";
 
+  box.innerHTML = "";
   data.subjects.forEach(sub => {
     const card = document.createElement("section");
     card.className = "mcq-card";
 
-    const title = document.createElement("h2");
-    title.textContent = sub.name;
-    card.appendChild(title);
-
+    card.innerHTML = `<h2>${sub.name}</h2>`;
     const list = document.createElement("div");
     list.className = "topic-list";
 
     sub.topics.forEach(tp => {
       const a = document.createElement("a");
       a.className = "topic-link";
-      a.href = `practice.html?file=${encodeURIComponent(tp.file)}&subject=${encodeURIComponent(sub.name)}&chapter=${encodeURIComponent(tp.name)}`;
+      a.href =
+        `practice.html?file=${encodeURIComponent(tp.file)}` +
+        `&subject=${encodeURIComponent(sub.name)}` +
+        `&chapter=${encodeURIComponent(tp.name)}`;
       a.textContent = tp.name;
       list.appendChild(a);
     });
@@ -49,221 +115,141 @@ async function initSubjectsPage() {
 }
 
 /* =========================================================
-   PRACTICE PAGE: One question per page + Review after submit
+   PRACTICE PAGE
 ========================================================= */
 let MCQS = [];
 let CURRENT = 0;
-let ANSWERS = {};         // { index: selectedOptionIndex }
-let REVIEW_MODE = false;  // false=test, true=review after submit
-let RESULT = null;        // {score, attempted, total}
+let ANSWERS = {};
+let RESULT = null;
+let SHOW_SCORE_BOX = false;
 
 function computeResult() {
   let score = 0;
   let attempted = 0;
 
-  MCQS.forEach((item, i) => {
-    if (ANSWERS[i] !== undefined) attempted += 1;
-    if (ANSWERS[i] === item.answerIndex) score += 1;
+  MCQS.forEach((q, i) => {
+    if (ANSWERS[i] !== undefined) attempted++;
+    if (ANSWERS[i] === q.answerIndex) score++;
   });
 
   return { score, attempted, total: MCQS.length };
 }
 
-function renderSummary(root) {
-  if (!REVIEW_MODE || !RESULT) return;
+function renderScoreBox(root) {
+  if (!SHOW_SCORE_BOX || !RESULT) return;
 
-  const box = document.createElement("div");
-  box.className = "result-box";
-  box.innerHTML = `
-    <h2>Result</h2>
-    <p><strong>Score:</strong> ${RESULT.score} / ${RESULT.total}</p>
-    <p><strong>Attempted:</strong> ${RESULT.attempted} / ${RESULT.total}</p>
-    <p class="muted">Review mode: use Next/Previous to review each question.</p>
-  `;
-  root.appendChild(box);
-}
-
-function renderProgress(root) {
-  const total = MCQS.length;
-  const prog = document.createElement("div");
-  prog.className = "result-box";
-  prog.innerHTML = `<p><strong>Question:</strong> ${CURRENT + 1} / ${total}</p>`;
-  root.appendChild(prog);
+  root.insertAdjacentHTML("beforeend", `
+    <div class="result-box">
+      <h2>Result</h2>
+      <p><strong>Score:</strong> ${RESULT.score} / ${RESULT.total}</p>
+      <p><strong>Attempted:</strong> ${RESULT.attempted} / ${RESULT.total}</p>
+    </div>
+  `);
 }
 
 function renderFeedback(root) {
-  // Show feedback only in review mode (after submit)
-  if (!REVIEW_MODE) return;
-
   const item = MCQS[CURRENT];
-  const selected = (ANSWERS[CURRENT] === undefined) ? null : ANSWERS[CURRENT];
+  const selected = ANSWERS[CURRENT];
+  if (selected === undefined) return;
+
   const correct = item.answerIndex;
   const isCorrect = selected === correct;
 
-  const yourText = selected === null ? "Not attempted" : item.options[selected];
-  const correctText = item.options[correct];
-
-  const fb = document.createElement("div");
-  fb.className = "feedback";
-  fb.classList.toggle("ok", isCorrect);
-  fb.classList.toggle("bad", !isCorrect);
-
-  fb.innerHTML =
-    `<p><strong>${isCorrect ? "✅ Correct" : "❌ Incorrect"}</strong></p>` +
-    `<p><strong>Your answer:</strong> ${escapeHtml(yourText)}</p>` +
-    `<p><strong>Correct answer:</strong> ${escapeHtml(correctText)}</p>` +
-    (item.explanation
-      ? `<p class="muted"><strong>Explanation:</strong> ${escapeHtml(item.explanation)}</p>`
-      : `<p class="muted"><strong>Explanation:</strong> (Add later)</p>`);
-
-  root.appendChild(fb);
+  root.insertAdjacentHTML("beforeend", `
+    <div class="feedback ${isCorrect ? "ok" : "bad"}">
+      <p><strong>${isCorrect ? "✅ Correct" : "❌ Incorrect"}</strong></p>
+      <p><strong>Your answer:</strong> ${escapeHtml(item.options[selected])}</p>
+      <p><strong>Correct answer:</strong> ${escapeHtml(item.options[correct])}</p>
+      <div class="explanation">
+        <strong>Explanation:</strong>
+        ${renderExplanationText(item.explanation || "")}
+      </div>
+      ${renderExplanationImages(item)}
+    </div>
+  `);
 }
 
 function renderSingleQuestion() {
   const root = document.getElementById("mcqList");
   root.innerHTML = "";
 
-  // If in review mode, show result summary at the top
-  renderSummary(root);
-
-  // Always show question progress
-  renderProgress(root);
+  renderScoreBox(root);
 
   const item = MCQS[CURRENT];
-
-  // Question card
   const card = document.createElement("section");
   card.className = "mcq-card";
 
-  const q = document.createElement("p");
-  q.className = "mcq-q";
-  q.innerHTML = `<strong>Q${CURRENT + 1}.</strong> ${escapeHtml(item.q)}`;
-  card.appendChild(q);
+  card.innerHTML = `
+    <p class="mcq-q"><strong>Q${CURRENT + 1}.</strong> ${escapeHtml(item.q)}</p>
+    ${renderQuestionImages(item)}
+  `;
 
-  // Options
   const optionsWrap = document.createElement("div");
   optionsWrap.className = "options-wrap";
 
-  const groupName = `q_${CURRENT}`;
+  item.options.forEach((opt, i) => {
+    optionsWrap.insertAdjacentHTML("beforeend", `
+      <label class="opt">
+        <input type="radio" name="q_${CURRENT}" ${ANSWERS[CURRENT] === i ? "checked" : ""}>
+        <span>${escapeHtml(opt)}</span>
+      </label>
+    `);
+  });
 
-  item.options.forEach((opt, optIdx) => {
-    const label = document.createElement("label");
-    label.className = "opt";
-
-    const input = document.createElement("input");
-    input.type = "radio";
-    input.name = groupName;
-    input.value = String(optIdx);
-
-    // restore selection
-    if (ANSWERS[CURRENT] === optIdx) input.checked = true;
-
-    // In review mode: lock selection
-    if (REVIEW_MODE) input.disabled = true;
-
-    input.addEventListener("change", () => {
-      if (!REVIEW_MODE) {
-        ANSWERS[CURRENT] = optIdx;
-      }
+  optionsWrap.querySelectorAll("input").forEach((inp, idx) => {
+    inp.addEventListener("change", () => {
+      ANSWERS[CURRENT] = idx;
+      renderSingleQuestion();
     });
-
-    const span = document.createElement("span");
-    span.textContent = opt;
-
-    label.appendChild(input);
-    label.appendChild(span);
-    optionsWrap.appendChild(label);
   });
 
   card.appendChild(optionsWrap);
   root.appendChild(card);
 
-  // Feedback under the SAME question page in review mode
   renderFeedback(root);
 
-  // Navigation
-  const total = MCQS.length;
   const nav = document.createElement("div");
   nav.className = "nav-row";
 
-  const prevBtn = document.createElement("button");
-  prevBtn.className = "btn";
-  prevBtn.textContent = "Previous";
-  prevBtn.disabled = (CURRENT === 0);
+  nav.innerHTML = `
+    <button class="btn" ${CURRENT === 0 ? "disabled" : ""}>Previous</button>
+    <button class="btn btn-primary">${CURRENT === MCQS.length - 1 ? "Submit Test" : "Next"}</button>
+  `;
 
-  const nextBtn = document.createElement("button");
-  nextBtn.className = "btn btn-primary";
+  const [prevBtn, nextBtn] = nav.querySelectorAll("button");
 
-  // Button label logic
-  if (!REVIEW_MODE) {
-    nextBtn.textContent = (CURRENT === total - 1) ? "Submit Test" : "Next";
-  } else {
-    nextBtn.textContent = (CURRENT === total - 1) ? "Back to Subjects" : "Next";
-  }
-
-  prevBtn.addEventListener("click", () => {
+  prevBtn.onclick = () => {
     if (CURRENT > 0) {
-      CURRENT -= 1;
+      CURRENT--;
       renderSingleQuestion();
     }
-  });
+  };
 
-  nextBtn.addEventListener("click", () => {
-    if (!REVIEW_MODE) {
-      // TEST MODE
-      if (CURRENT === total - 1) {
-        // Submit -> switch to review mode
-        REVIEW_MODE = true;
-        RESULT = computeResult();
-        CURRENT = 0; // start review from Q1
-        renderSingleQuestion();
-      } else {
-        CURRENT += 1;
-        renderSingleQuestion();
-      }
+  nextBtn.onclick = () => {
+    if (CURRENT === MCQS.length - 1) {
+      RESULT = computeResult();
+      SHOW_SCORE_BOX = true;
+      renderSingleQuestion();
     } else {
-      // REVIEW MODE
-      if (CURRENT === total - 1) {
-        window.location.href = "subjects.html";
-      } else {
-        CURRENT += 1;
-        renderSingleQuestion();
-      }
+      CURRENT++;
+      renderSingleQuestion();
     }
-  });
+  };
 
-  nav.appendChild(prevBtn);
-  nav.appendChild(nextBtn);
   root.appendChild(nav);
-
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 async function initPracticePage() {
   const file = qs("file");
-  const subject = qs("subject") || "Subject";
-  const chapter = qs("chapter") || "Topic";
-
-  document.getElementById("pageTitle").textContent = chapter;
-  document.getElementById("pageMeta").textContent = subject;
-
-  const crumbs = document.getElementById("crumbs");
-  crumbs.innerHTML =
-    `<a href="index.html">Home</a> / ` +
-    `<a href="subjects.html">Subjects</a> / ` +
-    `<span>${escapeHtml(subject)}</span> / ` +
-    `<span>${escapeHtml(chapter)}</span>`;
-
-  if (!file) {
-    document.getElementById("mcqList").innerHTML = `<p class="muted">No topic file provided.</p>`;
-    return;
-  }
+  if (!file) return;
 
   MCQS = await fetchJson(file);
+
   CURRENT = 0;
   ANSWERS = {};
-  REVIEW_MODE = false;
   RESULT = null;
+  SHOW_SCORE_BOX = false;
 
   renderSingleQuestion();
 }
@@ -273,16 +259,14 @@ async function initPracticePage() {
 ========================================================= */
 document.addEventListener("DOMContentLoaded", () => {
   if (document.getElementById("subjectsList")) {
-    initSubjectsPage().catch(err => {
-      document.getElementById("subjectsList").innerHTML =
-        `<p class="muted">Error: ${escapeHtml(err.message)}</p>`;
+    initSubjectsPage().catch(e => {
+      document.getElementById("subjectsList").innerText = e.message;
     });
   }
 
   if (document.getElementById("mcqList")) {
-    initPracticePage().catch(err => {
-      document.getElementById("mcqList").innerHTML =
-        `<p class="muted">Error: ${escapeHtml(err.message)}</p>`;
+    initPracticePage().catch(e => {
+      document.getElementById("mcqList").innerText = e.message;
     });
   }
 });

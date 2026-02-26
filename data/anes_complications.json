@@ -1,0 +1,178 @@
+[
+  {
+    "q": "Which of the following drugs would you avoid in a patient with a high risk of postoperative nausea and vomiting?",
+    "options": ["Dexamethasone", "Propofol", "Nitrous oxide", "Ondansetron"],
+    "answerIndex": 2,
+    "explanation": "Nitrous oxide is associated with postoperative nausea and vomiting (PONV). Hence it is avoided in patients at high risk of PONV.\n\nPONV has an incidence of 20–30% in general surgical population and 70–80% in those with predisposing risk factors.\n\nRisk factors for PONV:\n• Patient-specific: Female gender, non-smoking status, history of motion sickness/PONV\n• Anaesthetic-specific: Nitrous oxide, volatile anesthetics, opioids\n• Surgery-specific: Increased duration of surgery, type of surgery\n\nDrugs used in the prophylaxis and treatment of PONV:\n• 5-HT3 antagonists: ondansetron, palonosetron\n• Butyrophenones: droperidol\n• Dexamethasone\n• Transdermal scopolamine\n\nNote: Propofol has antiemetic property and thus reduces the risk of PONV."
+  },
+  {
+    "q": "Which of the following should you suspect as the most common anaphylactic agent during anesthesia?",
+    "options": ["Antibiotics", "Propofol", "Latex", "Rocuronium"],
+    "answerIndex": 0,
+    "explanation": "Antibiotics are the most common anaphylactic agents during anesthesia.\n\nThe most common agents precipitating anaphylactic reactions are antibiotics and neuromuscular blocking agents. Penicillins and cephalosporins are the most common causes of anaphylaxis among antibiotics."
+  },
+  {
+    "q": "The use of which of the following drugs is unlikely to trigger an anaphylaxis reaction in a patient?",
+    "options": ["Rocuronium", "Procaine", "Furosemide", "Fentanyl"],
+    "answerIndex": 3,
+    "explanation": "The use of fentanyl is unlikely to cause an anaphylactic reaction. True allergic reactions to opioids like fentanyl are very rare.\n\nThe most common cause of anaphylactic reactions during anesthesia is antibiotics (especially penicillin and cephalosporin), followed by neuromuscular blockers (e.g., rocuronium).\n\nAmino ester local anesthetics (procaine) exhibit allergic reactions due to the metabolite PABA.\n\nSulfa drugs like sulfonamide antibiotics, furosemide, hydrochlorothiazide, and captopril can also exhibit allergy in surgical patients."
+  },
+  {
+    "q": "A 67-year-old patient underwent a CABG procedure. He started shivering within 15 minutes of shifting him to the post-operative ward. His temperature was 35.5-degrees Celsius. Which of the following agents can be used to treat this patient?",
+    "options": ["2, 3 and 5", "2 only", "1, 4 and 5", "1, 2, 4 and 5"],
+    "answerIndex": 1,
+    "explanation": "The clinical features are suggestive of postoperative hypothermia and shivering in this patient.\n\nPostoperative hypothermia is defined as core temperature <36°C. Postoperative shivering is usually, but not always, associated with hypothermia. The primary cause of postoperative shivering is perioperative hypothermia.\n\nThe most efficient way to reduce post-anaesthetic shivering is to prevent hypothermia by avoiding cold epidural and intravenous fluids.\n\nTreatment:\n• Meperidine is the most effective treatment for post-anaesthetic hypothermia and shivering.\n\nOther agents shown to be effective in abolishing shivering:\n• Opioids (Tramadol), ondansetron, clonidine, physostigmine, ketamine\n• Intraoperative infusion of dexmedetomidine has been shown to be an effective prophylactic."
+  },
+  {
+    "q": "The most common preventable cause of anesthetic mishaps is:",
+    "options": ["Faulty laryngoscope", "Ventilator dysfunction", "Anesthetic machine malfunction", "Human errors"],
+    "answerIndex": 3,
+    "explanation": "The most common preventable cause of anesthetic mishaps is human error.\n\nCommon human errors include:\n• Unrecognized breathing circuit disconnection\n• Mistaken drug administration\n• Airway mismanagement\n• Anesthesia machine misuse\n• Fluid mismanagement\n• Intravenous line disconnection\n\nEquipment malfunctions that can cause preventable anesthetic accidents are:\n• Breathing circuit malfunction\n• Monitoring device malfunction\n• Ventilator dysfunction\n• Anesthesia machine malfunction\n• Faulty laryngoscope\n\nUnpreventable mishaps include sudden death syndrome and fatal idiosyncratic drug reactions."
+  },
+  {
+    "q": "During the pre-op counselling of a patient set to undergo a day care procedure, which of the following would you mention as the most common adverse effect following daycare anaesthesia?",
+    "options": ["Myalgia", "Drowsiness", "Sore throat", "Headache"],
+    "answerIndex": 1,
+    "explanation": "The most common adverse effect persisting following day-care anaesthesia is drowsiness.\n\nAdverse effects after day-care anesthesia:\n• Drowsiness (most common)\n• Sore throat\n• Myalgia\n• Headache\n• Dizziness\n• Nausea and vomiting\n\nCardiovascular adverse effects:\n• Hypotension"
+  },
+  {
+    "q": "Which of the following is not a risk factor for postoperative pulmonary complications?",
+    "options": ["BMI > 30", "Well controlled asthma", "Upper abdominal surgery", "Age > 70 years"],
+    "answerIndex": 1,
+    "explanation": "Well-controlled asthma is not a risk factor for postoperative pulmonary complications.\n\nRisk factors for postoperative pulmonary complications:\n• Age >70 years\n• COPD (uncontrolled)\n• Neck, upper abdominal, aortic, urologic surgical procedures\n• Prolonged procedure >2 hours\n• General anesthesia with intubation\n• BMI >30\n• Albumin concentration <35 g/L\n• Inability to walk two blocks on level land or one flight of stairs"
+  },
+  {
+    "q": "Which of the following is the most common cause of perioperative vision loss?",
+    "options": ["Globe perforation", "Angle closure glaucoma", "Retinal emboli", "Ischemic optic neuropathy"],
+    "answerIndex": 3,
+    "explanation": "Ischemic optic neuropathy is the most common cause of perioperative vision loss.\n\nIt is usually seen after spine surgeries in the prone position, radical neck dissections and following cardiopulmonary bypass.\n\nSymptoms:\n• Reduced visual acuity, rarely complete blindness\n• Usually presents on awakening from anesthesia\n\nPreoperative risk factors:\n• Diabetes, hypertension\n• Smoking\n• Coronary artery disease\n\nIntraoperative risk factors:\n• Anaemia\n• Hypotension\n• Prone position\n• Prolonged duration of surgery"
+  },
+  {
+    "q": "You notice your surgery chief informing the anesthesia junior resident to place the forearm of the patient in a supinated position so as to avoid a common peripheral nerve injury. Which nerve injury is he most likely concerned about?",
+    "options": ["Radial nerve", "Ulnar nerve", "Posterior interosseous nerve", "Anterior interosseous nerve"],
+    "answerIndex": 1,
+    "explanation": "The surgeon is concerned about injury to the ulnar nerve which can be prevented by positioning the forearm in supination compared to pronation.\n\nThe ulnar nerve is the most commonly injured peripheral nerve following anesthesia.\n\nOther commonly injured nerves include:\n• Peroneal nerve\n• Brachial plexus\n• Common peroneal nerve\n• Sciatic nerves"
+  },
+  {
+    "q": "You have been posted as an army medical officer in a military base. Your battalion has suffered injuries from grenade attacks and sustained multiple burns. Which would be the fluid of choice for resuscitation in burns in the initial 24 hours?",
+    "options": ["Hypertonic saline", "Ringer lactate", "Albumin", "Dextran"],
+    "answerIndex": 1,
+    "explanation": "The fluid of choice for resuscitation in burns patients is Ringer lactate in the first 24 hours followed by albumin and 5% dextrose.\n\nThis is in contrast to blunt and penetrating trauma patients in whom colloids (albumin, hydroxyethyl starch), hypertonic saline, and blood are preferred."
+  },
+  {
+    "q": "A young adult was injured in a steam boiler explosion at his factory. He was rushed to the burns centre with multiple injuries covering 40% of his total body surface area (TBSA). He weighs around 70kg. The volume of fluids to be administered in the first 8 hours is _____.",
+    "options": ["4 L", "3 L", "7.5 L", "5.6 L"],
+    "answerIndex": 1,
+    "explanation": "The patient needs to be resuscitated with 3 L of fluid (Ringer lactate) over the first 8 hours.\n\nAccording to ATLS 10th edition (2018), the resuscitation formula used in thermal burns is 2 mL/kg × %TBSA over 24 hours.\n\nHalf the volume over the first 8 hours:\n• First 8 hours: 1 mL/kg × %TBSA\n\nFor 70 kg with TBSA 40%:\nTotal volume = 2 × 70 × 40 = 5600 mL\nFirst 8 hours = 2800 mL ≈ 3 L"
+  },
+  {
+    "q": "An adult with burns requires treatment with IV fluids if the percentage of burns exceeds",
+    "options": ["10%", "20%", "15%", "25%"],
+    "answerIndex": 1,
+    "explanation": "IV fluids are usually administered for deep partial and full-thickness burns larger than 20% TBSA in adults.\n\nAccording to ATLS 10th edition (2018), the resuscitation formula used in thermal burns is 2 mL/kg × %TBSA.\n\nFirst 8 hours: 1 mL/kg × %TBSA (lactated Ringer solution)\nNext 16 hours: 1 mL/kg × %TBSA (lactated Ringer solution)"
+  },
+  {
+    "q": "A 30-year-old sous-chef was trapped in a restaurant fire due to a gas line leak. She was rescued and brought to the casualty by EMS. On examination, 55% of her total body surface area (TBSA) was covered in full-thickness burns. What is the total volume of fluid resuscitation required in this patient according to the Parkland formula if she weighs 65kg?",
+    "options": ["22.4 Litres", "12.5 Litres", "14.3 Litres", "15.4 Litres"],
+    "answerIndex": 2,
+    "explanation": "The patient needs to be resuscitated with 14.3 Litres of fluids.\n\nParkland's formula:\n• Total volume (mL) = %TBSA × weight (kg) × 4\n\nSo, 55 × 65 × 4 = 14.3 Litres to be administered in the next 24 hours.\n\nHalf of the calculated volume should be administered in the first 8 hours and the remainder over the following 16 hours.\n\nRecent update:\nAccording to ATLS 10th edition (2018), the resuscitation formula used in thermal burns is 2 mL/kg × %TBSA.\nFirst 8 hours: 1 mL/kg × %TBSA (lactated Ringer solution)\nNext 16 hours: 1 mL/kg × %TBSA (lactated Ringer solution)"
+  },
+  {
+    "q": "Which of the following is not a colloid solution?",
+    "options": ["Plasmalyte", "Gelatin", "Albumin", "Hydroxyethyl starch"],
+    "answerIndex": 0,
+    "explanation": "Plasmalyte is a crystalloid solution that is iso-osmolar (osmolality 294 mosm/L) with plasma. It can be used for fluid resuscitation for patients losing blood due to trauma or intraoperative procedures.\n\nComposition of Plasmalyte:\n• Na 140 meq/L\n• Cl 98 meq/L\n• K 5 meq/L\n• Mg 3 meq/L\n• Along with acetate and gluconate\n\nThe colloids are of two types:\n• Blood-derived: human albumin and plasma protein fractions\n• Semisynthetic: dextran, gelatin, hydroxyethyl starch"
+  },
+  {
+    "q": "A 23-year-old carpenter severed two of his fingers while working with a power saw. He is brought to the casualty by his friend who had preserved the severed fingers in a small box with ice. The hand surgeon takes him up for a reconstructive procedure. Which fluid does he request the nurse to arrange for the surgery?",
+    "options": ["Dextran 40", "Dextran 70", "Hydroxyethyl starch", "Gelatin"],
+    "answerIndex": 0,
+    "explanation": "The surgeon most likely requests for Dextran 40 (colloid) which is the fluid ideally used in microvascular surgery, where its dilutional effects on blood viscosity and anticoagulant effects favour flow in the microcirculation.\n\nDextran is a highly branched polysaccharide produced by the bacterium Leuconostoc mesenteroides."
+  },
+  {
+    "q": "Which of the following solutions is hypotonic?",
+    "options": ["Normal saline", "5% dextrose", "Ringer lactate", "3% NaCl"],
+    "answerIndex": 1,
+    "expImage": "assets/images/anes_complications/q16_eximage.jpg",
+    "explanation": "5% dextrose solution is hypotonic as its osmolarity is 252 mosm/kg which is less than that of plasma (285 mosm/kg).\n\n5% dextrose (D5W solution):\n• It contains 50 g/L glucose\n• Soon after infusion, the dextrose is taken up into the cell leaving behind free water\n• Used for replacement of pure water deficits and as a maintenance fluid for patients on sodium restriction\n• The predominant effect of D5W is cellular swelling and hemolysis due to hypotonicity\n\nNormal saline:\n• 0.9% NaCl is isotonic saline but this solution is neither chemically nor physiologically normal\n• Contains 9 gram of NaCl per liter\n• Due to high chloride concentration, excessive infusion can lead to hyperchloremic metabolic acidosis\n\nRinger lactate:\n• Aka Hartmann’s solution\n• It is isotonic and the most physiological solution\n• Should not be used as a diluent fluid for transfusion of PRBCs as it can precipitate and form clots\n\nHypertonic saline:\n• 1.8%, 3% and 7.5% NaCl\n• Particularly useful in the treatment of hyponatremia, volume resuscitation, and increased ICP."
+  },
+  {
+    "q": "A 32-year-old man involved in a road traffic accident is brought to the casualty. The patient is bleeding and is hypovolemic. Which of the following blood groups can be used for an emergency transfusion in this patient?",
+    "options": ["O +ve", "O −ve", "AB +ve", "AB −ve"],
+    "answerIndex": 1,
+    "explanation": "The patient must be given an emergency blood transfusion with Type O Rh-negative blood (universal donor).\n\nIf the recipient’s blood type and Rh status is not known with certainty and transfusion must be started before determination, type O Rh-negative (universal donor) red cells may be used.\n\nType O negative blood is preferred because it lacks the A and B and Rh antigens and thus it cannot be hemolyzed by anti-A, anti-B, or anti-D antibodies in the recipient’s blood."
+  },
+  {
+    "q": "A patient involved in a road traffic accident is brought to the casualty. The patient is hypotensive and is transfused with multiple units of Ringer lactate followed by 10 units of PRBC's. Within a few hours, he starts bleeding from the gums. He also has petechiae and ecchymoses all over his body. What is the most likely cause for this bleeding?",
+    "options": ["ABO incompatibility", "Rh incompatibility", "Dilutional thrombocytopenia", "Pre-existing Hemophilia"],
+    "answerIndex": 2,
+    "explanation": "The most likely cause of bleeding in this patient who has received multiple PRBC transfusions is dilutional thrombocytopenia.\n\nThe most common cause of nonsurgical bleeding following massive blood transfusion is dilutional thrombocytopenia. Massive transfusion is most often defined as the need to transfuse one to two times the patient’s blood volume. For most adult patients, that is the equivalent of 10–20 units.\n\nMajor trauma or blood loss can initiate a cascade of coagulation abnormalities, including a consumptive coagulopathy from tissue hypoperfusion as manifested by increased protein C levels.\n\nThis coagulopathy is caused by a combination of factors, of which the most important are the dilution of coagulation factors by volume administration (e.g., crystalloid, colloid, PRBC), and the duration of hypotension and hypoperfusion.\n\nConcurrent transfusion of packed red cells, plasma, and platelets can be done to avoid dilutional coagulopathy."
+  },
+  {
+    "q": "A patient needs to undergo a packed red blood cell (PRBC) transfusion due to severe anemia. Before administration, you must make sure the unit of PRBC is at a temperature of ______.",
+    "options": ["20°C", "6°C", "24°C", "37°C"],
+    "answerIndex": 3,
+    "explanation": "PRBC transfusion is to be done after warming it to a temperature of 37°C.\n\nPacked RBCs are stored at 1–6°C. Transfusion at this temperature will lead to profound hypothermia. If the body temperature decreases to less than 30°C, ventricular irritability and cardiac arrest may occur. Shivering from even mild hypothermia increases metabolic demands and is counterproductive to tissue perfusion, especially in settings where anemia or hypoperfusion is contributing to tissue ischemia.\n\nHypothermia together with low levels of 2,3-diphosphoglycerate (2,3-DPG) in stored blood can cause a marked leftward shift of the hemoglobin–oxygen dissociation curve which can lead to tissue hypoxia.\n\nThe ideal method of warming blood is to pass it through plastic coils or cassettes in a warm water bath (37°C to 38°C) or warming plates."
+  },
+  {
+    "q": "Which blood component is associated with the maximum risk of bacterial contamination?",
+    "options": ["Packed red blood cells", "Platelet concentrates", "Fresh frozen plasma", "Whole blood"],
+    "answerIndex": 1,
+    "explanation": "The blood component with maximum risk of bacterial contamination is platelet concentrates as they are stored at room temperature of 20°C–24°C. Hence, they are at maximum risk of bacterial overgrowth and consequent sepsis.\n\nWith the incidence of 1 in 2000, any fever occurring within 6 hours of a platelet transfusion is likely to be sepsis from the use of stored platelets."
+  },
+  {
+    "q": "Post-blood transfusion syphilis is most likely related to the use of which blood product?",
+    "options": ["Whole blood", "Packed red cell concentrate", "Platelet concentrate", "Fresh frozen plasma"],
+    "answerIndex": 2,
+    "explanation": "Post blood transfusion syphilis is most likely related to the use of platelet concentrate.\n\nThe causative agent of syphilis, Treponema pallidum, cannot survive in storage at 1°C to 6°C. So, it does not survive in most blood components except platelet concentrates, because platelets are stored at room temperature."
+  },
+  {
+    "q": "In blood component therapy, hematocrit of packed red blood cell component is:",
+    "options": ["20%", "40%", "70%", "100%"],
+    "answerIndex": 2,
+    "expImage": "assets/images/anes_complications/q22_eximage.jpg",
+    "explanation": "Packed red blood cell (PRBC) component has a hematocrit of 70%.\n\nSalient points on PRBCs:\n• Obtained after centrifugation of whole blood\n• One unit of whole blood yields 250 mL of packed red cells with a hematocrit of 70%\n• Saline preservative is added to this bringing a total volume of 350 mL\n• This is stored at 1–6°C\n• Blood with some rare phenotypes can be stored by freezing the packed cells in hypertonic glycerol solution, which makes it available for 10 years\n• Each unit of PRBC is expected to raise hemoglobin by 1 g/dL\n\nThe image given shows the components of whole blood."
+  },
+  {
+    "q": "Irradiation of granulocytes before transfusion reduces all of the following except",
+    "options": ["Graft versus host disease", "Febrile reactions", "Re-perfusion injury", "Acute hemolytic reaction"],
+    "answerIndex": 3,
+    "explanation": "Irradiation of granulocytes before transfusion does not reduce acute hemolytic reaction as it is due to attack on the transfused donor RBCs by recipient’s antibodies and complements.\n\nSimilarly, the risk of bacterial contamination of platelets and transfusion-related acute lung injury (TRALI) has not decreased with leukoreduction.\n\nIrradiation of granulocytes or use of leukoreduced blood components has several advantages over the use of packed red blood cells:\n• Decreased risk of graft versus host disease which is due to engraftment of donor lymphocytes from the transfused blood products leading to an immune reaction against recipient tissues\n• Reduces chances of febrile reactions\n• Decreases re-perfusion injury (myocardium; after heart by-pass)\n• Decreases transmission of cytomegalovirus"
+  },
+  {
+    "q": "The incidence of anaphylactoid reactions is least with",
+    "options": ["Gelatin", "Haemaccel", "Hydroxyethyl starch", "Dextran"],
+    "answerIndex": 2,
+    "explanation": "The incidence of anaphylactoid reactions is least with hydroxyethyl starch.\n\nThe colloids are of two types:\n• Blood-derived: human albumin and plasma protein fractions\n• Semisynthetic: dextran, gelatin, hydroxyethyl starch"
+  },
+  {
+    "q": "The highest incidence of anaphylactic reactions is seen with",
+    "options": ["Albumin", "Gelatin", "Hydroxyethyl starch", "Dextran"],
+    "answerIndex": 1,
+    "explanation": "The highest incidence of anaphylactic reactions is seen with gelatin.\n\nGelatin is a semisynthetic colloid obtained by hydrolysis of bovine collagen.\n\nHydroxyethyl starch (Hetastarch) is non-antigenic and rarely causes anaphylactoid reactions."
+  },
+  {
+    "q": "Which of the following anesthetic agent should be avoided in a patient with prior history of malignant hyperthermia?",
+    "options": ["Desflurane", "Propofol", "Etomidate", "Ketamine"],
+    "answerIndex": 0,
+    "explanation": "Desflurane, being an inhalational anesthetic, is a triggering factor for malignant hyperthermia."
+  },
+  {
+    "q": "Which of the following drugs can trigger malignant hyperthermia?",
+    "options": ["Succinyl choline", "Halothane", "Enflurane", "All of the above"],
+    "answerIndex": 3,
+    "explanation": "All of the above agents can trigger malignant hyperthermia.\n\nMalignant hyperthermia is a genetic (autosomal dominant) hypermetabolic muscle disease.\n\nTriggering agents include:\n• Inhaled general anesthetics: Ether, Halothane, Methoxyflurane, Enflurane, Isoflurane, Desflurane, Sevoflurane\n• Depolarizing muscle relaxants: Succinylcholine"
+  },
+  {
+    "q": "Which of the following is not an early sign of malignant hyperthermia?",
+    "options": ["Hyperthermia", "Tachycardia", "Masseter spasm", "Elevated end tidal carbon dioxide"],
+    "answerIndex": 0,
+    "explanation": "Hyperthermia is a late sign of malignant hyperthermia.\n\nClinical Manifestations of Malignant Hyperthermia:\n\nEarly Signs:\n• Elevated end-tidal carbon dioxide\n• Tachypnea and/or tachycardia\n• Masseter spasm (if succinylcholine has been used)\n• Generalized muscle rigidity\n• Mixed metabolic and respiratory acidosis\n• Profuse sweating\n• Mottling of skin\n• Cardiac arrhythmias\n• Unstable blood pressure\n\nLate Signs:\n• Hyperkalemia\n• Rapid increase of core body temperature (body temperature rises by 1°C every 5 minutes)\n• Elevated creatine phosphokinase levels\n• Gross myoglobinemia and myoglobinuria\n• Cardiac arrest\n• Disseminated intravascular coagulation"
+  },
+  {
+    "q": "Which of the following is not included in the treatment for malignant hyperthermia?",
+    "options": ["Stop the triggering anesthetic", "Administer dantrolene reconstituted with saline", "Cold intravenous fluids", "Administer bicarbonate"],
+    "answerIndex": 1,
+    "explanation": "Dantrolene sodium is the drug of choice for malignant hyperthermia, but it is to be reconstituted with sterile distilled water and not saline as it can precipitate in saline or other salt solutions.\n\nIt is given at a dose of 2.5 mg/kg intravenously and can be repeated every 5–10 minutes (up to 10 mg/kg) until the attack subsides.\n\nAll anesthetic agents should be cut off and the patient is given 100% oxygen.\n\nBicarbonate at a dose of 1 to 4 mEq/kg IV can be used to treat metabolic acidosis.\n\nIf the body temperature is high, it should be brought down using cold intravenous fluids, cooling body cavities with sterile iced fluids, and surface cooling with ice packs and cooling blankets."
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "q": "In a patient undergoing surgery, which of the following would not be used to monitor the cardiovascular system?",
+    "options": [
+      "Radial artery cannulation",
+      "Capnography",
+      "Transthoracic echocardiography",
+      "Pulmonary artery catheterization"
+    ],
+    "answerIndex": 1,
+    "expImage": "assets/images/anes_cns_cvs_monitoring/q1_table.jpg.png",
+    "explanation": "Capnography is used to assess ventilation in the perioperative period and to confirm the correct placement of an endotracheal tube.\n\nCardiovascular monitoring involves the use of:"
+  },
+  {
+    "q": "A patient with heart failure in the ICU is being administered fluids. Which is the method of non-invasive cardiac monitoring used to titrate the treatment for this patient on a regular basis?",
+    "options": [
+      "Radial artery cannulation",
+      "Pulmonary artery catheterization",
+      "Transesophageal echocardiography",
+      "Transthoracic echocardiography"
+    ],
+    "answerIndex": 3,
+    "explanation": "Transthoracic echocardiography (TTE) is the noninvasive form of cardiac monitoring that can be used in this patient.\n\nOption C: Transesophageal echocardiography (TEE) is a minimally invasive procedure and could be associated with serious complications like oesophageal rupture and mediastinitis in the presence of oesophageal injury or disease. In the absence of oesophageal disease, the risk is low."
+  },
+  {
+    "q": "In a patient requiring invasive BP monitoring, which is the preferred artery used for cannulation and measurement?",
+    "options": [
+      "Ulnar",
+      "Radial",
+      "Brachial",
+      "Femoral"
+    ],
+    "answerIndex": 1,
+    "explanation": "Radial artery is the preferred artery for invasive blood pressure monitoring because of ease of cannulation, presence of collateral blood flow and less associated complications.\n\nBefore cannulating the radial artery, it is essential to perform a modified Allen's test in order to determine the adequacy of collateral flow to the hand.\n\nThe other arteries which can be used for invasive blood pressure monitoring are ulnar, brachial, axillary, and femoral arteries and less commonly dorsalis pedis, posterior tibial, and superficial temporal arteries."
+  },
+  {
+    "q": "A 25-year-old is admitted to the ER after being involved in a road traffic accident. Which type of IV cannula would achieve the maximum flow rate to provide fluid resuscitation?",
+    "options": [
+      "Orange",
+      "Blue",
+      "Pink",
+      "Green"
+    ],
+    "answerIndex": 0,
+    "explanation": "The orange cannula (14 Gauge) has the maximum flow rate of 270 mL/min."
+  },
+  {
+    "q": "Which of the following nerves is popularly used in clinical anaesthesia to monitor neuromuscular blockade?",
+    "options": [
+      "Ulnar nerve",
+      "Median nerve",
+      "Radial nerve",
+      "Mandibular nerve"
+    ],
+    "answerIndex": 0,
+    "expImage": "assets/images/anes_cns_cvs_monitoring/q5_table.jpg.png",
+    "explanation": "Ulnar nerve stimulation at wrist is popularly used to assess the adequacy of neuromuscular blockade.\n\nNeuromuscular blockade is measured using a peripheral nerve stimulator."
+  },
+  {
+    "q": "You observe the catheter shown in the image being used by your attending in the ICU. Which of the following procedures is it used for?",
+    "options": [
+      "Gastro-Esophageal varices",
+      "Embolectomy",
+      "Pulmonary artery catheterization",
+      "Urinary catheterization"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_cns_cvs_monitoring/q6_image.jpg.png",
+    "explanation": "The image shown above is the Swan-ganz catheter which is used for pulmonary artery catheterization. It is also called the pulmonary artery catheter. The standard pulmonary artery catheter is 110 cm long with a 7.0 - 9.0 Fr circumference.\n\nUses of Swan-ganz catheter:\n\n• Measurement of pressures in right atrium, right ventricle and pulmonary artery\n• Indirect measurement of left atrial pressure through pulmonary capillary wedge pressure\n• Cardiac output\n• Oxygen saturation- pulmonary samples to rule out left-right shunt\n• Monitoring left ventricle filling pressure\n• Differentiate cardiogenic from non cardiogenic pulmonary edema"
+  },
+  {
+    "q": "What is the most common complication of pulmonary artery catheterization?",
+    "options": [
+      "Infection",
+      "Thromboembolism",
+      "Arrhythmia",
+      "Pulmonary artery rupture"
+    ],
+    "answerIndex": 2,
+    "explanation": "The most common complication of pulmonary artery catheterization is arrhythmias and are usually self-limiting.\n\nSince the occurrence of these arrhythmias is so common, it is considered as an indicator of the placement of the catheter in the corresponding cardiac chamber.\n\nComplications of pulmonary artery catheterization:\n\n• Catheterization related:\n• Arrhythmias, ventricular fibrillation\n• Right bundle branch block, complete heart block\n\n• Catheter residence related:\n• Mechanical, catheter knots\n• Thromboembolism\n• Pulmonary infarction\n• Infection, endocarditis\n• Endocardial damage, cardiac valve injury\n• Pulmonary artery rupture\n• Pulmonary artery pseudoaneurysm\n\n• Others:\n• Misinterpretation of data\n• Misuse of equipment"
+  },
+  {
+    "q": "You are assisting your attending in conducting a pulmonary artery catheterisation for a patient in the ICU. You are asked to explain your understanding of the procedure in brief. Which of the following statements would be incorrect?",
+    "options": [
+      "It involves direct measurement of left atrial pressure.",
+      "Swan ganz catheter is used.",
+      "Cardiac arrhythmia is the most frequent complication.",
+      "It estimates cardiac output."
+    ],
+    "answerIndex": 0,
+    "expImage": "assets/images/anes_cns_cvs_monitoring/q8_image.jpg.png",
+    "explanation": "Left atrial pressure (LAP) is indirectly measured through pulmonary capillary wedge pressure (PCWP).\n\nLAP has been the gold standard for evaluating mitral stenosis and decompensated congestive heart failure.\n\nOption B: Swan-Ganz catheter is used for pulmonary artery catheterization.\n\nOption C: Cardiac arrhythmias are the most frequent complication.\n\nOption D: The catheter is incorporated with thermistors that can be used to measure cardiac output, from which a multitude of hemodynamic values can be derived."
+  },
+  {
+    "q": "In a patient undergoing pulmonary artery catheterisation, which of the following would denote entry into the pulmonary artery?",
+    "options": [
+      "Increase in systolic pressure",
+      "Decrease in systolic pressure",
+      "Increase in diastolic pressure",
+      "Decrease in diastolic pressure"
+    ],
+    "answerIndex": 2,
+    "explanation": "Entry into the pulmonary artery is indicated by an increase in diastolic pressure.\n\nPulmonary artery catheterization involves the use of a Swan-Ganz catheter."
+  },
+  {
+    "q": "A patient who is planned for cardiac surgery requires central venous pressure (CVP) monitoring. What is the preferred site for central venous cannulation?",
+    "options": [
+      "Left internal jugular vein",
+      "Right internal jugular vein",
+      "Subclavian vein",
+      "Axillary vein"
+    ],
+    "answerIndex": 1,
+    "expImage": "assets/images/anes_cns_cvs_monitoring/q10_image.jpg.png",
+    "explanation": "The right internal jugular vein is the most preferred vein for central venous cannulation.\n\nReasons for preference:\n• Absence of valves\n• Consistent anatomic location of the internal jugular vein\n• Easily identifiable surface landmarks\n• Direct communication with the right atrium.\n\nOther sites for central venous cannulation:\n• Subclavian vein: greater risk of pneumothorax\n• Left internal jugular vein: greater risk of pleural effusion & chylothorax\n• Femoral vein: increased risk of thromboembolic complications, infection, and vascular injury."
+  },
+  {
+    "q": "Cardiac output can be determined using the following except?",
+    "options": [
+      "Thermal dilution technique",
+      "Capnography",
+      "Esophageal doppler",
+      "Echocardiography"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capnography is a measurement of end-tidal CO2, which is used to confirm tracheal intubation and assess ventilation in the perioperative period.\n\nCardiac output measurements technique:\n• Thermodilution\n• Dye dilution, using indocyanine green\n• Lithium dilution\n• Pulse contour devices\n• Esophageal doppler\n• Thoracic bioimpedance\n• Echocardiography\n\nNote: Thermal dilution method uses a non-toxic liquid of temperature different from the blood.\nThis fluid is injected into a vein and is detected on the arterial side using a catheter with a temperature sensor. The rate of flow of this liquid is used to calculate the cardiac output."
+  },
+  {
+    "q": "In a patient undergoing surgery, which is the single best lead in the ECG to diagnose arrhythmias?",
+    "options": [
+      "Lead I",
+      "Lead V2",
+      "Lead II",
+      "Lead V5"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lead II is the best for detecting arrhythmias and inferior wall myocardial infarction.\n\nLead V5 is the best for detecting anterior and lateral wall myocardial infarction.\n\nFor arrhythmia, oesophageal leads are better than lead II but they are not yet put into wide use.\n\nFor myocardial ischemia, new regional wall motion abnormalities and decreased systolic wall thickening on transesophageal echocardiography are more sensitive than ECG."
+  },
+  {
+    "q": "In a patient undergoing mitral valve repair, which is the most sensitive indicator of myocardial ischemia?",
+    "options": [
+      "ECG – Lead V5",
+      "Pulmonary artery catheterisation",
+      "Thoracic bioimpedance",
+      "Transesophageal echocardiography"
+    ],
+    "answerIndex": 3,
+    "explanation": "Transesophageal echocardiography is the most sensitive indicator of myocardial ischemia.\n\nNew regional wall motion abnormalities (RWMA) and decreased systolic wall thickening on transesophageal echocardiography are more sensitive than ECG.\n\nIschemia may be indicated clinically by a sudden onset intraoperative arrhythmia or conduction block."
+  },
+  {
+    "q": "Which of the following investigations provides the most accurate prognostic information with respect to predicting risks of perioperative cardiac complications?",
+    "options": [
+      "Exercise ECG testing",
+      "Dobutamine stress echocardiography",
+      "Myocardial perfusion scintigraphy",
+      "Coronary angiography"
+    ],
+    "answerIndex": 1,
+    "explanation": "Among the given investigations, dobutamine stress echocardiography provides the most accurate prognostic information with respect to predicting risks of perioperative cardiac complications.\n\nPreoperative cardiac stress testing can help identify the presence and severity of preexisting CAD.\n\nThe prognostic performance of these tests is better assessed based on positive and negative likelihood ratios. Among all the given options, dobutamine stress echocardiography has the maximum positive likelihood ratio and hence provides the most accurate prognostic information.\n\nEven though coronary angiography is considered the gold standard, it may not absolutely risk-stratify patients because many perioperative cardiac events may be related to noncritical coronary lesions."
+  },
+  {
+    "q": "You are a junior resident conducting research on the efficacy of different methods to monitor the depth of anaesthesia. Which of the following methods will be not be considered for evaluation in your research?",
+    "options": [
+      "EEG",
+      "Capnography",
+      "Bispectral index",
+      "Auditory evoked potential"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capnography is not considered as it cannot be used to monitor the depth of anaesthesia.\n\nCapnography is a quantitative measure of end-tidal carbon dioxide that is used to assess ventilation in the perioperative period and confirm the correct placement of an endotracheal tube.\n\nMonitors used to assess the depth of anaesthesia:\n• Electroencephalography (EEG)\n• Bispectral index (BIS)\n• Entropy\n• Evoked responses (EP) - Motor EP, sensory EP (Auditory, visual, brain stem evoked potential)\n• Patient state index\n• Narcotrend."
+  },
+  {
+    "q": "After administering the induction agent for a patient, the anaesthesia junior resident is observing the EEG machine to check the depth of anaesthesia. He observes β waves on the EEG. What does it signify?",
+    "options": [
+      "Light anaesthesia",
+      "Profound hypothermia",
+      "Deep anesthesia",
+      "Arousable state"
+    ],
+    "answerIndex": 0,
+    "expImage": "assets/images/anes_cns_cvs_monitoring/q16_table.jpg.png",
+    "explanation": "Beta waves on EEG signify light anesthesia.\n\nBeta waves on EEG are seen in awake state and during initial stages of inhalational anesthesia."
+  },
+  {
+    "q": "A young boy is scheduled for a sigmoidoscopy. He has a history of epilepsy and aggressive behaviour. The procedure was conducted under general anaesthesia when an isoelectric pattern was observed on the EEG monitor. Which of the following is not a differential diagnosis?",
+    "options": [
+      "Normally during anesthesia",
+      "Profound hypothermia",
+      "Profound hyperthermia",
+      "Anesthetic induced coma"
+    ],
+    "answerIndex": 2,
+    "expImage": "assets/images/anes_cns_cvs_monitoring/q17_table.jpg.png",
+    "explanation": "Isoelectric EEG is not seen during hyperthermia and hence is not a differential diagnosis for this patient.\n\nCauses of isoelectric EEG:\n• Brief periods during normal maintenance of anesthesia\n• Anesthetic induced coma\n• Profound hypothermia\n\nInterpretation of an EEG:\n• α, β oscillations : arousable state of sedation\n• δ, θ oscillations with δ dominance: surgically anesthetized state"
+  },
+  {
+    "q": "In a patient who is under anaesthesia, which is the most common method used to evaluate intraoperative awareness?",
+    "options": [
+      "Capnography",
+      "EEG",
+      "Bispectral index",
+      "Transesophageal echocardiography"
+    ],
+    "answerIndex": 2,
+    "explanation": "The bispectral index (BIS) is the most commonly used method, which helps to monitor the depth of anaesthesia and intraoperative awareness.\n\nIt processes the EEG and provides an index value between 0 and 100 that indicates the patient's level of consciousness.\n\nBIS index range:\n• 100 – Awake (Response to normal voice)\n• 65-85 – Sedation\n• 40-65 – General anaesthesia\n• < 40 – Cortical suppression\n• 0 – Flatline EEG (Deep coma)\n\nRecommended range of BIS index values for anaesthesia: 40-60."
+  },
+  {
+    "q": "In a patient who is under general anaesthesia, what are the recommended bispectral index (BIS) values?",
+    "options": [
+      "20-40",
+      "40-60",
+      "60-80",
+      "80-100"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recommended range of bispectral index (BIS) values for general anaesthesia is 40-60.\n\nBIS helps to monitor the depth of anaesthesia and monitor intraoperative awareness. It processes the EEG and provides an index value between 0 and 100 that indicates the patient's level of consciousness.\n\nBIS index range:\n• 100 – Awake (Response to normal voice)\n• 65-85 – Sedation\n• 40-65 – General anaesthesia\n• < 40 – Cortical suppression\n• 0 – Flatline EEG (Deep coma)"
+  },
+  {
+    "q": "Which among the following is most commonly used to monitor the depth of anaesthesia?",
+    "options": [
+      "EEG",
+      "Provoked lower oesophageal contractility",
+      "Entropy",
+      "Bispectral index"
+    ],
+    "answerIndex": 3,
+    "explanation": "The bispectral index is the most commonly used method to monitor the depth of anesthesia.\n\nNote: Middle latency auditory evoked potential is the most sensitive indicator to evaluate the depth of anesthesia."
+  },
+  {
+    "q": "A young boy developed masseter spasm and tachycardia after being administered succinylcholine for RSI. Which of the following is the best site for monitoring core body temperature in this patient?",
+    "options": [
+      "Oral cavity",
+      "Esophagus",
+      "Axilla",
+      "Rectum"
+    ],
+    "answerIndex": 1,
+    "explanation": "The clinical features are suggestive of malignant hyperthermia in this patient and the distal oesophagus is the best site for core temperature monitoring in this condition.\n\nPulmonary artery is the most accurate site for temperature measurement but it is not used routinely due to a higher incidence of complications. It is useful in patients already on Swan-Ganz catheter.\n\nOption A: Oral cavity (sublingual) readings can be influenced by mouth breathing, tachypnea, and ambient temperature.\n\nOption C: Axilla readings are influenced by contact with probe, skin perfusion, environment, etc.\n\nOption D: Rectum readings are higher than central sites due to heat-producing flora in feces.\n\nOther sites for core thermal monitoring:\n• Tympanic membrane\n• Nasopharynx\n• Trachea\n• Skin"
+  },
+  {
+    "q": "Which of the following sites most accurately measures the brain temperature?",
+    "options": [
+      "Oral",
+      "Tympanic membrane",
+      "Nasopharynx",
+      "Distal esophagus"
+    ],
+    "answerIndex": 1,
+    "explanation": "The tympanic membrane measures the brain temperature most accurately.\n\nThe tympanic membrane and the hypothalamus share a common blood supply. Hence, measuring the temperature at this site reflects thermal information at the primary site of thermoregulation.\n\nDisadvantages are trauma during insertion and cerumen insulation, so it is not routinely used."
+  },
+  {
+    "q": "Which thermoregulatory mechanism is best preserved during anesthesia?",
+    "options": [
+      "Shivering",
+      "Sweating",
+      "Vasoconstriction",
+      "Non shivering thermogenesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sweating is the best preserved thermoregulatory mechanism during anesthesia.\n\nOption A and C: General anesthetics decrease the thresholds (triggering core temperatures) for vasoconstriction and shivering by 2°C to 3°C.\n\nOption D: Nonshivering thermogenesis does not occur in anesthetized patients."
+  },
+  {
+    "q": "Which of the following is a true statement regarding Allen's test?",
+    "options": [
+      "Used to confirm Ryle's tube position",
+      "Used to confirm tracheal intubation",
+      "Used to diagnose wrist dislocation",
+      "Used to assess adequacy of collateral blood flow"
+    ],
+    "answerIndex": 3,
+    "explanation": "Allen's Test is used to test the adequacy of collateral blood flow to the hand. It is mandatory before radial artery cannulation and sometimes, before drawing blood for arterial blood gas (ABG) analysis.\n\nMethod:\n\nIt is performed by occluding the radial and ulnar arteries and asking the patient to make a tight fist so as to exsanguinate the palm.\n\nThen, the patient is asked to open the hand and the occlusion over the ulnar artery is released. If the palm remains pale for more than 6-10 seconds, it indicates reduced ulnar collateral flow."
+  },
+  {
+    "q": "You are an intern posted in the ICU. While taking a blood sample for ABG, which of the following steps would you not do?",
+    "options": [
+      "Normal ph can't rule out acid base disorder",
+      "Add 0.5 ml Heparin to the syringe before taking blood",
+      "If modified Allens test is negative, alternate site is chosen",
+      "Radial artery is the preferred site"
+    ],
+    "answerIndex": 1,
+   "expImage": "assets/images/anes_cns_cvs_monitoring/q25_image.png.png",
+    "explanation": "0.5 ml of Heparin is not added to the syringe before taking blood.\n\nVery little heparin is needed in the sample to prevent clotting; 0.05 to 0.10 ml of a dilute solution will help prevent coagulation of 1 ml of blood without affecting its pH. This is achieved by drawing 0.5 ml into the syringe and flushing it out. The residue that remains adherent to the syringe is sufficient for the procedure.\n\nHeparin must be added to the syringe as an anticoagulant. Because the pH of heparin is near 7.0, and the Po2 and Pco2 of the heparin solution are near room air values, excess heparin can alter ABG measurements. After flushing the syringe with heparin, a sufficient amount usually remains in the dead space of the syringe and needle for anticoagulation without distortion of the ABG determination.\n\nNote:\n• Modified Allen's test positive indicates that the collateral blood flow is normal\n• Modified Allen's test negative indicates that the collateral blood flow is abnormal and an alternate site must be chosen."
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "q": "Which of the following agents is to be avoided in a hypertensive patient?",
+    "options": ["Thiopentone", "Propofol", "Ketamine", "Etomidate"],
+    "answerIndex": 2,
+    "explanation": "Ketamine is avoided in hypertensive patients as it has intrinsic sympathomimetic properties and can aggravate hypertension.\n\nKetamine increases arterial blood pressure, heart rate, and cardiac output due to central stimulation of the sympathetic nervous system and inhibition of norepinephrine reuptake.\n\nHence it should be used cautiously in patients with uncontrolled hypertension, coronary artery disease, congestive heart failure, and arterial aneurysms.\n\nAll other intravenous induction agents like propofol, thiopentone, and etomidate generally produce a fall in blood pressure."
+  },
+  {
+    "q": "Which of the following muscle relaxants should be avoided in a hypertensive patient?",
+    "options": ["Pancuronium", "Rocuronium", "Vecuronium", "Atracurium"],
+    "answerIndex": 0,
+    "explanation": "Pancuronium is avoided in hypertensive patients because it causes vagal blockade and sympathetic stimulation, which can aggravate hypertension.\n\nFor the same reason, it should be used cautiously in patients with:\n• Coronary artery disease\n• Hypertrophic cardiomyopathy\n• Aortic stenosis"
+  },
+  {
+    "q": "A 4-year-old child is observed to have difficulty in breathing along with bluish discolouration of his lips and fingers while playing. It improves on adopting a knee-chest position. Which is the ideal induction agent of choice used for surgical correction of the condition suffered by this patient?",
+    "options": ["Thiopentone", "Propofol", "Etomidate", "Ketamine"],
+    "answerIndex": 3,
+    "explanation": "Ketamine is the induction agent of choice in this patient who is likely suffering from tetralogy of Fallot because it maintains or increases systemic vascular resistance and increases cardiac output.\n\nTetralogy of Fallot is characterized by subpulmonic stenosis, right ventricular hypertrophy, ventricular septal defect, and overriding of the aorta, resulting in a right-to-left shunt.\n\nThese patients develop cyanotic spells; they often adopt a squatting/knee-chest position for symptomatic relief.\n\nKetamine does not aggravate the right-to-left shunt and does not increase pulmonary vascular resistance in children as compared to adults; hence safe to administer.\n\nKetamine is a preferred agent in cyanotic congenital heart diseases."
+  },
+  {
+    "q": "A child with a wide fixed split S2 on auscultation has been scheduled for a surgical repair for the condition. Which of the following is the inhalational agent of choice for induction in this procedure?",
+    "options": ["Desflurane", "Sevoflurane", "Isoflurane", "Halothane"],
+    "answerIndex": 1,
+    "explanation": "Wide fixed split S2 is suggestive of atrial septal defect (ASD) and sevoflurane is the inhalational agent of choice for induction in a child undergoing cardiac surgery.\n\nHalothane and sevoflurane are non-pungent and hence can be used for induction in pediatric patients. Sevoflurane is not associated with significant myocardial depression (as seen with halothane), so it is preferred.\n\nFollowing induction, isoflurane and sevoflurane are commonly used inhalational agents for maintenance."
+  },
+  {
+    "q": "A patient with severe aortic stenosis is posted for surgery. Which is the preferred anaesthetic technique used for this procedure?",
+    "options": ["General anaesthesia", "Spinal anaesthesia", "Epidural anaesthesia", "Intercostal nerve block"],
+    "answerIndex": 0,
+    "explanation": "General anaesthesia is preferred in patients with severe aortic stenosis.\n\nSpinal and epidural anaesthesia are relatively contraindicated because regional anaesthesia can produce profound hypotension due to decreased preload/afterload.\n\nMost general anaesthetics (especially volatile agents) can also cause vasodilation and hypotension, which may require vasopressors such as phenylephrine.\n\nMild to moderate aortic stenosis is not an absolute contraindication to regional anaesthesia; in such cases epidural may be preferred over spinal due to slower onset of hypotension, allowing correction."
+  },
+  {
+    "q": "You are conducting the pre-anaesthetic checkup for a patient who is scheduled for an elective cholecystectomy. He is a known hypertensive being treated with the following drugs. Which of the following drugs should be discontinued 24 hours before the procedure?",
+    "options": ["Calcium channel blocker", "Centrally acting sympathomimetics", "Beta blocker", "ACE inhibitor"],
+    "answerIndex": 3,
+    "explanation": "ACE inhibitors are discontinued 24 hours before surgery due to the risk of hemodynamic instability.\n\nAlthough continuation of ACE inhibitors or ARBs is controversial, among the given options this is the best answer.\n\nIf these drugs are continued, vasopressin is the drug of choice for refractory hypotension."
+  },
+  {
+    "q": "During recovery from anaesthesia after a posterior cranial fossa surgery, the patient complained of a severe headache and was agitated. CT scan showed intracranial air accumulation. Which of the following agents is most likely responsible for causing this condition?",
+    "options": ["Oxygen", "Nitrous oxide", "Desflurane", "Sevoflurane"],
+    "answerIndex": 1,
+    "explanation": "The scenario is suggestive of pneumocephalus, and nitrous oxide is responsible for causing/worsening this condition."
+  },
+  {
+    "q": "An awake craniotomy is being performed on a patient when there is a sudden drop in his blood pressure. The surgeon is suspecting a complication of venous air embolism (VAE). Which of the following is true about the condition?",
+    "options": [
+      "All VAE can be detected clinically by a decrease in end tidal carbon dioxide",
+      "A decrease in oxygen saturation will not always be seen, even with larger emboli",
+      "Patients with left to right shunt, are susceptible to paradoxical air embolism",
+      "The surgeon has no role in the management of VAE"
+    ],
+    "answerIndex": 1,
+    "explanation": "A decrease in oxygen saturation may not always be seen, even with larger emboli.\n\nVAE can occur when the pressure within an open vein is subatmospheric; it can occur in any position where the wound is above the level of the heart. Incidence is greater in sitting craniotomies.\n\nPhysiological monitors (heart rate, blood pressure, oxygen saturation, end-tidal CO2) have poor sensitivity/specificity; clinical signs may be late.\n\nTransesophageal echocardiography (TEE) is the most sensitive method and can detect very small amounts of air.\n\nParadoxical air embolism is a risk with a right-to-left shunt.\n\nThe surgeon has a major role: immediately notify, flood the field with saline/pack with gauze, identify and occlude the entry site, and apply bone wax to skull edges."
+  },
+  {
+    "q": "A 40-year-old male in kidney failure with a serum creatinine of 2.1 mg/dl is scheduled for surgery. Which of the following muscle relaxants can be used?\n\n1. Succinylcholine\n2. Atracurium\n3. Pancuronium\n4. Cisatracurium\n5. Vecuronium",
+    "options": ["1, 2 and 4", "3, 4 and 5", "2 and 4", "1 only"],
+    "answerIndex": 0,
+    "explanation": "Succinylcholine, atracurium and cisatracurium can be used in renal failure.\n\nSuccinylcholine can be given safely if serum potassium is not increased.\n\nAtracurium and cisatracurium are preferred as they are non–organ dependent and undergo Hofmann elimination/non-enzymatic degradation.\n\nPancuronium is largely renally excreted (about 60–90%) and has prolonged elimination half-life in renal failure; use cautiously.\n\nA significant fraction of d-tubocurarine is excreted by kidney, so prolonged effects occur in renal insufficiency."
+  },
+  {
+    "q": "A patient is scheduled to undergo transurethral resection of the prostate. Which is the preferred anaesthetic technique for this procedure?",
+    "options": ["General anaesthesia", "Spinal anaesthesia", "Epidural anaesthesia", "Local infiltration"],
+    "answerIndex": 1,
+    "explanation": "Spinal anaesthesia is preferred for TURP.\n\nRegional anaesthesia is preferred over general anaesthesia because:\n• Less likely to mask symptoms of TURP syndrome\n• Helps assess mental status early in TURP\n• Less operative blood loss and lower risk of DVT\n• Less likely to mask bladder perforation symptoms (nausea, abdominal pain, dyspnea, shoulder pain, hiccups)\n• Decreased need for analgesics in immediate post-op period\n\nSpinal is preferred over epidural as it is easier in elderly, surgery duration is usually short (epidural not required), and epidural may incompletely block sacral roots.\n\nCaudal anaesthesia can be used in high-risk laser prostatectomy for hemodynamic stability, but local infiltration does not provide sufficient analgesia."
+  },
+  {
+    "q": "A 55-year-old female was diagnosed to have primary biliary cirrhosis and requires liver transplantation. Which of the following neuromuscular blocker of choice can be used in this patient during the transplantation procedure?",
+    "options": ["Cisatracurium", "Pancuronium", "Vecuronium", "Rocuronium"],
+    "answerIndex": 0,
+    "explanation": "The neuromuscular blocker (NMB) of choice in a cirrhotic patient is cisatracurium because it has non-hepatic metabolism."
+  },
+  {
+    "q": "Which of the following is an inhalational agent of choice for a patient posted for liver transplantation?",
+    "options": ["Enflurane", "Halothane", "Sevoflurane", "Isoflurane"],
+    "answerIndex": 2,
+    "explanation": "Sevoflurane is the inhalational anaesthetic agent of choice during liver transplantation because it is superior to other inhalational agents in preserving hepatic arterial blood flow and hepatic oxygen delivery.\n\nThe liver has an autoregulatory mechanism called the hepatic arterial buffer response (HABF): when portal blood flow decreases (due to decreased cardiac output or hypovolemia), hepatic arterial blood flow increases to maintain total hepatic blood flow. This response is preserved with sevoflurane."
+  },
+  {
+    "q": "A 71-year-old male is posted for total hip arthroplasty. What is the preferred anaesthetic technique for this patient?",
+    "options": ["General anaesthesia", "Spinal anaesthesia", "Local infiltration", "Paracervical block"],
+    "answerIndex": 1,
+    "explanation": "Spinal anaesthesia is preferred in elderly patients undergoing major vascular and orthopaedic surgeries.\n\nAdvantages over general anaesthesia:\n• Decreased incidence of DVT and pulmonary embolism\n• Local anaesthetics used will inhibit platelet aggregation and stabilize endothelial cells\n• Regional anaesthesia is associated with less surgical blood loss\n• Lower incidence of hypoxemia as it avoids airway instrumentation\n\nDisadvantage: hypotension; in patients with coronary artery disease this may increase oxygen demand due to reflex tachycardia and reduced coronary perfusion."
+  },
+  {
+    "q": "A 71-year-old patient underwent hip replacement surgery. Postoperatively, a target controlled infusion (TCI) pump was set up to administer an opioid analgesic. Which is the most suitable opioid used for this patient?",
+    "options": ["Morphine", "Pethidine", "Fentanyl", "Remifentanil"],
+    "answerIndex": 3,
+    "explanation": "Remifentanil is the opioid most likely used in this elderly patient.\n\nRemifentanil is hydrolysed by plasma and tissue esterases; its metabolism is independent of hepatic and renal function. No dose adjustment is required and it is safe in liver failure and renal failure patients.\n\nBecause of this hydrolysis, it has high clearance and is eliminated rapidly with a quick recovery (context-sensitive half-life is very short), hence preferred in elderly patients."
+  },
+  {
+    "q": "A 39-year-old man had sustained major injuries in an accident as his legs were trapped under the wheel of a car. Which of the following agents can be ideally used by the EMS personnel to provide sedation and pain relief to the patient while shifting him to the hospital?",
+    "options": ["Propofol", "Thiopentone", "Midazolam", "Ketamine"],
+    "answerIndex": 3,
+    "explanation": "Ketamine is the ideal agent of choice to provide sedation and analgesia in the prehospital setting.\n\nDrugs used by nurses/paramedics in prehospital settings (e.g., RTA/trauma) should have:\n• Wide safety margin (even for inexperienced providers)\n• Hemodynamic stability\n• Minimal respiratory depression\n• Ease of administration\n• Early onset of action\n\nKetamine provides potent analgesia and sedation for entrapped trauma patients during extrication. It maintains hemodynamic stability in hypovolemic shock, is a bronchodilator, and causes minimal respiratory depression.\n\nBecause of hallucinogenic properties, benzodiazepines may be co-administered. In larger doses it can be used for induction.\n\nBenzodiazepines alone (diazepam/midazolam) can provide sedation but lack analgesic action.\n\nPropofol/thiopentone can cause hemodynamic instability and respiratory depression."
+  },
+  {
+    "q": "A 40-year-old patient is brought to the ER with hematemesis. The patient goes into haemorrhagic shock and requires emergency surgical intervention. Which of the following agents is not ideal for induction in this patient?",
+    "options": ["Propofol", "Etomidate", "Ketamine", "None of the above"],
+    "answerIndex": 0,
+    "explanation": "Propofol is not an ideal agent for induction in a patient with haemorrhagic shock.\n\nPropofol can worsen shock due to profound hypotension from vasodilation and negative inotropic effects.\n\nEtomidate preserves sympathetic tone and has cardiovascular stability, so it is safer.\n\nKetamine is effective in trauma patients because it is a CNS stimulant and increases sympathetic activity; it may be beneficial in acute shock."
+  },
+  {
+    "q": "Shambu, a 55-year-old man met with a road traffic accident and was brought to the casualty. Radiographs revealed multiple rib fractures. Which of the following methods is used to treat this patient?",
+    "options": [
+      "General anaesthesia with endotracheal intubation",
+      "Spinal anaesthesia",
+      "Epidural anaesthesia",
+      "Infraclavicular block"
+    ],
+    "answerIndex": 2,
+    "explanation": "Epidural anaesthesia is used to provide adequate analgesia and is the mainstay of treatment in patients with multiple rib fractures.\n\nComplications can be minimized by adequate pain relief with epidural anaesthesia. Rib fracture patients may have:\n• Hypoventilation\n• Hypoxia\n\nOther techniques include intercostal nerve blocks and intrapleural block, but these require multiple injections and increase risk.\n\nComplications include vascular puncture, pneumothorax, patient discomfort due to palpation during LA, and LA toxicity.\n\nGeneral anaesthesia is more invasive and may worsen complications; endotracheal intubation is reserved for those who cannot maintain airway or adequate oxygenation.\n\nSpinal anaesthesia would need a high level block to cover thoracic dermatomes, leading to high spinal/total spinal risks.\n\nInfraclavicular block is for upper limb."
+  },
+  {
+    "q": "A 30-year-old male is scheduled for an open reduction of a fractured nose. The preferred technique of anaesthesia in this patient would be?",
+    "options": ["General anaesthesia", "Local infiltration", "Regional anaesthesia", "Topical anaesthesia"],
+    "answerIndex": 0,
+    "explanation": "General anaesthesia is preferred because local anaesthesia may provide insufficient block and patient discomfort.\n\nLocal anaesthesia may be suitable for simple procedures such as:\n• Cauterization\n• Polypectomy\n• Turbinectomy\n\nGeneral anaesthesia may be used for:\n• Open nasal fracture reduction\n• Septoplasty\n• Rhinoplasty\n\nNote: Closed nasal fracture reduction is often performed with propofol sedation as it is extremely painful."
+  },
+  {
+    "q": "A 55-year-old chronic smoker has been diagnosed with epiglottic carcinoma. The ENT surgeon has scheduled a CO2 laser excision surgery. Which of the following anaesthetic gases needs to be avoided during the procedure?",
+    "options": ["Sevoflurane", "Oxygen", "Nitrous oxide", "Halothane"],
+    "answerIndex": 2,
+    "explanation": "Nitrous oxide is avoided in laser surgeries as it supports combustion.\n\nOxygen concentration should be limited to the lowest level that maintains acceptable saturation to reduce the risk of airway fire with lasers."
+  },
+  {
+    "q": "A stapedectomy has been scheduled for a patient suffering from Ménière’s disease. Which is the preferred intravenous induction agent for the procedure?",
+    "options": ["Thiopentone", "Propofol", "Etomidate", "Ketamine"],
+    "answerIndex": 1,
+    "explanation": "Propofol is preferred for induction in patients undergoing stapedectomy or middle/ear surgery.\n\nSurgeries commonly done with propofol as induction agent include:\n• Stapedectomy/stapedotomy\n• Tympanoplasty\n• Mastoidectomy\n• Myringotomy with insertion of tympanostomy tubes"
+  },
+  {
+    "q": "A 32-year-old male is suffering from chronic suppurative otitis media of the right ear. He is scheduled for a tympanoplasty surgery. Which of the following agents should be avoided during the procedure?",
+    "options": ["Propofol", "Ketamine", "Oxygen", "Nitrous oxide"],
+    "answerIndex": 3,
+    "explanation": "Nitrous oxide is avoided in middle ear surgeries.\n\nIt increases middle ear pressure because it diffuses into air-containing cavities (it is more soluble in blood than nitrogen).\n\nThis can cause pressure build-up in the middle ear and displacement of the graft."
+  },
+  {
+    "q": "Which of the following agents should not be used during superficial parotidectomy surgery scheduled for a case of pleomorphic adenoma?",
+    "options": ["Inhalational anaesthetics", "Opioids", "Antibiotics", "Muscle relaxants"],
+    "answerIndex": 3,
+    "explanation": "Muscle relaxants are avoided during parotidectomy.\n\nThe most common surgery for pleomorphic adenoma is superficial parotidectomy with facial nerve dissection. It is essential to preserve the facial nerve; nerve stimulators are used to identify the facial nerve and its branches.\n\nThis is not possible if muscle relaxation is present."
+  },
+  {
+    "q": "A 23-year-old woman wants to undergo an aesthetic rhinoplasty. Which of the following is the safest drug that can be used during the surgery for topical vasoconstriction?",
+    "options": ["Lidocaine", "Phenylephrine", "Cocaine", "Oxymetazoline"],
+    "answerIndex": 3,
+    "explanation": "Oxymetazoline is the preferred topical vasoconstrictor in ENT surgeries due to its safety profile and easy availability.\n\n0.05% solution is administered as a nasal spray in each nostril before nasal procedures.\n\nIt should be avoided in patients on monoamine oxidase inhibitors due to possible interaction causing high blood pressure.\n\nPhenylephrine (alpha-agonist) can cause severe hypertension and blood pressure monitoring is required.\n\nCocaine has cardiovascular effects; as a sympathomimetic it inhibits norepinephrine reuptake, making it unsafe in coronary disease or MAOI use.\n\nLidocaine does not have vasoconstrictor properties but may be used with phenylephrine."
+  },
+  {
+    "q": "Which of the following agents cannot be used to achieve hypotensive anaesthesia during nasopharyngeal carcinoma surgery?",
+    "options": ["Phentolamine", "Halothane", "Sodium nitroprusside", "Phenylephrine"],
+    "answerIndex": 3,
+    "explanation": "Phenylephrine cannot be used to achieve controlled hypotension.\n\nPhenylephrine is a selective alpha-adrenergic receptor agonist (phenethylamine class) and increases blood pressure; hence it cannot be used to achieve hypotensive anaesthesia in any procedure."
+  },
+  {
+    "q": "During a squint surgery, the ophthalmologist hooks a muscle that causes sudden significant bradycardia in the patient. Atropine is given and the heart rhythm returns to normal. This reflex is most likely seen with traction on which muscle?",
+    "options": ["Superior rectus", "Inferior rectus", "Medial rectus", "Lateral rectus"],
+    "answerIndex": 2,
+    "explanation": "The medial rectus muscle is most likely to elicit bradycardia (oculocardiac reflex) when stimulated.\n\nTraction on extraocular muscles or pressure on the globe can cause bradycardia, AV block, ventricular ectopy, or asystole.\n\nIt is commonly seen with traction on the medial rectus, but can occur with stimulation of any orbital contents including periosteum."
+  },
+  {
+    "q": "A child while undergoing enucleation of his right eye due to bacterial endophthalmitis, suddenly developed bradycardia. Manipulation of which of the following structures would have led to the bradycardia?",
+    "options": ["Orbital periosteum", "Inferior oblique", "Medial rectus", "Any of the above"],
+    "answerIndex": 3,
+    "explanation": "Stimulation of any of the orbital contents can cause oculocardiac reflex.\n\nTraction on extraocular muscles or pressure on the globe can cause bradycardia, AV block, ventricular ectopy, or asystole.\n\nIn particular, it is commonly seen with traction on the medial rectus muscle, but it can occur with stimulation of any orbital contents, including the periosteum."
+  },
+  {
+    "q": "A 60-year-old female patient needs to undergo cataract surgery. Before initiating the surgery, the following procedure is performed. What is the most common complication seen in the procedure?",
+    "options": ["Proptosis", "Subconjunctival hemorrhage", "Optic nerve damage", "Retrobulbar hemorrhage"],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_concurrent_diseases/q27_qimage.jpg",
+    "explanation": "The most common complication seen in the procedure of retrobulbar block is retrobulbar haemorrhage.\n\nThe image depicts the technique of retrobulbar block, a regional anaesthesia technique used in ophthalmic surgery. It involves injection of local anaesthetic into the extraocular muscle cone.\n\nThe needle is introduced into the lower lid at the junction of the middle and lateral one-third of the orbit."
+  },
+  {
+    "q": "In which of the following conditions is a retrobulbar block not contraindicated?",
+    "options": ["High myopia", "Coagulopathy", "Penetrating eye injury", "Enucleation"],
+    "answerIndex": 3,
+    "explanation": "Retrobulbar blocks are not contraindicated in enucleation of the eyes.\n\nRetrobulbar block is a regional anaesthesia technique used in ophthalmic surgical procedures involving injection of a local anaesthetic into the extraocular muscle cone."
+  },
+  {
+    "q": "A 13-year-old boy was accidentally shot in the eye by his brother while playing with a pellet gun. Examination reveals intraocular contents presenting at the wound. He is scheduled for emergency repair of the ruptured globe. What is the ideal anaesthetic technique to be used?",
+    "options": ["General anaesthesia", "Retrobulbar block", "Subtenon block", "Peribulbar block"],
+    "answerIndex": 0,
+    "explanation": "General anaesthesia is the ideal anaesthetic technique for a penetrating eye injury.\n\nRegional anaesthesia is relatively contraindicated in penetrating eye injuries because injecting local anaesthetic behind the globe increases intraocular pressure and may lead to expulsion of intraocular contents.\n\nTherefore these patients require general anaesthesia despite the increased risk of aspiration pneumonia when it is administered."
+  },
+  {
+    "q": "A child presenting with open globe injury. Which induction agent should be avoided?",
+    "options": ["Propofol", "Ketamine", "Etomidate", "Thiopentone"],
+    "answerIndex": 1,
+    "explanation": "Ketamine should be avoided in a child presenting with open globe injury as it can increase intraocular pressure.\n\nIt usually raises arterial blood pressure and does not relax extraocular muscles, and may cause nystagmus and blepharospasm."
+  },
+  {
+    "q": "The best type of anesthesia for pre eclampsia is:",
+    "options": ["Spinal anesthesia", "Epidural anesthesia", "General anesthesia", "Caudal block"],
+    "answerIndex": 1,
+    "explanation": "Continuous epidural anaesthesia is the first choice for most patients with preeclampsia during labor, vaginal delivery, and cesarean section.\n\nPreeclampsia patients have a risk of severe airway edema, making intubation difficult. Continuous epidural anaesthesia avoids the need for intubation and can improve uteroplacental perfusion and decrease catecholamine secretion.\n\nA prerequisite is normal platelet count and normal coagulation. Minimal platelet count for regional anaesthesia is around 100,000/µL, but in some cases can be considered with platelet counts as low as 70,000/µL.\n\nGeneral anaesthesia is indicated in coagulopathy or severe preeclampsia with complications.\n\nSpinal anaesthesia can be given in mild preeclampsia but hypotension may limit its use in moderate to severe cases.\n\nSince severity/type of delivery is not specified, epidural is preferred."
+  },
+  {
+    "q": "Three combat wounded soldiers with uncontrolled blood loss are brought to the base camp. Damage control resuscitation (DCR) is initiated for the soldiers. What is the correct ratio of PRBCs, FFP, and platelets that can be used for DCR?",
+    "options": ["4:2:1", "1:2:4", "2:1:2", "1:1:1"],
+    "answerIndex": 3,
+    "explanation": "In DCR, the ratio of PRBC : fresh frozen plasma : platelets is 1:1:1.\n\nAdministering blood products in appropriate ratios to facilitate resuscitation from trauma and avert trauma-induced coagulopathy is termed damage control resuscitation (DCR).\n\nRationale of 1:1:1:\n• Red blood cell component improves oxygen delivery to ischemic tissues.\n• Fresh frozen plasma improves clotting by providing clotting factors V and VIII and fibrinogen.\n\nPlatelet transfusion is required if the platelet count is below 50,000/high power field, with significant blood loss or prolonged resuscitation."
+  }
+]

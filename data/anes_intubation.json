@@ -1,0 +1,282 @@
+[
+  {
+    "q": "In what position would you place a patient prior to direct laryngoscopy?",
+    "options": [
+      "Cervical flexion with atlanto-occipital flexion",
+      "Cervical extension with atlanto-occipital extension",
+      "Cervical flexion with atlanto-occipital extension",
+      "Cervical extension with atlanto-occipital flexion"
+    ],
+    "answerIndex": 2,
+    "expImage": "assets/images/anes_intubation/q1_eximage.jpg",
+    "explanation": "Prior to direct laryngoscopy and intubation, the patient is placed in the sniffing position, which consists of flexion at the lower cervical spine with extension at the atlanto-occipital joint.\n\nThis helps ensure a line of sight from the mouth to the larynx so that intubation can be performed with ease.\n\n• Cervical flexion of ~35° is achieved by elevating the head by ~7–9 cm (e.g., folded sheet under the head).\n• Atlanto-occipital extension is achieved by the head tilt.\n\nAdequacy of head elevation can be estimated by checking horizontal alignment between the external auditory meatus and the sternal notch."
+  },
+  {
+    "q": "You are the 2nd year Anaesthesia PG on call. You are paged to the COVID ICU. A 50 year old patient who was on non-invasive ventilation is desaturating rapidly. The anaesthetist instructs you to intubate the patient with an endotracheal tube. What is the most commonly used laryngoscopic blade for this procedure?",
+    "options": [
+      "Miller",
+      "Macintosh",
+      "Wisconsin",
+      "Magill"
+    ],
+    "answerIndex": 1,
+    "expImages": [
+      "assets/images/anes_intubation/q2_eximage_1.jpg",
+      "assets/images/anes_intubation/q2_eximage_2.jpg"
+    ],
+    "explanation": "The most commonly used laryngoscopic blade for endotracheal intubation in adults is the Macintosh blade.\n\nLaryngoscopic blades:\n• Macintosh: Curved blade; preferred for adults.\n• Miller: Straight blade; used in neonates/infants/young children and in adults with short thyromental distance and a long floppy epiglottis.\n\nAdvantage of the curved Macintosh blade: greater room for passage of the endotracheal tube and significantly less damage to the teeth."
+  },
+  {
+    "q": "Sara, a 6 year old child, was brought to the ER by her parents with a history of fever, cough, and body pain for the past 3 days. On examination, she was lethargic and had difficulty in breathing. She was desaturating despite trying non-invasive positive pressure ventilation. What is the most appropriate next step of management in this scenario?",
+    "options": [
+      "Intubation using Miller's blade",
+      "Needle cricothyrotomy",
+      "Intubation using Macintosh blade",
+      "Percutaneous transtracheal jet ventilation"
+    ],
+    "answerIndex": 0,
+    "expImages": [
+      "assets/images/anes_intubation/q3_eximage_1.jpg",
+      "assets/images/anes_intubation/q3_eximage_2.jpg"
+    ],
+    "explanation": "The next step of management would be attempting to secure the airway by endotracheal intubation.\n\nThe most commonly used laryngoscopic blade for endotracheal intubation in infants and young children is Miller’s laryngoscopic blade.\n\nMacintosh blade is generally preferred in adults.\n\nNeedle cricothyrotomy and percutaneous transtracheal jet ventilation are invasive airway accesses and are only performed when intubation fails."
+  },
+  {
+    "q": "In which of the following devices is Murphy's eye seen?",
+    "options": [
+      "Nasopharyngeal airway",
+      "Laryngoscope",
+      "Bronchoscope",
+      "Endotracheal tube"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_intubation/q4_eximage.jpg",
+    "explanation": "Murphy’s eye is seen in the endotracheal tube (ETT).\n\nMurphy’s eye refers to the distal opening in the side wall of the ETT.\n\nIf the distal end of the lumen is blocked by secretions, Murphy’s eye serves as an alternate route for ventilation."
+  },
+  {
+    "q": "Appropriate sized endotracheal tube for an adult is ________.",
+    "options": [
+      "3.5",
+      "5.5",
+      "6.5",
+      "7.5"
+    ],
+    "answerIndex": 3,
+    "explanation": "Appropriate sized endotracheal tube for an adult is 7.5 mm.\n\nSize of an endotracheal tube usually refers to the internal diameter in mm.\n\nCommonly used sizes:\n• Women: 7.0–7.5 mm\n• Men: 7.5–9.0 mm"
+  },
+  {
+    "q": "A 4 year old child is brought to the casualty in respiratory distress. In order to intubate this child, which is the appropriate size of endotracheal tube to be used?",
+    "options": [
+      "4 mm",
+      "5 cm",
+      "4 cm",
+      "5 mm"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_intubation/q6_eximage.jpg",
+    "explanation": "Appropriate size of an endotracheal tube for a 4-year-old child is 5 mm.\n\nSize of an endotracheal tube usually refers to the internal diameter in mm.\n\nAccording to the Penlington formula, size of endotracheal tube in the pediatric population is calculated by:\n• < 6 years: 3.75 + (Age/3)\n• > 6 years: 4.5 + (Age/4)\n\nFor 4 years: 3.75 + (4/3) = 3.75 + 1.33 ≈ 5.05 → choose 5 mm."
+  },
+  {
+    "q": "A 6-year-old child requires endotracheal intubation. Which is the correct length of the tube to be chosen?",
+    "options": [
+      "6 cm",
+      "10 cm",
+      "12 cm",
+      "15 cm"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_intubation/q7_eximage.jpg",
+    "explanation": "The appropriate length of the endotracheal tube for a 6-year-old child is 15 cm.\n\nFormula to estimate endotracheal tube length:\n• Length (cm) = 12 + (Age/2)\n\nIf the ETT is inserted too deep, it can lead to endobronchial intubation. If inserted too shallow, it can lead to accidental extubation.\n\nAn adequate sized tube should be placed with its tip midway between the vocal cords and the carina."
+  },
+  {
+    "q": "A 60-year-old patient is being taken up for a cervical discectomy. The surgeon had planned a posterior approach that required the patient to lie in a prone position under anesthesia. What is the advantage of the armored endotracheal tube required for this procedure?",
+    "options": [
+      "Longer length",
+      "LASER resistance",
+      "Less kinking",
+      "Double lumen"
+    ],
+    "answerIndex": 2,
+    "expImage": "assets/images/anes_intubation/q8_eximage.jpg",
+    "explanation": "The advantage of an armored endotracheal tube is less kinking.\n\nArmored tubes (reinforced / flexo-metallic tubes) are flexible, spiral-wound tubes reinforced with metal coils. This minimizes kinking of the tube.\n\nThey are useful in surgeries of head and neck and surgeries performed with the patient in prone position.\n\nOther specialized endotracheal tubes include:\n• Microlaryngeal tubes: smaller internal diameters and longer lengths; useful for laryngeal surgeries.\n• Metal tubes: LASER resistant; used for laser airway surgery to reduce fire hazards.\n• Double-lumen tubes: facilitate lung isolation and one-lung ventilation in thoracic surgeries."
+  },
+  {
+    "q": "What procedure is the following device most suitable for?",
+    "options": [
+      "Head and neck surgery",
+      "Nasal surgery",
+      "Laryngeal surgery",
+      "Thoracic surgery"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_intubation/q9_qimage.jpg",
+    "expImages": [
+      "assets/images/anes_intubation/q9_eximage_1.jpg",
+      "assets/images/anes_intubation/q9_eximage_2.jpg"
+    ],
+    "explanation": "The device shown is the south oral Ring-Adair-Elwyn (RAE) endotracheal tube.\n\nIt is preferred for nasal and ophthalmic surgeries because it has a preformed right-angle bend at the level of the teeth so that it does not obstruct the surgical field.\n\nThe images show:\n• South-facing oral RAE tube\n• North-facing nasal RAE tube"
+  },
+  {
+    "q": "Which of the following is the most preferred type of cuff of an endotracheal tube?",
+    "options": [
+      "Low volume, low pressure",
+      "High volume, high pressure",
+      "Low volume, high pressure",
+      "High volume, low pressure"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_intubation/q10_eximage.jpg",
+    "explanation": "The most preferred type of cuff of an endotracheal tube is high volume, low pressure.\n\nAdvantage:\n• Lesser incidence of tracheal mucosal damage.\n\nDisadvantages may include:\n• Sore throat (due to larger mucosal contact area)\n• Aspiration\n• Spontaneous extubation\n• Difficulty in insertion (because of the floppy cuff)"
+  },
+  {
+    "q": "What is the maximum cuff pressure that you can use to inflate the cuff of an endotracheal tube?",
+    "options": [
+      "5 cm of water",
+      "15 cm of water",
+      "25 cm of water",
+      "35 cm of water"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cuff pressure should not exceed 25 cm of H2O since excess cuff pressure can lead to tracheal mucosal injury and recurrent laryngeal nerve palsy.\n\nCuff should be inflated to the minimum volume at which no air leak is seen.\n\nIf nitrous oxide is used in general anesthesia, cuff pressure should be monitored periodically as nitrous oxide can diffuse into the cuff causing cuff pressure to rise."
+  },
+  {
+    "q": "Which of the following situations is least suitable for performing nasotracheal intubation?",
+    "options": [
+      "A 35 year old patient with unstable c-spine injury requiring awake intubation",
+      "A 60 year old man with a tumor of the oral cavity",
+      "A 28 year old woman with fracture of ramus of mandible",
+      "A 40 year old man with fracture of the base of skull"
+    ],
+    "answerIndex": 3,
+    "explanation": "Nasotracheal intubation is contraindicated in base of skull fractures as there is a chance for the tube to enter the cranial vault.\n\nNasotracheal route is preferred when oral intubation is difficult or not possible, such as:\n• Large oral cavity tumors or abscess\n• Conditions restricting mouth opening (e.g., TMJ ankylosis, mandibular fractures)\n\nAwake intubation can be better tolerated in some cases as it bypasses the gag reflex and is more tolerable to a conscious patient."
+  },
+  {
+    "q": "A 40-year-old man was being prepared for an emergency laparotomy and an endotracheal tube was inserted. Following intubation, end-tidal carbon dioxide was detected. However, his oxygen saturation dropped to 60% and breath sounds were not audible over the left hemithorax. What could be the cause of this?",
+    "options": [
+      "Endobronchial intubation into left main bronchus",
+      "Esophageal intubation",
+      "Endotracheal tube blockage",
+      "Endobronchial intubation into right main bronchus"
+    ],
+    "answerIndex": 3,
+    "expImages": [
+      "assets/images/anes_intubation/q13_eximage_1.jpg",
+      "assets/images/anes_intubation/q13_eximage_2.jpg",
+      "assets/images/anes_intubation/q13_eximage_3.jpg"
+    ],
+    "explanation": "Detection of end-tidal CO2 with dropping oxygen saturation and absent breath sounds over the left hemithorax points to endobronchial intubation into the right main bronchus.\n\nSigns of endobronchial intubation:\n• Elevated peak inspiratory pressure (first sign)\n• Asymmetric chest expansion\n• Unilateral breath sounds\n• Drop in oxygen saturation\n\nCapnography and detection of end-tidal CO2 confirm advanced airway placement but do not differentiate endotracheal from endobronchial intubation.\n\nEsophageal intubation: initial end-tidal CO2 may be detected due to swallowed air, but later becomes zero. Breath sounds would be absent bilaterally with presence of breath sounds in the epigastrium."
+  },
+  {
+    "q": "A 3-year-old unconscious child is rushed to the ER. She is found to have complete upper airway obstruction. An emergency invasive airway procedure is planned to save her. Which among the following cannot be performed?",
+    "options": [
+      "Endotracheal intubation",
+      "Retrograde intubation",
+      "Needle cricothyrotomy",
+      "Percutaneous transtracheal jet ventilation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endotracheal intubation cannot be performed in this patient due to complete upper airway obstruction.\n\nContraindications of endotracheal intubation include:\n• Severe airway obstruction or trauma (critical airway obstruction)\n• Fractures of the jaw or skull\n• Presence of a laryngeal tumour\n\nIn complete obstruction above the level of the vocal cords, invasive airways such as needle cricothyrotomy and percutaneous transtracheal jet ventilation are preferred to secure the airway."
+  },
+  {
+    "q": "A 26-year-old term primigravida is taken to the operation theatre for an emergency cesarean section due to sudden fetal distress. The anaesthetist wants to prevent chances of pulmonary aspiration and decides to intubate using rapid sequence intubation. Which of the following steps is not performed in this technique?",
+    "options": [
+      "Preoxygenation",
+      "Cricoid pressure",
+      "Bag and mask ventilation",
+      "Propofol infusion"
+    ],
+    "answerIndex": 2,
+    "expImage": "assets/images/anes_intubation/q15_eximage.jpg",
+    "explanation": "Bag and mask ventilation is avoided in rapid sequence intubation because it can lead to stomach inflation and increases the risk of aspiration.\n\nIndications for rapid sequence intubation (high aspiration risk) include:\n• Pregnancy\n• Full stomach\n• Intestinal obstruction\n• Hiatus hernia\n• Encephalopathy\n• Morbid obesity\n• Diabetic gastroparesis"
+  },
+  {
+    "q": "The time required for preoxygenation before tracheal intubation?",
+    "options": [
+      "1 min",
+      "3 min",
+      "5-7 min",
+      "5 min"
+    ],
+    "answerIndex": 1,
+    "explanation": "Preoxygenation with tidal volume breathing of 3 minutes is required before tracheal intubation.\n\nPreoxygenation (denitrogenation) replaces nitrogen in the lungs with oxygen.\n\nThis delays the onset of critical hypoxia during the period of apnea by about 5–8 minutes and provides an improved margin of safety while securing the airway."
+  },
+  {
+    "q": "A case of hiatus hernia is posted for surgery. What will be ideal choice of muscle relaxant that will be used for intubation?",
+    "options": [
+      "Rocuronium",
+      "Succinylcholine",
+      "Vecuronium",
+      "Cisatracurium"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rapid sequence intubation for a patient with hiatus hernia can be facilitated using a non-depolarizing muscle relaxant such as rocuronium.\n\nSuccinylcholine is often used for RSI due to rapid onset and short duration, but it can cause fasciculations which may increase intragastric pressure and increase the risk of regurgitation/aspiration.\n\nGenerally, an intragastric pressure (IGP) > 28 cm H2O is required to overcome the competence of the gastroesophageal junction. When the normal oblique angle of entry of the esophagus into the stomach is altered (as in hiatus hernia), the IGP required for regurgitation is much less.\n\nConditions that predispose to raised IGP:\n• Pregnancy\n• Ascites\n• Bowel obstruction\n• Hiatus hernia"
+  },
+  {
+    "q": "Which of the following local anaesthetic is commonly used in topicalization of airway for awake intubation?",
+    "options": [
+      "Bupivacaine",
+      "Benzocaine",
+      "Prilocaine",
+      "Lidocaine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Lidocaine is the local anesthetic of choice for topicalization of the airway prior to awake intubation.\n\nIt is preferred due to rapid onset and a high therapeutic index.\n\nBupivacaine is not formulated for topical use.\n\nBenzocaine and Cetacaine (topical sprays) have been used but have a higher incidence of methemoglobinemia; hence benzocaine is discouraged.\n\nPrilocaine is usually available in combination with lidocaine in EMLA (eutectic mixture) for topical anesthesia to intact skin."
+  },
+  {
+    "q": "What is the commonly used local anaesthetic for awake nasotracheal intubation of a patient set to undergo maxillofacial surgery?",
+    "options": [
+      "Cocaine",
+      "Lidocaine",
+      "Benzocaine",
+      "Bupivacaine"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nowadays, a mixture of lidocaine 3% and phenylephrine 0.25% is most commonly used in awake nasotracheal intubation.\n\nThis is used in addition to conscious sedation with low doses of midazolam and fentanyl.\n\nPhenylephrine is added for its vasoconstrictive property.\n\n• Topical cocaine has vasoconstricting properties and was used for nasal mucosal anesthesia, but its use is discouraged due to toxicity and abuse potential.\n• Benzocaine/Cetacaine is discouraged due to methemoglobinemia.\n• Bupivacaine is not formulated for topical use."
+  },
+  {
+    "q": "Glycopyrrolate is used as a pre-anaesthetic agent for:",
+    "options": [
+      "Reducing the secretions",
+      "Sedative effect",
+      "Skeletal muscle relaxant",
+      "Anxiolytic"
+    ],
+    "answerIndex": 0,
+    "explanation": "Glycopyrrolate is used as a pre-anesthetic agent for reducing secretions.\n\nAnticholinergic drugs (e.g., atropine, glycopyrrolate) are routinely administered with anticholinesterases to attenuate undesirable muscarinic effects.\n\nGlycopyrrolate is usually preferred because:\n• Less vagolytic effects than atropine\n• Does not cross the blood-brain barrier\n• Inhibits secretions\n\nDose: 0.2 mg IV. It should be administered as early as possible to maximize its effectiveness.\n\nIt is also used to dry airway secretions before flexible scope intubation or during bronchoscopy."
+  },
+  {
+    "q": "The given set of instruments are used in:",
+    "options": [
+      "Central line insertion",
+      "Arterial line insertion",
+      "Airway management",
+      "Umbilical catheter insertion"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_intubation/q21_qimage.jpg",
+    "explanation": "The image shows a tray / airway cart with instruments necessary for airway management.\n\nAn airway cart may include:\n• Laryngoscope blades of various sizes (including rigid fibreoptic)\n• Tracheal tubes of various sizes\n• Tracheal tube guides (semirigid stylets), ventilating tube changer, light wands, and forceps\n• Masks of various sizes\n• Laryngeal mask airways of various sizes\n• Flexible fibreoptic intubation equipment\n• Retrograde intubation equipment\n• At least one device for emergency noninvasive airway ventilation (e.g., esophageal tracheal tube, hollow jet stylet)\n• Equipment required for emergency invasive airway access\n• An exhaled CO2 detector"
+  },
+  {
+    "q": "The following endotracheal tube is preferred for ________.",
+    "options": [
+      "Head and neck surgery",
+      "Nasal surgery",
+      "Laryngeal surgery",
+      "Thoracic surgery"
+    ],
+    "answerIndex": 0,
+    "qImage": "assets/images/anes_intubation/q22_qimage.jpg",
+    "explanation": "The image shown is an armored (reinforced / flexo-metallic) endotracheal tube.\n\nIt is useful in head and neck surgeries and when the patient is in prone position.\n\nAn armored tube is a flexible, spiral-wound tube reinforced with a metal coil to minimize kinking.\n\nOther specialized endotracheal tubes include:\n• South oral RAE: used for nasal surgery\n• Microlaryngeal tubes: laryngeal surgery\n• Double-lumen endotracheal tubes (Carlens, Carlen, Robertshaw): thoracic surgery\n\nNote: The tip of the armored endotracheal tube is about 2 cm distal to the distal-most metal ring, and this portion may not be visualized in radiography."
+  },
+  {
+    "q": "Which of the following is an indicator of endobronchial intubation?",
+    "options": [
+      "Sudden rise in end tidal Carbon dioxide",
+      "Sudden fall in end tidal carbon dioxide",
+      "Sudden rise in peak inspiratory pressure",
+      "Bilateral breath sounds"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sudden rise in peak inspiratory pressure is an indicator of endobronchial intubation.\n\nSigns of endobronchial intubation:\n• Elevated peak inspiratory pressure (first sign)\n• Asymmetric chest expansion\n• Unilateral breath sounds\n• Hypoxemia"
+  }
+]

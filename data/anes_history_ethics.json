@@ -1,0 +1,70 @@
+[
+  {
+    "q": "On a historical day, performing surgeries without the torture of pain was demonstrated successfully for the first time at Massachusetts General Hospital, the home of Harvard Medical School. This is celebrated as the \"World Anesthesia Day\" every year on which day?",
+    "options": ["December 1st", "April 7th", "October 16th", "July 11th"],
+    "answerIndex": 2,
+    "expImage": "assets/images/anes_history_ethics/q1_ether_dome.jpg",
+    "explanation": "October 16th is celebrated every year as \"World Anesthesia Day\" or \"Ether Day\" to commemorate the first successful demonstration of diethyl ether anesthesia to perform painless surgeries.\n\nOn this day in 1846, William Thomas Green Morton gave the first successful public demonstration of ether anesthesia at Massachusetts General Hospital, Harvard Medical School.\n\nThe first public demonstration of surgical anesthesia:\n\nOn this day, W.T.G. Morton administered ether to Gilbert Abbott for the removal of a tumor from his jaw by the surgeon Dr. John Collins Warren. At the end of the procedure, Dr. Warren uttered his iconic words “Gentlemen, this is no humbug.” This was the dawn of modern anesthesia.\n\nTimeline of important events:\n1772 – Nitrous oxide first introduced by Joseph Priestley.\n1800 – Humphrey Davy published nitrous oxide.\n1844 – Horace Wells administered nitrous oxide for dental analgesia.\n1846 – William Morton public demonstration of diethyl ether at the Massachusetts General Hospital.\n1847 – James Young Simpson administered chloroform for general anesthesia in England.\n1853 – John Snow administered chloroform to Queen Victoria for the birth of Prince Leopold.\n1857 – Claude Bernard discovered the effects of curare located at the myoneural junction.\n1884 – Carl Koller introduced the use of cocaine for ophthalmic surgery.\n1898 – August Bier performed the first surgical spinal anesthesia."
+  },
+  {
+    "q": "You are assisting your senior resident who is performing the procedure shown in the image. He engages you with some historical trivia and asks you who performed this procedure first. What would your answer be?",
+    "options": ["John Lundy", "August Bier", "Carl Koller", "Oliver Wendell"],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_history_ethics/q2_spinal_anaesthesia.jpg",
+
+    "explanation": "The procedure shown in the above picture is spinal anesthesia.\n\nThe first case of spinal anesthesia in humans was performed by August Bier in 1898. He performed spinal anesthesia using the local anesthetic cocaine.\n\nSpinal anesthesia involves the administration of a local anesthetic into the spinal subarachnoid space to provide motor and sensory blockade. Another contribution by August Bier is \"Bier's block\" or IVRA (intravenous regional anesthesia).\n\nJohn Lundy coined the term balanced anesthesia.\nCarl Koller proposed local anesthetic property of cocaine.\nOliver Wendell coined the term anesthesia."
+  },
+  {
+    "q": "The prototype of the device shown in the image below was originally named after which personality?",
+    "options": ["John Lundy", "Carl Koller", "Edmund Boyle", "Oliver Wendell"],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_history_ethics/q3_boyle_machine.jpg",
+    "explanation": "The image shown above is the anesthesia workstation.\n\nThe prototype of this device is Boyle's machine which was first invented by Edmund Gaskin Boyle in 1917. Boyle's machine, which is used to provide anesthesia, has evolved over the years into anesthetic workstations, which are currently in use."
+  },
+  {
+    "q": "The term \"balanced anesthesia\" was coined by the same person who lobbied in 1939 to get anesthesia recognized as a specialty by the American Medical Association. Who is this individual?",
+    "options": ["John Lundy", "James Simpson", "Edmund Boyle", "Oliver Wendell"],
+    "answerIndex": 0,
+    "explanation": "John Lundy coined the term balanced anesthesia in 1926.\n\nHe was instrumental in the formation of the American Board of Anesthesiology and chaired the American Medical Association's Section on Anesthesiology for 17 years.\n\nBalanced anesthesia involves the use of multiple anesthetic agents and techniques to produce the different components of anesthesia, i.e.:\n• Analgesia\n• Amnesia\n• Muscle relaxation\n• Abolition of autonomic reflexes\n\nOption B: James Young Simpson introduced chloroform.\nOption C: Edmund Boyle invented the anesthetic machine.\nOption D: Oliver Wendell coined the term anesthesia."
+  },
+  {
+    "q": "Why is October 16, 1846, important in the history of anesthesia?",
+    "options": ["Demonstration of ether anesthesia", "Demonstration of nitrous oxide as anesthetic", "Discovery of local anesthetic action of cocaine", "Discovery of chloroform as anesthetic"],
+    "answerIndex": 0,
+    "explanation": "October 16th 1846 is significant due to the demonstration of ether anesthesia by William Thomas Green Morton at Ether Dome at Massachusetts General Hospital.\n\nThe first public demonstration of surgical anesthesia."
+  },
+  {
+    "q": "Who proposed the term anesthesia?",
+    "options": ["William Morton", "Oliver Wendell Holmes", "Joseph Priestley", "John Lundy"],
+    "answerIndex": 1,
+    "explanation": "Oliver Wendell Holmes in 1846 was the first to propose the term anesthesia.\n\nHe used the term anesthesia to denote “the state that incorporates amnesia, analgesia, and narcosis to make painless surgery possible”.\n\nThe term anesthesia refers to “no senses”.\n\nWilliam Morton: Introduced ether anesthesia.\nJoseph Priestley: First synthesized nitrous oxide.\nJohn Lundy: Coined the term balanced anesthesia."
+  },
+  {
+    "q": "In 1884, a paper on the local anesthetic action of cocaine in ophthalmic surgery was published and was lauded by ophthalmologists all over the world. Who proposed it?",
+    "options": ["Carl Koller", "Joseph Priestley", "Humphry Davy", "William Morton"],
+    "answerIndex": 0,
+    "explanation": "Cocaine was the first topical anesthetic and was discovered by Carl Koller in 1884.\n\nHe first introduced cocaine as topical anesthetic for ophthalmologic surgery of the cornea.\n\nJoseph Priestley: First synthesized nitrous oxide.\nHumphrey Davy: Experimented with nitrous oxide and named it laughing gas.\nWilliam Morton: Introduced ether anesthesia."
+  },
+  {
+    "q": "Who is considered the \"Father of Anesthesia\"?",
+    "options": ["William Morton", "Joseph Priestley", "August Bier", "John Snow"],
+    "answerIndex": 3,
+    "expImages": [
+      "assets/images/anes_history_ethics/q8_john_snow.jpg",
+      "assets/images/anes_history_ethics/q8_broadwick_pump.jpg"
+    ],
+    "explanation": "John Snow is the Father of Anesthesia.\n\nHe administered chloroform to Queen Victoria at the birth of her eighth son, Leopold, in 1853 and performed the same procedure when her daughter Beatrice was born in April 1857.\n\nWilliam Morton is considered the father of modern anesthesia for his public demonstration of ether anesthesia."
+  },
+  {
+    "q": "Who was the first person to synthesize nitrous oxide?",
+    "options": ["Horace Wells", "Joseph Priestley", "Humphry Davy", "William Morton"],
+    "answerIndex": 1,
+    "explanation": "Joseph Priestley first synthesized nitrous oxide in 1772.\n\nJoseph Priestley, an English chemist, is well known for his experiments and observations on different kinds of air. He is most famously known for the discovery of \"dephlogisticated air\", which was later named oxygen by Lavoisier.\n\nHumphry Davy, in 1800, first noted the analgesic properties of nitrous oxide.\nHorace Wells studied the analgesic properties of nitrous oxide and put into clinical use in 1844 for dental extraction but it was less potent than ether.\nWilliam Morton introduced ether anesthesia."
+  },
+  {
+    "q": "Passive euthanasia was recently made legal in which of the following countries?",
+    "options": ["India", "Netherlands", "Belgium", "Luxembourg"],
+    "answerIndex": 0,
+    "explanation": "Passive euthanasia is legal in India since 9 March 2018. Prior to this, it was legal only in Netherlands, Belgium, and Luxembourg.\n\nEuthanasia involves the administration of medication by someone other than the patient for the purpose of ending the patient’s life in the belief that it is best for the patient (but not necessarily at the specific request of the patient).\n\nInvoluntary euthanasia, which is done against the patient’s consent, is illegal in all countries and amounts to murder.\n\nTypes of euthanasia:\n• Active euthanasia: Direct administration of lethal substance to the patient by another party with merciful intent.\n• Passive euthanasia: Withholding or withdrawing of life-sustaining treatment either at the request of the patient or when prolonging life is considered futile.\n• Indirect euthanasia: Prescription of painkillers that may be fatal in an attempt to relieve suffering.\n• Physician-assisted suicide: A medical professional aiding a patient in terminating their life upon the patient’s request."
+  }
+]

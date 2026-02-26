@@ -1,0 +1,286 @@
+[
+  {
+    "q": "Which of the following statements is false regarding succinylcholine?",
+    "options": [
+      "It produces both phase I and phase II block",
+      "It raises intracranial pressure",
+      "Precurarization reduces fasciculations and myalgia associated with Sch",
+      "It is a non–depolarizing muscle relaxant"
+    ],
+    "answerIndex": 3,
+    "explanation": "Succinylcholine is a depolarizing muscle relaxant.\n\nOption A: It produces both phase I and phase II block (at a higher dose).\nOption B: Succinylcholine can produce a rise in intracranial pressure as a result of increased cerebral blood flow due to muscle fasciculations.\nOption C: Precurarization is the administration of a small dose of a non-depolarizing neuromuscular blocking agent, a few minutes before Sch to minimize complications like fasciculations, post-operative myalgia, rise in intragastric pressure, and rise in ICP."
+  },
+  {
+    "q": "Which is the shortest acting muscle relaxant?",
+    "options": [
+      "Vecuronium",
+      "Pancuronium",
+      "Suxamethonium",
+      "Pipecuronium"
+    ],
+    "answerIndex": 2,
+    "explanation": "Suxamethonium (succinylcholine) is the shortest-acting muscle relaxant.\nIt has a rapid-onset (30–60secs) and short duration of action (typically less than 10 min) due to rapid hydrolysis by butyrylcholinesterase (plasma cholinesterase or pseudocholinesterase)."
+  },
+  {
+    "q": "In a road traffic accident victim with a GCS of 8/15, rapid sequence intubation is planned. Which of the following muscle relaxants is used here?",
+    "options": [
+      "Atracurium",
+      "Mivacurium",
+      "Rocuronium",
+      "Succinylcholine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Succinylcholine is the muscle relaxant of choice for rapid sequence intubation. Although succinylcholine causes increase in ICP, it is used in rapid sequence intubation.\n\nSuccinylcholine has a rapid onset of action and is the shortest acting muscle relaxant. It provides muscle relaxation within 30-60 seconds.\n\nIf succinylcholine is contraindicated, then non-depolarizing muscle relaxant, rocuronium can be used."
+  },
+  {
+    "q": "Which drug produces phase II block?",
+    "options": [
+      "Atracurium",
+      "Pancuronium",
+      "D-tubocurarine",
+      "Suxamethonium"
+    ],
+    "answerIndex": 3,
+    "explanation": "Suxamethonium (also known as succinylcholine) produces both phases I and II blocks.\n\nSuxamethonium is a depolarizing muscle relaxant.\n\nMechanism of depolarizing blockade:\n• Phase I block - continuous endplate depolarization and subsequent muscle relaxation.\n• Phase II block - seen with a single, large dose, repeated doses, or a continuous infusion which can lead to desensitization of the receptors resulting in a prolonged neuromuscular blockade.\n\nPhase I block has features of a non-depolarizing blockade. But 'phase II' is specifically used for depolarizing blockade by succinylcholine."
+  },
+  {
+    "q": "Which of the following statements regarding depolarising muscle relaxants is false?",
+    "options": [
+      "Causes muscle fasciculations",
+      "Phase I block cannot be reversed by neostigmine",
+      "Depolarised muscle fibres are unresponsive to other stimuli",
+      "Fade is seen in phase I block"
+    ],
+    "answerIndex": 3,
+    "explanation": "Fade is seen in the non-depolarising phase II block caused by depolarizing muscle relaxants.\n\nDepolarising neuromuscular blockers result in prolonged depolarization with a brief period of fasciculations (repetitive excitation) followed by blocking of neuromuscular transmission and flaccid paralysis. This is termed as phase I block and cannot be reversed by neostigmine as the membrane is in a depolarised state.\n\nThe depolarised nerves are unresponsive to other stimuli during this period.\n\nAs the concentration of the drug and time increases, the block may convert slowly to a non-depolarising phase II block. Fade can be seen in this phase. The phase II block is reversible by neostigmine but is difficult to predict and usually avoided in clinical conditions."
+  },
+  {
+    "q": "A 70 kg athlete was posted for surgery of her injured rotator cuff. She was administered a total of 640mg of succinylcholine by intermittent dosing. During recovery, she was unable to respire spontaneously and move her limbs. What is the most likely reason for this?",
+    "options": [
+      "Muscular weakness due to fasciculation produced by succinylcholine",
+      "Undiagnosed muscular dystrophy and muscular weakness",
+      "Phase II blockade produced by succinylcholine",
+      "Pseudocholinesterase deficiency increasing action of succinylcholine"
+    ],
+    "answerIndex": 2,
+    "explanation": "The most likely reason which led to this scenario is phase II blockade produced by succinylcholine.\n\nPhase II block is clinically seen with the dose >5 mg/kg. It is seen with a single large dose, repeated doses, or a continuous infusion of Sch which can lead to desensitization of the receptors resulting in a prolonged neuromuscular blockade.\n\nCauses of prolonged apnea include:\n• Atypical/pseudocholinesterase deficiency - can result in apnea even with a normal dose of succinylcholine\n• Altered response of endplate to depolarizing relaxant (myasthenia gravis)\n• Accumulation of succinylcholine leading to phase II blockade\n\nNote: Although options A, B, and D can lead to prolonged apnea, in the above case scenario, the patient has received ~9 mg/kg of succinylcholine. Hence, the most probable diagnosis is phase II blockade leading to prolonged apnea."
+  },
+  {
+    "q": "The anesthetist asks you to administer succinylcholine to a patient in the OT and warns you to monitor the dose carefully to prevent the development of a phase II block. Which of the following is incorrect regarding this phase of the block?",
+    "options": [
+      "Presence of fade phenomenon",
+      "Presence of post tetanic facilitation",
+      "Preceded by muscle fasciculation",
+      "Can be reversed by cholinesterase inhibitor"
+    ],
+    "answerIndex": 2,
+    "expImages": [
+      "assets/images/anes_depolarising_muscle_relaxants/q7_eximage_1.jpg",
+      "assets/images/anes_depolarising_muscle_relaxants/q7_eximage_2.jpg"
+    ],
+    "explanation": "Phase II depolarizing block is preceded by muscle fasciculation.\n\nNote: Cholinesterase inhibitors are not routinely used to reverse phase II blockade as certain individuals have abnormal cholinesterase activity (due to genotypic variations). Their response to cholinesterase activity is unpredictable. Thus a wait and watch policy is implemented where the patient is put on a ventilator (100% O2) and observed for 24-48 hours until spontaneous reversal."
+  },
+  {
+    "q": "Which of the following skeletal muscle relaxants exhibit the following response to the 'train of four protocol' used in the clinical assessment of neuromuscular blockade?",
+    "options": [
+      "d-Tubocurarine",
+      "Mivacurium",
+      "Succinylcholine",
+      "Atracurium"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_depolarising_muscle_relaxants/q8_qimage.jpg",
+    "expImages": [
+      "assets/images/anes_depolarising_muscle_relaxants/q8_eximage_1.jpg",
+      "assets/images/anes_depolarising_muscle_relaxants/q8_eximage_2.jpg"
+    ],
+    "explanation": "Succinylcholine exhibits the above-given response to the 'train of four protocol' used in the clinical assessment of neuromuscular blockade.\n\nTrain of four protocol is one of the methods used in the clinical assessment of neuromuscular blockade. It is done by stimulating the ulnar nerve with a stimulus and watching the contractile responses in the adductor pollicis muscle.\n\nFor successive stimuli of 2Hz strength are given at fixed time intervals and the response achieved is plotted as a graph."
+  },
+  {
+    "q": "Which drug stimulates the autonomic ganglia?",
+    "options": [
+      "D-tubocurarine",
+      "Succinylcholine",
+      "Pancuronium",
+      "Vecuronium"
+    ],
+    "answerIndex": 1,
+    "explanation": "Succinylcholine stimulates the autonomic ganglia.\n• Parasympathetic ganglion (vagal ganglion) - bradycardia\n• Sympathetic ganglion - hypertension and tachycardia.\n\nPancuronium causes tachycardia by blocking the cardiac muscarinic receptor and not by stimulation of autonomic ganglia.\nD-tubocurarine blocks the autonomic ganglia. Whereas vecuronium does not act on autonomic ganglia."
+  },
+  {
+    "q": "Which of the following muscle relaxants does not require the administration of a block reversal agent following surgery?",
+    "options": [
+      "Succinylcholine",
+      "Pancuronium",
+      "Rocuronium",
+      "Vecuronium"
+    ],
+    "answerIndex": 0,
+    "explanation": "Reversal of neuromuscular blockade is usually not needed in cases where succinylcholine is used, as it is rapidly metabolized by pseudocholinesterase resulting in a short duration of action.\n\nCholinesterase inhibitors can prolong neuromuscular blockade produced by succinylcholine by increasing neuromuscular junction ACh concentration and inhibiting the pseudocholinesterase-induced metabolism of succinylcholine."
+  },
+  {
+    "q": "Which of the following adverse effects are not attributed to succinylcholine?",
+    "options": [
+      "Hypokalemia",
+      "Masseter spasm",
+      "Increased intracranial pressure",
+      "Arrhythmias"
+    ],
+    "answerIndex": 0,
+    "explanation": "Succinyl choline produces hyperkalemia not hypokalemia.\n\nUse of succinylcholine increases the plasma K+ levels by 0.5 mEq/L. This increase in K+ is well tolerated by healthy individuals but could be deleterious in patients with severe metabolic acidosis and hypovolemia."
+  },
+  {
+    "q": "While inducing anesthesia, you noticed the patient's eyelids were twitching. A few hours post-op, she complains of generalized body ache. Which muscle relaxant was likely administered to her?",
+    "options": [
+      "Atracurium",
+      "Mivacurium",
+      "Suxamethonium",
+      "Pancuronium"
+    ],
+    "answerIndex": 2,
+    "explanation": "The muscle relaxant administered was likely suxamethonium (succinylcholine). It is associated with muscle fasciculations and myalgia.\n\nAdministration of a non-depolarizing muscle relaxant like rocuronium prior to succinylcholine (precurarization) is effective in preventing fasciculations and reducing postoperative myalgias."
+  },
+  {
+    "q": "You are about to administer succinylcholine to a patient before intubating him when your senior asks you to administer a non-depolarizing muscle relaxant before doing so. He says this will prevent muscle fasciculations. Which drug do you choose for this?",
+    "options": [
+      "Pancuronium",
+      "Atracurium",
+      "Rocuronium",
+      "Vecuronium"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rocuronium is the agent of choice for precurarization.\n\nPrecurarization is the administration of a small dose (10% of ED95) of a non-depolarizing neuromuscular blocking agent, a few minutes before succinylcholine to minimize complications like fasciculations, postoperative myalgia, rise in intragastric, intraocular, and intracranial pressure.\n\nRocuronium is ideal because it has a rapid onset of action (90 seconds), which is comparable with succinylcholine and is very effective in decreasing fasciculations and postoperative myalgias."
+  },
+  {
+    "q": "Which of the following patients are not at risk of hyperkalemia from succinylcholine?",
+    "options": [
+      "Patient of muscle dystrophy",
+      "Patient with 45% burns",
+      "Patient of spinal cord injury",
+      "Patient of myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "All the given conditions except myasthenia gravis are associated with the risk of hyperkalemia from succinylcholine (SCh)\n\nIn patients with myasthenia gravis:\n• Depolarizing muscle relaxants (SCh) - resistant\n• Non-depolarizing muscle relaxants - hypersensitive\n\nAll the other options include conditions that can have preexisting hyperkalemia. Thus, the succinylcholine-induced release of potassium from skeletal muscles may lead to catastrophic hyperkalemia in these patients."
+  },
+  {
+    "q": "Which of the following adverse effects would you not expect while using succinylcholine as a muscle relaxant for a surgery being done under general anesthesia?",
+    "options": [
+      "Increased intra ocular pressure",
+      "Increased intra cranial pressure",
+      "Hyperkalemia",
+      "Decreased intragastric pressure"
+    ],
+    "answerIndex": 3,
+    "explanation": "Succinylcholine increases intragastric pressure. This is likely due to fasciculations of the abdominal skeletal muscle."
+  },
+  {
+    "q": "Which of the following conditions does not reduce the activity of butyrylcholinesterase?",
+    "options": [
+      "Liver disease",
+      "Pregnancy",
+      "Malnutrition",
+      "Renal disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "The renal disease does not affect the activity of butyrylcholinesterase.\n\nButyrylcholinesterase is the enzyme that degrades succinylcholine. It is synthesized in the liver and found in the plasma.\n\nReduced butyrylcholinesterase activity is seen in:\n• Liver disease\n• Pregnancy\n• Malnutrition\n• Old age\n• Drugs like - oral contraceptives, monoamine oxidase inhibitors, echothiophate, cytotoxic drugs, anticholinesterase drugs, and metoclopramide.\n\nDecreased butyrylcholinesterase is not a major concern in clinical practice because even a large decrease in the enzyme activity will produce only a slight increase in the duration of neuromuscular blockade."
+  },
+  {
+    "q": "Which of the following drugs potentiate the action of succinylcholine?",
+    "options": [
+      "2, 3, 4, 5",
+      "1, 3, 5",
+      "1, 2, 4",
+      "1, 2, 3, 4"
+    ],
+    "answerIndex": 3,
+    "explanation": "Calcium causes resistance to neuromuscular blockade caused by succinylcholine.\n\nNeostigmine being an anticholinesterase leads to inhibition of acetylcholinesterase. This results in a higher ACh concentration at the nerve terminal, which intensifies depolarization.\n\nNeostigmine, oral contraceptive pills (OCP), metoclopramide, and aminoglycosides (streptomycin) can potentiate the paralysis produced by succinylcholine."
+  },
+  {
+    "q": "What is the next line of management in a patient diagnosed with succinylcholine apnoea?",
+    "options": [
+      "Increase the dose of succinylcholine",
+      "Administer neostigmine",
+      "Fresh frozen plasma transfusion",
+      "Continue mechanical ventilation"
+    ],
+    "answerIndex": 3,
+    "explanation": "The mainstay in the treatment of succinylcholine apnea due to atypical pseudocholinesterase is to continue mechanical ventilation until muscle function returns to normal by clinical signs.\n\nOption B: Administration of neostigmine is controversial as the effects may be transient, possibly followed by an intensified neuromuscular blockade.\nOption C: Fresh frozen plasma can augment the patient's endogenous plasma pseudocholinesterase activity but is not recommended because of the risk of iatrogenic viral infections.\n\nNote: If human plasma cholinesterase is available, it can be given to reverse neuromuscular blockade."
+  },
+  {
+    "q": "A 5-year-old child was given intravenous succinylcholine for rapid sequence intubation at a dose of 0.5 mg/kg. During intubation, a masseteric spasm was noted. Temperature and BP were normal. What would be your first line of management?",
+    "options": [
+      "IV dantrolene",
+      "Cool the child by using cooling blanket",
+      "Stop intubation",
+      "Increase the dose of succinylcholine"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first line of management in this child would be to increase the dose of succinylcholine.\n\nThe incidence of muscle spasms without any symptoms and signs of malignant hyperthermia frequently results from an inadequate dosage of succinylcholine. Succinylcholine dosage for intubation is 1-2mg/kg.\n\nConditions to be ruled out in isolated masseteric spasm:\n• Inadequate dose of succinylcholine (less than the recommended dose of 1 mg/kg)\n• Inadequate time for the onset of succinylcholine action\n• Duchenne muscular dystrophy, myotonia congenita, and other muscle disorders\n• Temporomandibular joint dislocation\n• Confusion-buster: Although an increase in the tone of the masseter is considered to be an early indication of malignant hyperthermia, this finding is not consistently associated with it."
+  },
+  {
+    "q": "During a pre-op evaluation, a patient tells you he had been kept on a ventilator for 2 days following his previous surgery. There are similar instances in his family history. The reports from his previous surgery reveal his dibucaine number to be 20. What is this number used to assess?",
+    "options": [
+      "Concentration of butyrylcholinesterase",
+      "Concentration of acetyl cholinesterase",
+      "Genetic make up of an individual with respect to butyryl cholinesterase",
+      "Concentration of ACh receptors"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dibucaine number indicates the genetic makeup of an individual with respect to butyrylcholinesterase. It is a qualitative measure that measures pseudocholinesterase function but not the amount of enzyme.\n\nA patient with normal pseudocholinesterase has a dibucaine number of 80; whereas a homozygote for an atypical enzyme will have a dibucaine number of 20.\n\nTherefore, the adequacy of pseudocholinesterase can be determined quantitatively in units per liter - in the laboratory."
+  },
+  {
+    "q": "In a patient with a Dibucaine number of 20, which of the following drugs are to be avoided?",
+    "options": [
+      "Only 1",
+      "1 & 5",
+      "1 & 4",
+      "1, 2 & 3"
+    ],
+    "answerIndex": 2,
+    "explanation": "Succinylcholine and mivacurium are eliminated through hydrolysis by plasma cholinesterases.\n\nThus, in a patient with a low Dibucaine number, both of these drugs should be avoided. Both drugs can cause prolonged apnea in patients with atypical pseudocholinesterase.\n\nDibucaine number refers to the percentage of inhibition of pseudocholinesterase activity."
+  },
+  {
+    "q": "Which selective GABA-B receptor agonist is used as a muscle relaxant?",
+    "options": [
+      "Diazepam",
+      "Clonazepam",
+      "Flumazenil",
+      "Baclofen"
+    ],
+    "answerIndex": 3,
+    "explanation": "Baclofen is a centrally acting selective GABA-B receptor agonist used as a muscle relaxant. It hyperpolarizes neurons by increasing potassium conductance and altering calcium influx.\n\nCentrally acting muscle relaxants reduce skeletal muscle tone by a selective action in the cerebrospinal axis without altering consciousness.\n\nClassification of centrally acting muscle relaxants:\n• Mephenesin congeners - mephenesin, carisoprodol, chlorzoxazone, chlorzemanone, methocarbamol.\n• Benzodiazepines - diazepam and others.\n• GABA mimetic - baclofen, thiocolchicoside.\n• Central α2 receptor agonist - tizanidine."
+  },
+  {
+    "q": "Which of the following muscle relaxants decreases calcium release from sarcoplasmic reticulum?",
+    "options": [
+      "Succinylcholine",
+      "Dantrolene",
+      "Vecuronium",
+      "Decamethonium"
+    ],
+    "answerIndex": 1,
+    "explanation": "Calcium release from the sarcoplasmic reticulum is decreased by dantrolene.\n\nIt is a direct-acting skeletal muscle relaxant that acts on the RyR1 (ryanodine receptor) calcium channels in the sarcoplasmic reticulum of skeletal muscles and inhibits calcium-induced calcium release. It results in the uncoupling of membrane depolarization and muscle contraction.\n\nIV dantrolene is the drug of choice for malignant hyperthermia which is due to the persistent release of calcium from the sarcoplasmic reticulum."
+  },
+  {
+    "q": "You are planning to administer a non-depolarising muscle relaxant to a patient. Which of the following will you not choose?",
+    "options": [
+      "Pancuronium",
+      "Rocuronium",
+      "Suxamethonium",
+      "Vecuronium"
+    ],
+    "answerIndex": 2,
+    "explanation": "Suxamethonium or succinyl choline is a depolarizing muscle relaxant. All the other options are non-depolarising muscle relaxants and so can be chosen here."
+  },
+  {
+    "q": "A 72-year-old man with a history of a stroke 8 years prior presents with a displaced humerus fracture. He is planned for open reduction and fixation. Which muscle relaxant is to be avoided in him?",
+    "options": [
+      "Succinylcholine",
+      "Atracurium",
+      "Mivacurium",
+      "Cisatracurium"
+    ],
+    "answerIndex": 0,
+    "explanation": "Succinylcholine is avoided in patients with a history of stroke, due to the risk of hyperkalemia."
+  }
+]

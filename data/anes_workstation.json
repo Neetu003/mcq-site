@@ -1,0 +1,364 @@
+[
+  {
+    "q": "Which of the following is not a part of the high pressure section of an anesthetic workstation?",
+    "options": [
+      "Flowmeter",
+      "Oxygen cylinder",
+      "Yoke assembly",
+      "Cylinder pressure gauge"
+    ],
+    "answerIndex": 0,
+    "expImage": "assets/images/anes_workstation/q1_eximage.jpg",
+    "explanation": "Flowmeter is not a part of the high-pressure system. It is a part of the low-pressure system.\n\nComponents of the anesthesia machine can be classified into:\n\nHigh-pressure system:\n• From cylinder to pressure reducing valve.\n• Receives gases at cylinder pressure.\n• O2: ~2000 psig\n• N2O: ~750 psig\n\nIntermediate-pressure system:\n• From pressure reducing valve to the flowmeter.\n• Receives gases at pipeline pressure (~40–50 psig in many systems).\n\nLow-pressure system:\n• From flowmeter to the common gas outlet.\n• Receives gases at pressures slightly above atmospheric pressure."
+  },
+  {
+    "q": "Which of the following is the most commonly used carbon dioxide absorbent in a closed circuit?",
+    "options": [
+      "Amsorb",
+      "Sodasorb",
+      "Soda lime",
+      "Baralyme"
+    ],
+    "answerIndex": 2,
+    "explanation": "Soda lime is the most commonly used carbon dioxide absorbent in circle breathing systems."
+  },
+  {
+    "q": "How much carbon dioxide can be absorbed by 100 gm of soda lime?",
+    "options": [
+      "3 L",
+      "13 L",
+      "23 L",
+      "33 L"
+    ],
+    "answerIndex": 2,
+    "explanation": "100 gm of soda lime absorbs 23 L of carbon dioxide."
+  },
+  {
+    "q": "Which of the following statements is true regarding sodalime?\n\nStatements:\n1) 100 g of sodalime can absorb 23 liters of CO₂\n2) The end product of the reaction of soda lime with CO₂ is CaCO₃ + NaOH (+ heat + water)\n3) The major constituent of soda lime is Ca(OH)₂ - 80%\n4) Water content of sodalime is 15%\n5) KOH is one of the components of sodalime - 2%",
+    "options": [
+      "2 and 3",
+      "3 and 5",
+      "2 and 4",
+      "1 and 3"
+    ],
+    "answerIndex": 1,
+    "explanation": "Correct option: 3 and 5.\n\nStatement 1: 100 g of sodalime can absorb 23 liters of CO₂.\nStatement 2: The end product of the reaction of soda lime with CO₂ is CaCO₃ + NaOH. Reaction end products include heat (the heat of neutralization), water, calcium carbonate, and sodium hydroxide.\n\nIts reactions are as follows:\n• CO₂ + H₂O → H₂CO₃\n• H₂CO₃ + 2NaOH → Na₂CO₃ + 2H₂O + Heat (a fast reaction)\n• Na₂CO₃ + Ca(OH)₂ → CaCO₃ + 2NaOH + Heat (a slow reaction)\n\nNote that the water and sodium hydroxide initially required are regenerated.\n\nStatement 3: The major constituent of soda lime is Ca(OH)₂ - 80%.\nStatement 4: Water content of sodalime is 15%.\nStatement 5: KOH is one of the components of sodalime - 2%."
+  },
+  {
+    "q": "An anaesthetist notices that the soda lime is exhausted and requests for it to be changed. If the indicator used is ethyl violet, what would be the color change observed?",
+    "options": [
+      "Pink to white",
+      "Purple to white",
+      "White to Pink",
+      "White to Purple"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_workstation/q5_eximage.jpg",
+    "explanation": "When carbon dioxide absorbing capacity of soda lime using ethyl violet indicator is exhausted, the color changes from white to purple.\n\nSoda lime indicator dye:\n• Ethyl violet: White → Purple\n• Phenolphthalein: Colorless → Pink\n• Clayton yellow: Red → Yellow\n• Ethyl orange: Orange → Yellow\n• Mimosa: Red → White"
+  },
+  {
+    "q": "What is the action of silica when added to soda lime?",
+    "options": [
+      "Humidifying agent",
+      "Hardening agent",
+      "Catalyst",
+      "Indicator"
+    ],
+    "answerIndex": 1,
+    "explanation": "Silica in the soda lime acts as a hardening agent.\n\nIn Amsorb, polyvinylpyrrolidone is used as a hardening agent.\nNaOH and KOH serve as catalysts or activators to speed up the reaction between calcium hydroxide and carbon dioxide.\nEthyl violet is the most commonly used indicator dye in soda lime."
+  },
+  {
+    "q": "What is the ideal size of the carbon dioxide absorbent granules?",
+    "options": [
+      "1 mesh",
+      "2 mesh",
+      "3 mesh",
+      "4 mesh"
+    ],
+    "answerIndex": 3,
+    "explanation": "The ideal granule size of the carbon dioxide absorbent is between 4 and 8 mesh (1.5–5 mm).\n\nSmaller granule size favors greater area for absorption of carbon dioxide, but it offers greater airflow resistance (caking).\nConverse is true with larger granule size – the absorptive area is less but airflow resistance is minimal (channeling).\n\nSo, the ideal size is to be between 4 and 8 mesh as absorptive surface area and resistance to flow are optimized."
+  },
+  {
+    "q": "Which of the following statements is true concerning Compound A?",
+    "options": [
+      "Degradation product of desflurane",
+      "Neurotoxicity is the major concern",
+      "Less common with Amsorb absorbent",
+      "Seen predominantly with high flow techniques"
+    ],
+    "answerIndex": 2,
+    "explanation": "The true statement concerning Compound A is that its formation is less common with Amsorb absorbent.\n\nCompound A is fluoro-methyl-2,2-difluoro-1-(trifluoromethyl) vinyl ether which is the degradation product of sevoflurane, not desflurane.\n\nThe strong bases like NaOH and KOH present in absorbents (soda lime) lead to its formation. Lack of strong alkali in Amsorb makes its formation less common.\n\nCompound A is nephrotoxic, not neurotoxic.\nIt is seen predominantly with low flow anesthesia techniques and high absorbent temperatures."
+  },
+  {
+    "q": "Which of the following statements regarding baralyme is false?",
+    "options": [
+      "More efficient than soda lime",
+      "Performs better in dry climate",
+      "Less caustic than soda lime",
+      "Greater tendency to produce carbon monoxide"
+    ],
+    "answerIndex": 0,
+    "explanation": "The true statement is: Baralyme is more efficient than soda lime.\n\nBaralyme is less efficient than soda-lime as its absorptive capacity is 9–18 L of CO₂/100 g, while soda lime is 23 L of CO₂/100 g.\n\nBaralyme has the composition of calcium hydroxide and barium hydroxide (activator) and is less caustic than soda lime.\nIt gives more reliable performance in a dry environment.\nAs compared to soda lime, baralyme has a greater tendency to produce carbon monoxide."
+  },
+  {
+    "q": "An ICU patient who is dependant on oxygen support requires an MRI. What material is used to build the medical gas cylinder which can be used in this scenario?",
+    "options": [
+      "Stainless steel",
+      "Molybdenum steel",
+      "Aluminium",
+      "Hard plastic"
+    ],
+    "answerIndex": 2,
+    "explanation": "MRI compatible medical gas cylinders are made of aluminium, while most medical gas cylinders are constructed of molybdenum steel.\n\nThe cylinders are produced in various sizes designated by a capital letter code:\n• Size A is the smallest.\n• Size H is the largest.\n• Size E is the cylinder most commonly used in anesthesia machines, for patient transport, and resuscitation, followed by size D.\n• Size J is commonly used for cylinder manifold systems for central supply."
+  },
+  {
+    "q": "In order to identify an oxygen cylinder correctly, what colour would you expect the shoulder of the cylinder to be?",
+    "options": [
+      "White",
+      "Black",
+      "Blue",
+      "Yellow"
+    ],
+    "answerIndex": 0,
+    "explanation": "Colour of the shoulder of oxygen cylinder in India is white, and the body is black.\n\nMaximum pressure in the oxygen cylinder is around 2000 psig."
+  },
+  {
+    "q": "What gas is the following cylinder used to carry?",
+    "options": [
+      "Entonox",
+      "Air",
+      "Oxygen",
+      "Nitrous oxide"
+    ],
+    "answerIndex": 3,
+    "qImage": "assets/images/anes_workstation/q12_qimage.jpg",
+    "explanation": "Blue cylinders are used to store nitrous oxide.\n\nMaximum pressure in the nitrous oxide cylinder is around 745 psig.\nCritical temperature of nitrous oxide is 36.5°C, hence it is present in liquid form at room temperature."
+  },
+  {
+    "q": "During a routine evaluation of the operating room before an operation, you hear an alarm from the anesthesia workstation. Assuming it to be due to a leak from the oxygen cylinder, you immediately check the pressure gauge. What would be the maximum pressure that is normally expected in this medical gas cylinder?",
+    "options": [
+      "750 psig",
+      "1500 psig",
+      "2000 psig",
+      "2500 psig"
+    ],
+    "answerIndex": 2,
+    "explanation": "Maximum pressure in oxygen cylinder is 2000 psig (pounds per square inch gauge).\n\nMaximum pressure in E-cylinders:\n• 750 psig for nitrous oxide (liquid)\n• 2000 psig for air (gaseous)\n• 2000 psig for oxygen (gaseous)\n\nEach cylinder is passed through a high-pressure regulator, which reduces the high pressures inside the cylinder to a lower, nearly constant pressure of 45 psig, which is suitable for use in the anesthesia machine."
+  },
+  {
+    "q": "Nitrous oxide cylinder at 100%, 50%, and 25% volume respectively would show the pressure (in PSI) of",
+    "options": [
+      "750, 750, 750",
+      "2200, 2200, 2200",
+      "750, 375, 162.5",
+      "2200, 1100, 550"
+    ],
+    "answerIndex": 0,
+    "expImages": [
+      "assets/images/anes_workstation/q14_eximage_1.jpg",
+      "assets/images/anes_workstation/q14_eximage_2.jpg"
+    ],
+    "explanation": "Nitrous oxide cylinder at 100%, 50%, and 25% volume would show 750, 750, 750 PSI respectively.\n\nThis is because N₂O (and CO₂) are stored in the cylinder as a liquid under the pressure of ~750 psi at room temperature. Hence, N₂O gauge will read 750 as long as there is liquid in the tank. After the liquid is exhausted, the pressure falls until the cylinder is exhausted.\n\nN₂O pressure gauge reading at full, half, one-fourth and empty cylinder.\nThe contents of N₂O cylinders can be accurately measured by weighing the cylinders rather than by pressure gauge.\nTo measure the content, the weight of an empty cylinder, known as Tare weight, is subtracted from the actual weight of the cylinder.\n\n(For contrast: O₂ is a non-liquefied gas; its pressure gauge decreases as contents are used. Oxygen pressure gauge would read about 2200, 1100, and 550 psi at 100%, 50%, and 25% contents respectively.)"
+  },
+  {
+    "q": "Identify the gas cylinder based on the pin index shown.",
+    "options": [
+      "Oxygen",
+      "Air",
+      "Nitrous oxide",
+      "Entonox"
+    ],
+    "answerIndex": 2,
+    "qImage": "assets/images/anes_workstation/q15_qimage.jpg",
+    "explanation": "The given image shows the Pin index system (3,5) of nitrous oxide.\n\nPin index system (PISS) is a safety measure to prevent incorrect cylinder attachment.\n• Each gas cylinder has two holes (except entonox) in its cylinder valve that fits the corresponding pins in the yoke of the anesthesia machine.\n• The relative positioning of the pins and holes is unique for each gas which constitutes the pin index system.\n• The PISS should only be considered as partial protection because pin index failures have been reported due to bent or broken pins."
+  },
+  {
+    "q": "An overworked OT technician brings an oxygen gas cylinder instead of an air cylinder to the theater. However, he realizes his mistake when he is unable to attach it to the hanger-yoke assembly because of the Pin index safety system. What would be the Pin index of the cylinder he is holding?",
+    "options": [
+      "2, 5",
+      "1, 5",
+      "3, 5",
+      "7"
+    ],
+    "answerIndex": 0,
+    "qImage": "assets/images/anes_workstation/q16_qimage.jpg",
+    "explanation": "Pin index system for oxygen gas is 2,5.\n\nPin index system (PISS) is a safety measure to prevent incorrect cylinder attachment."
+  },
+  {
+    "q": "What is the normal hospital pipeline supply of air?",
+    "options": [
+      "60 psig",
+      "100 psig",
+      "600 psig",
+      "2000 psig"
+    ],
+    "answerIndex": 0,
+    "explanation": "The normal hospital pipeline supply pressure of all gases in India is 60 psig.\n\nThe hospital pipeline supply is the primary source of all gases. 2000 psig of oxygen cylinder, which is a part of the high pressure system, is regulated to 45 psig after it enters the anesthesia workstation.\n\nThe regulated cylinder pressure is 45 psig which is less than that of pipeline pressure."
+  },
+  {
+    "q": "Which of the following is prevented by the Diameter Index safety system?",
+    "options": [
+      "Contamination of the anesthetic environment",
+      "Delivery of hypoxic gases",
+      "Incorrect cylinder attachment",
+      "Incorrect pipeline attachment"
+    ],
+    "answerIndex": 3,
+    "expImage": "assets/images/anes_workstation/q18_eximage.jpg",
+    "explanation": "The Diameter Index Safety System (DISS) prevents incorrect pipeline attachment.\n\nDISS is a safety feature in the modern anesthesia workstation. DISS connectors have unique diameters for each type of gas to prevent wrong pipeline attachment to the wrong inlet.\n\nIncorrect cylinder attachment (not pipeline) is prevented by Pin Index Safety System.\nContamination of the anesthetic environment by waste gases is prevented by Scavenging system.\nDelivery of hypoxic gases is prevented by Oxygen failure safety device (shut-off or proportionating device)."
+  },
+  {
+    "q": "The blue pipeline in the operation theatre is used for delivering which of the following gases?",
+    "options": [
+      "Oxygen",
+      "Nitrous oxide",
+      "Air",
+      "Vacuum"
+    ],
+    "answerIndex": 1,
+    "explanation": "The blue pipeline in operation theatre is for nitrous oxide.\n\nOther options:\n• Oxygen: White\n• Air: Black\n• Vacuum/Central suction: Yellow"
+  },
+  {
+    "q": "In a flowmeter sequence, which of the following cylinders is placed downstream?",
+    "options": [
+      "Nitrous oxide",
+      "Oxygen",
+      "Air",
+      "Any cylinder"
+    ],
+    "answerIndex": 1,
+    "expImage": "assets/images/anes_workstation/q20_eximage.jpg",
+    "explanation": "The oxygen flowmeter is located downstream of the other flowmeters. This is to avoid the generation of a hypoxic mixture in the event of any air leak.\n\nIn the first two images, A and B, the nitrous oxide flowmeter is located downstream and there is a leak in the airflow tube. Through this leak, most of the oxygen passes out and mainly nitrous oxide is provided at the outlet leading to the production of a hypoxic mixture.\n\nBut in the other two images, C and D, the oxygen flowmeter is located downstream. Through the leak in the airflow tube, some of the nitrous oxide passes out and the remaining passes out through the outlet with the oxygen. Thus the production of a hypoxic mixture is less likely if oxygen flowmeter is placed downstream."
+  },
+  {
+    "q": "What is another name for the flow tubes used in rotameters?",
+    "options": [
+      "Bornholm tubes",
+      "Pascal tubes",
+      "Thorpe tubes",
+      "Morton tubes"
+    ],
+    "answerIndex": 2,
+    "expImage": "assets/images/anes_workstation/q21_eximage.jpg",
+    "explanation": "The flow tubes used in rotameters are also called Thorpe tubes.\n\nKey points on Flowmeter:\n• Flowmeters are part of the low-pressure anesthetic gas supply system.\n• The knobs are part of the intermediate pressure system and are textured for easy identification.\n• Rotameters are variable orifice (area) constant pressure flowmeter.\n• Thorpe tubes are made of tapered glass tube, the bottom has a smaller diameter than the top.\n• The indicator is known as bobbin or float. Rotating float indicates the flow of gas.\n• The interior of the tube is coated with a conductive substance (gold or tin oxide) in order to reduce the effect of static electricity."
+  },
+  {
+    "q": "Read the flow rate of the oxygen depicted in the flow meter.",
+    "options": [
+      "2 L",
+      "3 L",
+      "2.25 L",
+      "2.75 L"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_workstation/q22_qimage.jpg",
+    "expImage": "assets/images/anes_workstation/q22_eximage.jpg",
+    "explanation": "The flow rate of oxygen in the given image is 3 L.\n\nThe indicator present in the Rotameter (Flow meter) is known as Bobbin or Float.\nThe flows are read from the top end of the bobbin.\nSome rotameters have ball indicator. Here, the reading is taken from the center of the ball."
+  },
+  {
+    "q": "The Heidbrink meter in Boyle's machine",
+    "options": [
+      "Reduces pressure of gases",
+      "Is a fixed orifice meter",
+      "Indicates flow of gases",
+      "Indicates humidity of gases"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Heidbrink meter in Boyle’s machine indicates the flow of gases.\n\nHeidbrink is a type of flow meter, which was used in the past."
+  },
+  {
+    "q": "Which of the following combinations is incorrect regarding the vaporizers of the anaesthesia workstation?",
+    "options": [
+      "Enflurane - Green",
+      "Halothane - Red",
+      "Isoflurane - Purple",
+      "Sevoflurane - Yellow"
+    ],
+    "answerIndex": 0,
+    "explanation": "Enflurane vaporizers are orange in color, not green."
+  },
+  {
+    "q": "You notice this specialized vaporizer being used in the OT. Which of the following gases would you expect it to contain?",
+    "options": [
+      "Desflurane",
+      "Sevoflurane",
+      "Halothane",
+      "Isoflurane"
+    ],
+    "answerIndex": 0,
+    "qImage": "assets/images/anes_workstation/q25_qimage.jpg",
+    "explanation": "The image shows a specialized vaporizer Tec 6. Because of high vapor pressure (660 mmHg at 20°C) and low boiling point (22.8°C – room temperature), Desflurane requires this specialized vaporizer for its delivery.\n\nAnesthetic gas with the highest vapor pressure is Desflurane.\n\nOther salient features of Desflurane:\n• High saturated vapor pressure which is 3–4 times the other agents\n• Low boiling point\n• Low blood-gas solubility (0.42) resulting in rapid uptake and recovery\n• High MAC value of 6, indicating low potency\n• Requires specialized vaporiser such as Tec 6\n• Color coding of Desflurane – Blue\n• Undergoes minimal metabolism\n• Degraded into CO by the desiccated CO₂ absorbent"
+  },
+  {
+    "q": "What is the maximum pressure allowed in an anesthesia reservoir bag?",
+    "options": [
+      "20 cm H₂O",
+      "40 cm H₂O",
+      "60 cm H₂O",
+      "100 cm H₂O"
+    ],
+    "answerIndex": 2,
+    "expImage": "assets/images/anes_workstation/q26_eximage.jpg",
+    "explanation": "The maximum pressure allowed in an anesthesia reservoir bag is 60 cm H₂O.\n\nThe reservoir bag serves as a reservoir for inhaled excess fresh gas and helps to generate positive pressure ventilation.\n\nIt is most commonly placed between the expiratory unidirectional valve and the CO₂ absorber.\nThe minimum allowed pressure is 30 cm H₂O."
+  },
+  {
+    "q": "In a patient with a tracheostomy, you notice the following device is used in addition to the breathing circuit. Which of the following statements is false concerning this device?",
+    "options": [
+      "Conserves heat",
+      "Active humidifier",
+      "Artificial nose",
+      "Filters bacteria"
+    ],
+    "answerIndex": 1,
+    "qImage": "assets/images/anes_workstation/q27_qimage_1.jpg",
+    "expImages": [
+      "assets/images/anes_workstation/q27_eximage_1.jpg",
+      "assets/images/anes_workstation/q27_eximage_2.jpg"
+    ],
+    "explanation": "Heat and moisture exchanger (HME) is a passive humidifier, not active.\n\nThe natural humidification and conservation of heat by the upper respiratory tract is lost or bypassed after tracheal intubation or tracheostomy.\nHME acts as an artificial nose, which traps the exhaled water vapor and heat passively by its hygroscopic material, and thus conserves heat and adds moisture to the inhaled gases.\n\nActive humidifiers act by allowing air passage inside a heated water reservoir. These devices are placed in the inspiratory limb of the ventilator circuit, proximal to the ventilator. After the air is loaded with water vapor in the reservoir, it travels along the inspiratory limb to the patient’s airway.\n\nSome humidifiers also serve as filters to trap bacteria/viruses and thus prevent the transmission of microbes from the patient to the machine and hence to other patients.\n\nThe disadvantage with the humidifier is that excess saturation can lead to blockage of the circuit.\n\nFalse statement: Active humidifier."
+  },
+  {
+    "q": "Which anesthetic breathing system has the maximum ability to scavenge exhaled gases?",
+    "options": [
+      "Insufflation",
+      "Open drop",
+      "Mapleson",
+      "Circle"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ability to scavenge exhaled gases is maximum with circle system (Circle > Mapleson > Open).\n\nScavenging is the process of removal of waste anesthetic gases from the anesthesia machine and the anesthetizing location (operation theatre), thus minimizing operating room pollution."
+  },
+  {
+    "q": "The end product of the reaction of soda lime with CO₂ is",
+    "options": [
+      "Na₂CO₃ + H₂O",
+      "H₂CO₃ + NaOH",
+      "Ca(OH)₂ + Na₂CO₃",
+      "CaCO₃ + NaOH"
+    ],
+    "answerIndex": 3,
+    "explanation": "The end product of the reaction of soda lime with CO₂ is CaCO₃ + NaOH.\n\nCO₂ absorbents contain hydroxide salts that are capable of neutralizing the carbonic acid.\nReaction end products include heat (the heat of neutralization), water, calcium carbonate, and sodium hydroxide.\n\nIts reactions are as follows:\n• CO₂ + H₂O → H₂CO₃\n• H₂CO₃ + 2NaOH → Na₂CO₃ + 2H₂O + Heat (a fast reaction)\n• Na₂CO₃ + Ca(OH)₂ → CaCO₃ + 2NaOH + Heat (a slow reaction)\n\nNote that the water and sodium hydroxide initially required are regenerated."
+  },
+  {
+    "q": "Water content of soda lime is _______.",
+    "options": [
+      "0%",
+      "5%",
+      "10%",
+      "15%"
+    ],
+    "answerIndex": 3,
+    "explanation": "The water content of soda lime is 15%.\n\nDry CO₂ absorbent (Baralyme > Sodalime) can produce carbon monoxide.\nThe magnitude of CO production from greatest to least: Desflurane > Enflurane > Isoflurane > Halothane = Sevoflurane."
+  },
+  {
+    "q": "Laminar flow mainly depends on:",
+    "options": [
+      "Viscosity",
+      "Density",
+      "Solubility",
+      "Molecular weight"
+    ],
+    "answerIndex": 0,
+    "explanation": "Laminar flow mainly depends on the viscosity of gas while turbulent flow is more dependent on density.\n\nThe transition between laminar and turbulent flow is given by Reynold's number.\nRe = ρvD/η\n(ρ – density of the fluid, v – velocity of the fluid, D – diameter of the tube, η – viscosity.)\n\nA Reynold’s number < 2000 – laminar flow; > 4000 – turbulent flow."
+  }
+]
